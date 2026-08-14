@@ -51,12 +51,68 @@
         <span><i class="zone-dot zone-strong"></i>выше 50% · высокий</span>
       </section>
 
-      <nav class="mode-nav reveal" style="--i: 3" aria-label="Перейти к типу сеансов">
+      <section class="filters reveal" style="--i: 3" aria-labelledby="filters-title">
+        <div class="filters__heading">
+          <div>
+            <span>Срез отчёта</span>
+            <h2 id="filters-title">Фильтры</h2>
+          </div>
+          <strong id="filter-result" aria-live="polite">—</strong>
+        </div>
+        <div class="filters__grid">
+          <label class="filter-field filter-field--wide">
+            <span>Кинотеатр</span>
+            <select class="filter-control" id="filter-cinema">
+              <option value="">Все кинотеатры</option>
+            </select>
+          </label>
+          <label class="filter-field">
+            <span>Дата</span>
+            <select class="filter-control" id="filter-date">
+              <option value="">Все даты</option>
+            </select>
+          </label>
+          <label class="filter-field">
+            <span>Заполненность</span>
+            <select class="filter-control" id="filter-occupancy">
+              <option value="">Любая</option>
+              <option value="critical">До 5%</option>
+              <option value="low">5,1–25%</option>
+              <option value="medium">25,1–50%</option>
+              <option value="strong">Выше 50%</option>
+              <option value="full">Ровно 100%</option>
+            </select>
+          </label>
+          <label class="filter-field">
+            <span>Состояние</span>
+            <select class="filter-control" id="filter-state">
+              <option value="all">Все сеансы</option>
+              <option value="upcoming">Предстоящие</option>
+              <option value="past">Прошедшие</option>
+            </select>
+          </label>
+          <label class="filter-field">
+            <span>Сортировка</span>
+            <select class="filter-control" id="filter-sort">
+              <option value="weakest">Минимальный выкуп</option>
+              <option value="strongest">Максимальный выкуп</option>
+              <option value="time">По времени</option>
+            </select>
+          </label>
+          <label class="filter-field filter-field--search">
+            <span>Зал или № сеанса</span>
+            <input class="filter-control" id="filter-search" type="search" placeholder="Например, VIP или 397497">
+          </label>
+          <button class="filters__reset" id="filter-reset" type="button">Сбросить</button>
+        </div>
+      </section>
+
+      <nav class="mode-nav reveal" style="--i: 4" aria-label="Перейти к типу сеансов">
         <a class="mode-nav__upcoming" href="#upcoming-section">Предстоящие <strong id="upcoming-nav-count">—</strong></a>
         <a class="mode-nav__past" href="#past-section">Прошедшие <strong id="past-nav-count">—</strong></a>
       </nav>
 
-      <section class="show-stage show-stage--upcoming reveal" id="upcoming-section" style="--i: 4" aria-labelledby="upcoming-title">
+      <section class="show-stage show-stage--upcoming reveal" id="upcoming-section" style="--i: 5" aria-labelledby="upcoming-title">
         <header class="stage-heading">
           <div>
             <span class="stage-state"><i aria-hidden="true"></i>Продажи идут</span>
@@ -67,7 +123,7 @@
         <div class="show-table" id="upcoming-list" aria-live="polite"></div>
       </section>
 
-      <section class="show-stage show-stage--past reveal" id="past-section" style="--i: 5" aria-labelledby="past-title">
+      <section class="show-stage show-stage--past reveal" id="past-section" style="--i: 6" aria-labelledby="past-title">
         <header class="stage-heading">
           <div>
             <span class="stage-state">Архив проката</span>
