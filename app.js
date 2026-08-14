@@ -166,6 +166,14 @@ function fillSelect(select, options) {
   });
 }
 
+function setFiltersCollapsed(collapsed) {
+  const panel = document.querySelector(".filters");
+  const toggle = $("filter-toggle");
+  panel.classList.toggle("is-collapsed", collapsed);
+  toggle.setAttribute("aria-expanded", String(!collapsed));
+  toggle.textContent = collapsed ? "Развернуть" : "Свернуть";
+}
+
 function setupFilters(data) {
   const cinemas = [...new Set(data.shows.map((show) => show.cinema).filter(Boolean))].sort((a, b) => a.localeCompare(b, "ru"));
   fillSelect($("filter-cinema"), cinemas.map((cinema) => ({ value: cinema, label: cinema })));
@@ -182,6 +190,10 @@ function setupFilters(data) {
     $("filter-search").value = "";
     renderReport();
   });
+  $("filter-toggle").addEventListener("click", () => {
+    setFiltersCollapsed(!document.querySelector(".filters").classList.contains("is-collapsed"));
+  });
+  setFiltersCollapsed(window.matchMedia("(max-width: 40rem)").matches);
   document.querySelectorAll(".mode-nav a").forEach((link) => link.addEventListener("click", () => {
     $("filter-state").value = link.classList.contains("mode-nav__past") ? "past" : "upcoming";
     renderReport();

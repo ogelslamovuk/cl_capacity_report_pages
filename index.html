@@ -57,9 +57,12 @@
             <span>Срез отчёта</span>
             <h2 id="filters-title">Фильтры</h2>
           </div>
-          <strong id="filter-result" aria-live="polite">—</strong>
+          <div class="filters__status">
+            <strong id="filter-result" aria-live="polite">—</strong>
+            <button class="filters__toggle" id="filter-toggle" type="button" aria-expanded="true" aria-controls="filters-grid">Свернуть</button>
+          </div>
         </div>
-        <div class="filters__grid">
+        <div class="filters__grid" id="filters-grid">
           <label class="filter-field filter-field--wide">
             <span>Кинотеатр</span>
             <select class="filter-control" id="filter-cinema">
