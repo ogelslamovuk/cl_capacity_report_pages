@@ -1,10 +1,10 @@
 {
   "meta": {
-    "generated_at": "2026-08-14T12:57:14+03:00",
+    "generated_at": "2026-08-14T14:25:34+03:00",
     "timezone": "Europe/Minsk",
     "report_from": "2026-08-12",
     "report_to_exclusive": "2026-10-01",
-    "show_count": 343
+    "show_count": 348
   },
   "event": {
     "id": 4480,
@@ -17,8 +17,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 6 VIP",
       "capacity": 44,
-      "ticket_sold": 28,
-      "sold_percent": 63.6
+      "ticket_sold": 44,
+      "sold_percent": 100.0
     },
     {
       "show_id": 397028,
@@ -26,8 +26,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 1 Premiere",
       "capacity": 231,
-      "ticket_sold": 119,
-      "sold_percent": 51.5
+      "ticket_sold": 135,
+      "sold_percent": 58.4
     },
     {
       "show_id": 397502,
@@ -35,8 +35,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 1 Premiere",
       "capacity": 269,
-      "ticket_sold": 138,
-      "sold_percent": 51.3
+      "ticket_sold": 175,
+      "sold_percent": 65.1
     },
     {
       "show_id": 397359,
@@ -44,8 +44,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 7 Visa Premiere",
       "capacity": 247,
-      "ticket_sold": 105,
-      "sold_percent": 42.5
+      "ticket_sold": 119,
+      "sold_percent": 48.2
     },
     {
       "show_id": 397266,
@@ -53,8 +53,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 2",
       "capacity": 125,
-      "ticket_sold": 48,
-      "sold_percent": 38.4
+      "ticket_sold": 56,
+      "sold_percent": 44.8
     },
     {
       "show_id": 397335,
@@ -62,8 +62,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 3 VIP",
       "capacity": 50,
-      "ticket_sold": 30,
-      "sold_percent": 60.0
+      "ticket_sold": 50,
+      "sold_percent": 100.0
     },
     {
       "show_id": 398177,
@@ -71,8 +71,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 2 Lounge",
       "capacity": 60,
-      "ticket_sold": 11,
-      "sold_percent": 18.3
+      "ticket_sold": 17,
+      "sold_percent": 28.3
     },
     {
       "show_id": 396946,
@@ -80,8 +80,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 1 Kids",
       "capacity": 260,
-      "ticket_sold": 49,
-      "sold_percent": 18.8
+      "ticket_sold": 92,
+      "sold_percent": 35.4
     },
     {
       "show_id": 397259,
@@ -89,8 +89,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 6",
       "capacity": 143,
-      "ticket_sold": 29,
-      "sold_percent": 20.3
+      "ticket_sold": 37,
+      "sold_percent": 25.9
     },
     {
       "show_id": 397258,
@@ -98,8 +98,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 5",
       "capacity": 143,
-      "ticket_sold": 44,
-      "sold_percent": 30.8
+      "ticket_sold": 51,
+      "sold_percent": 35.7
     },
     {
       "show_id": 397036,
@@ -107,8 +107,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 2",
       "capacity": 131,
-      "ticket_sold": 118,
-      "sold_percent": 90.1
+      "ticket_sold": 130,
+      "sold_percent": 99.2
     },
     {
       "show_id": 397582,
@@ -116,8 +116,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 3 Premiere",
       "capacity": 265,
-      "ticket_sold": 196,
-      "sold_percent": 74.0
+      "ticket_sold": 234,
+      "sold_percent": 88.3
     },
     {
       "show_id": 397325,
@@ -125,8 +125,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 1 mooon IMAX",
       "capacity": 330,
-      "ticket_sold": 245,
-      "sold_percent": 74.2
+      "ticket_sold": 278,
+      "sold_percent": 84.2
     },
     {
       "show_id": 397029,
@@ -134,8 +134,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 1 Premiere",
       "capacity": 231,
-      "ticket_sold": 208,
-      "sold_percent": 90.0
+      "ticket_sold": 230,
+      "sold_percent": 99.6
     },
     {
       "show_id": 397267,
@@ -143,8 +143,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 2",
       "capacity": 125,
-      "ticket_sold": 80,
-      "sold_percent": 64.0
+      "ticket_sold": 90,
+      "sold_percent": 72.0
     },
     {
       "show_id": 397350,
@@ -152,8 +152,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 5 mooon+",
       "capacity": 116,
-      "ticket_sold": 68,
-      "sold_percent": 58.6
+      "ticket_sold": 116,
+      "sold_percent": 100.0
     },
     {
       "show_id": 397042,
@@ -161,8 +161,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 3 Screen X",
       "capacity": 204,
-      "ticket_sold": 183,
-      "sold_percent": 89.7
+      "ticket_sold": 201,
+      "sold_percent": 98.5
     },
     {
       "show_id": 397260,
@@ -170,8 +170,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 6",
       "capacity": 143,
-      "ticket_sold": 120,
-      "sold_percent": 83.9
+      "ticket_sold": 132,
+      "sold_percent": 92.3
     },
     {
       "show_id": 397346,
@@ -179,8 +179,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 4 Resto Minges",
       "capacity": 76,
-      "ticket_sold": 60,
-      "sold_percent": 78.9
+      "ticket_sold": 76,
+      "sold_percent": 100.0
     },
     {
       "show_id": 397515,
@@ -188,8 +188,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 3 mooon+",
       "capacity": 156,
-      "ticket_sold": 94,
-      "sold_percent": 60.3
+      "ticket_sold": 156,
+      "sold_percent": 100.0
     },
     {
       "show_id": 397583,
@@ -197,8 +197,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 3 Premiere",
       "capacity": 265,
-      "ticket_sold": 208,
-      "sold_percent": 78.5
+      "ticket_sold": 252,
+      "sold_percent": 95.1
     },
     {
       "show_id": 397509,
@@ -206,8 +206,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 2 Lounge",
       "capacity": 60,
-      "ticket_sold": 33,
-      "sold_percent": 55.0
+      "ticket_sold": 56,
+      "sold_percent": 93.3
     },
     {
       "show_id": 396940,
@@ -215,8 +215,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 1 Kids",
       "capacity": 260,
-      "ticket_sold": 121,
-      "sold_percent": 46.5
+      "ticket_sold": 245,
+      "sold_percent": 94.2
     },
     {
       "show_id": 397027,
@@ -224,8 +224,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 1 Premiere",
       "capacity": 231,
-      "ticket_sold": 207,
-      "sold_percent": 89.6
+      "ticket_sold": 229,
+      "sold_percent": 99.1
     },
     {
       "show_id": 397268,
@@ -233,8 +233,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 2",
       "capacity": 125,
-      "ticket_sold": 113,
-      "sold_percent": 90.4
+      "ticket_sold": 125,
+      "sold_percent": 100.0
     },
     {
       "show_id": 397070,
@@ -242,8 +242,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 7 VIP",
       "capacity": 48,
-      "ticket_sold": 31,
-      "sold_percent": 64.6
+      "ticket_sold": 47,
+      "sold_percent": 97.9
     },
     {
       "show_id": 397361,
@@ -251,8 +251,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 7 Visa Premiere",
       "capacity": 247,
-      "ticket_sold": 225,
-      "sold_percent": 91.1
+      "ticket_sold": 243,
+      "sold_percent": 98.4
     },
     {
       "show_id": 397261,
@@ -260,8 +260,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 6",
       "capacity": 143,
-      "ticket_sold": 129,
-      "sold_percent": 90.2
+      "ticket_sold": 141,
+      "sold_percent": 98.6
     },
     {
       "show_id": 397035,
@@ -269,8 +269,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 2",
       "capacity": 131,
-      "ticket_sold": 118,
-      "sold_percent": 90.1
+      "ticket_sold": 130,
+      "sold_percent": 99.2
     },
     {
       "show_id": 397356,
@@ -278,8 +278,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 6 Kids",
       "capacity": 82,
-      "ticket_sold": 64,
-      "sold_percent": 78.0
+      "ticket_sold": 82,
+      "sold_percent": 100.0
     },
     {
       "show_id": 398218,
@@ -287,8 +287,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 3",
       "capacity": 108,
-      "ticket_sold": 94,
-      "sold_percent": 87.0
+      "ticket_sold": 108,
+      "sold_percent": 100.0
     },
     {
       "show_id": 397333,
@@ -296,8 +296,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 2 Vegas",
       "capacity": 36,
-      "ticket_sold": 18,
-      "sold_percent": 50.0
+      "ticket_sold": 36,
+      "sold_percent": 100.0
     },
     {
       "show_id": 397516,
@@ -305,8 +305,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 3 mooon+",
       "capacity": 156,
-      "ticket_sold": 93,
-      "sold_percent": 59.6
+      "ticket_sold": 154,
+      "sold_percent": 98.7
     },
     {
       "show_id": 396947,
@@ -314,8 +314,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 5 VIP",
       "capacity": 49,
-      "ticket_sold": 40,
-      "sold_percent": 81.6
+      "ticket_sold": 49,
+      "sold_percent": 100.0
     },
     {
       "show_id": 397269,
@@ -323,8 +323,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 2",
       "capacity": 125,
-      "ticket_sold": 112,
-      "sold_percent": 89.6
+      "ticket_sold": 123,
+      "sold_percent": 98.4
     },
     {
       "show_id": 396939,
@@ -332,8 +332,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 1 Kids",
       "capacity": 260,
-      "ticket_sold": 127,
-      "sold_percent": 48.8
+      "ticket_sold": 257,
+      "sold_percent": 98.8
     },
     {
       "show_id": 397026,
@@ -341,8 +341,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 1 Premiere",
       "capacity": 231,
-      "ticket_sold": 207,
-      "sold_percent": 89.6
+      "ticket_sold": 229,
+      "sold_percent": 99.1
     },
     {
       "show_id": 397063,
@@ -350,8 +350,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 6 VIP",
       "capacity": 44,
-      "ticket_sold": 28,
-      "sold_percent": 63.6
+      "ticket_sold": 44,
+      "sold_percent": 100.0
     },
     {
       "show_id": 397071,
@@ -359,8 +359,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 7 VIP",
       "capacity": 48,
-      "ticket_sold": 32,
-      "sold_percent": 66.7
+      "ticket_sold": 48,
+      "sold_percent": 100.0
     },
     {
       "show_id": 397252,
@@ -368,8 +368,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 4",
       "capacity": 124,
-      "ticket_sold": 111,
-      "sold_percent": 89.5
+      "ticket_sold": 123,
+      "sold_percent": 99.2
     },
     {
       "show_id": 397326,
@@ -377,8 +377,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 1 mooon IMAX",
       "capacity": 330,
-      "ticket_sold": 291,
-      "sold_percent": 88.2
+      "ticket_sold": 326,
+      "sold_percent": 98.8
     },
     {
       "show_id": 397366,
@@ -386,8 +386,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 3 VIP",
       "capacity": 50,
-      "ticket_sold": 30,
-      "sold_percent": 60.0
+      "ticket_sold": 50,
+      "sold_percent": 100.0
     },
     {
       "show_id": 398159,
@@ -395,8 +395,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 4 Lounge",
       "capacity": 70,
-      "ticket_sold": 35,
-      "sold_percent": 50.0
+      "ticket_sold": 70,
+      "sold_percent": 100.0
     },
     {
       "show_id": 397499,
@@ -404,8 +404,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 1 Premiere",
       "capacity": 269,
-      "ticket_sold": 218,
-      "sold_percent": 81.0
+      "ticket_sold": 265,
+      "sold_percent": 98.5
     },
     {
       "show_id": 398179,
@@ -413,8 +413,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 2 Classic",
       "capacity": 104,
-      "ticket_sold": 97,
-      "sold_percent": 93.3
+      "ticket_sold": 104,
+      "sold_percent": 100.0
     },
     {
       "show_id": 398165,
@@ -422,8 +422,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 4 Resto Minges",
       "capacity": 76,
-      "ticket_sold": 60,
-      "sold_percent": 78.9
+      "ticket_sold": 76,
+      "sold_percent": 100.0
     },
     {
       "show_id": 398178,
@@ -431,8 +431,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 2",
       "capacity": 131,
-      "ticket_sold": 118,
-      "sold_percent": 90.1
+      "ticket_sold": 130,
+      "sold_percent": 99.2
     },
     {
       "show_id": 396871,
@@ -440,8 +440,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 1 Premiere",
       "capacity": 269,
-      "ticket_sold": 104,
-      "sold_percent": 38.7
+      "ticket_sold": 124,
+      "sold_percent": 46.1
     },
     {
       "show_id": 397080,
@@ -449,8 +449,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 1 Premiere",
       "capacity": 231,
-      "ticket_sold": 155,
-      "sold_percent": 67.1
+      "ticket_sold": 174,
+      "sold_percent": 75.3
     },
     {
       "show_id": 396844,
@@ -458,8 +458,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 7 Visa Premiere",
       "capacity": 247,
-      "ticket_sold": 115,
-      "sold_percent": 46.6
+      "ticket_sold": 128,
+      "sold_percent": 51.8
     },
     {
       "show_id": 397270,
@@ -467,8 +467,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 2",
       "capacity": 125,
-      "ticket_sold": 40,
-      "sold_percent": 32.0
+      "ticket_sold": 42,
+      "sold_percent": 33.6
     },
     {
       "show_id": 396848,
@@ -476,8 +476,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 3 VIP",
       "capacity": 50,
-      "ticket_sold": 30,
-      "sold_percent": 60.0
+      "ticket_sold": 50,
+      "sold_percent": 100.0
     },
     {
       "show_id": 398176,
@@ -485,8 +485,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 2 Lounge",
       "capacity": 60,
-      "ticket_sold": 34,
-      "sold_percent": 56.7
+      "ticket_sold": 54,
+      "sold_percent": 90.0
     },
     {
       "show_id": 397529,
@@ -494,8 +494,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 1 Kids",
       "capacity": 260,
-      "ticket_sold": 43,
-      "sold_percent": 16.5
+      "ticket_sold": 81,
+      "sold_percent": 31.2
     },
     {
       "show_id": 398194,
@@ -503,8 +503,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 3",
       "capacity": 108,
-      "ticket_sold": 28,
-      "sold_percent": 25.9
+      "ticket_sold": 33,
+      "sold_percent": 30.6
     },
     {
       "show_id": 396891,
@@ -512,8 +512,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 6",
       "capacity": 143,
-      "ticket_sold": 24,
-      "sold_percent": 16.8
+      "ticket_sold": 35,
+      "sold_percent": 24.5
     },
     {
       "show_id": 396932,
@@ -521,8 +521,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 5",
       "capacity": 143,
-      "ticket_sold": 41,
-      "sold_percent": 28.7
+      "ticket_sold": 52,
+      "sold_percent": 36.4
     },
     {
       "show_id": 396836,
@@ -530,8 +530,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 1 mooon IMAX",
       "capacity": 330,
-      "ticket_sold": 202,
-      "sold_percent": 61.2
+      "ticket_sold": 250,
+      "sold_percent": 75.8
     },
     {
       "show_id": 397552,
@@ -539,8 +539,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 3 Premiere",
       "capacity": 265,
-      "ticket_sold": 153,
-      "sold_percent": 57.7
+      "ticket_sold": 207,
+      "sold_percent": 78.1
     },
     {
       "show_id": 397081,
@@ -548,8 +548,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 1 Premiere",
       "capacity": 231,
-      "ticket_sold": 177,
-      "sold_percent": 76.6
+      "ticket_sold": 224,
+      "sold_percent": 97.0
     },
     {
       "show_id": 397271,
@@ -557,8 +557,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 2",
       "capacity": 125,
-      "ticket_sold": 37,
-      "sold_percent": 29.6
+      "ticket_sold": 53,
+      "sold_percent": 42.4
     },
     {
       "show_id": 397094,
@@ -566,8 +566,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 3 Screen X",
       "capacity": 204,
-      "ticket_sold": 154,
-      "sold_percent": 75.5
+      "ticket_sold": 186,
+      "sold_percent": 91.2
     },
     {
       "show_id": 398195,
@@ -575,8 +575,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 3",
       "capacity": 108,
-      "ticket_sold": 38,
-      "sold_percent": 35.2
+      "ticket_sold": 54,
+      "sold_percent": 50.0
     },
     {
       "show_id": 396892,
@@ -584,8 +584,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 6",
       "capacity": 143,
-      "ticket_sold": 61,
-      "sold_percent": 42.7
+      "ticket_sold": 89,
+      "sold_percent": 62.2
     },
     {
       "show_id": 396849,
@@ -593,8 +593,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 5 mooon+",
       "capacity": 116,
-      "ticket_sold": 56,
-      "sold_percent": 48.3
+      "ticket_sold": 108,
+      "sold_percent": 93.1
     },
     {
       "show_id": 397024,
@@ -602,8 +602,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 4 Resto Minges",
       "capacity": 76,
-      "ticket_sold": 57,
-      "sold_percent": 75.0
+      "ticket_sold": 73,
+      "sold_percent": 96.1
     },
     {
       "show_id": 397497,
@@ -611,8 +611,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 3 mooon+",
       "capacity": 156,
-      "ticket_sold": 94,
-      "sold_percent": 60.3
+      "ticket_sold": 156,
+      "sold_percent": 100.0
     },
     {
       "show_id": 397553,
@@ -620,8 +620,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 3 Premiere",
       "capacity": 265,
-      "ticket_sold": 180,
-      "sold_percent": 67.9
+      "ticket_sold": 226,
+      "sold_percent": 85.3
     },
     {
       "show_id": 396958,
@@ -629,8 +629,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 2 Lounge",
       "capacity": 60,
-      "ticket_sold": 36,
-      "sold_percent": 60.0
+      "ticket_sold": 60,
+      "sold_percent": 100.0
     },
     {
       "show_id": 397079,
@@ -638,8 +638,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 1 Premiere",
       "capacity": 231,
-      "ticket_sold": 208,
-      "sold_percent": 90.0
+      "ticket_sold": 230,
+      "sold_percent": 99.6
     },
     {
       "show_id": 397272,
@@ -647,8 +647,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 2",
       "capacity": 125,
-      "ticket_sold": 105,
-      "sold_percent": 84.0
+      "ticket_sold": 119,
+      "sold_percent": 95.2
     },
     {
       "show_id": 397528,
@@ -656,8 +656,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 1 Kids",
       "capacity": 260,
-      "ticket_sold": 92,
-      "sold_percent": 35.4
+      "ticket_sold": 195,
+      "sold_percent": 75.0
     },
     {
       "show_id": 397122,
@@ -665,8 +665,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 7 VIP",
       "capacity": 48,
-      "ticket_sold": 32,
-      "sold_percent": 66.7
+      "ticket_sold": 48,
+      "sold_percent": 100.0
     },
     {
       "show_id": 396900,
@@ -674,8 +674,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 7 Visa Premiere",
       "capacity": 247,
-      "ticket_sold": 218,
-      "sold_percent": 88.3
+      "ticket_sold": 239,
+      "sold_percent": 96.8
     },
     {
       "show_id": 398196,
@@ -683,8 +683,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 3",
       "capacity": 108,
-      "ticket_sold": 86,
-      "sold_percent": 79.6
+      "ticket_sold": 101,
+      "sold_percent": 93.5
     },
     {
       "show_id": 396893,
@@ -692,8 +692,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 6",
       "capacity": 143,
-      "ticket_sold": 125,
-      "sold_percent": 87.4
+      "ticket_sold": 139,
+      "sold_percent": 97.2
     },
     {
       "show_id": 396843,
@@ -701,8 +701,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 5 mooon+",
       "capacity": 116,
-      "ticket_sold": 68,
-      "sold_percent": 58.6
+      "ticket_sold": 116,
+      "sold_percent": 100.0
     },
     {
       "show_id": 397087,
@@ -710,8 +710,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 2",
       "capacity": 131,
-      "ticket_sold": 119,
-      "sold_percent": 90.8
+      "ticket_sold": 131,
+      "sold_percent": 100.0
     },
     {
       "show_id": 396846,
@@ -719,8 +719,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 2 Vegas",
       "capacity": 36,
-      "ticket_sold": 18,
-      "sold_percent": 50.0
+      "ticket_sold": 36,
+      "sold_percent": 100.0
     },
     {
       "show_id": 397498,
@@ -728,8 +728,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 3 mooon+",
       "capacity": 156,
-      "ticket_sold": 94,
-      "sold_percent": 60.3
+      "ticket_sold": 156,
+      "sold_percent": 100.0
     },
     {
       "show_id": 397273,
@@ -737,8 +737,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 2",
       "capacity": 125,
-      "ticket_sold": 104,
-      "sold_percent": 83.2
+      "ticket_sold": 116,
+      "sold_percent": 92.8
     },
     {
       "show_id": 397078,
@@ -746,8 +746,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 1 Premiere",
       "capacity": 231,
-      "ticket_sold": 203,
-      "sold_percent": 87.9
+      "ticket_sold": 226,
+      "sold_percent": 97.8
     },
     {
       "show_id": 397527,
@@ -755,8 +755,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 1 Kids",
       "capacity": 260,
-      "ticket_sold": 98,
-      "sold_percent": 37.7
+      "ticket_sold": 209,
+      "sold_percent": 80.4
     },
     {
       "show_id": 396838,
@@ -764,8 +764,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 1 mooon IMAX",
       "capacity": 330,
-      "ticket_sold": 287,
-      "sold_percent": 87.0
+      "ticket_sold": 322,
+      "sold_percent": 97.6
     },
     {
       "show_id": 397123,
@@ -773,8 +773,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 7 VIP",
       "capacity": 48,
-      "ticket_sold": 32,
-      "sold_percent": 66.7
+      "ticket_sold": 48,
+      "sold_percent": 100.0
     },
     {
       "show_id": 398160,
@@ -782,8 +782,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 6 VIP",
       "capacity": 44,
-      "ticket_sold": 28,
-      "sold_percent": 63.6
+      "ticket_sold": 44,
+      "sold_percent": 100.0
     },
     {
       "show_id": 398180,
@@ -791,8 +791,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 2 Classic",
       "capacity": 104,
-      "ticket_sold": 88,
-      "sold_percent": 84.6
+      "ticket_sold": 98,
+      "sold_percent": 94.2
     },
     {
       "show_id": 398205,
@@ -800,8 +800,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 3",
       "capacity": 108,
-      "ticket_sold": 83,
-      "sold_percent": 76.9
+      "ticket_sold": 105,
+      "sold_percent": 97.2
     },
     {
       "show_id": 397076,
@@ -809,8 +809,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 4",
       "capacity": 124,
-      "ticket_sold": 103,
-      "sold_percent": 83.1
+      "ticket_sold": 116,
+      "sold_percent": 93.5
     },
     {
       "show_id": 396865,
@@ -818,8 +818,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 1 Premiere",
       "capacity": 269,
-      "ticket_sold": 209,
-      "sold_percent": 77.7
+      "ticket_sold": 257,
+      "sold_percent": 95.5
     },
     {
       "show_id": 397115,
@@ -827,8 +827,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 3 Screen X",
       "capacity": 204,
-      "ticket_sold": 180,
-      "sold_percent": 88.2
+      "ticket_sold": 199,
+      "sold_percent": 97.5
     },
     {
       "show_id": 398166,
@@ -836,8 +836,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 4 Resto Minges",
       "capacity": 76,
-      "ticket_sold": 57,
-      "sold_percent": 75.0
+      "ticket_sold": 73,
+      "sold_percent": 96.1
     },
     {
       "show_id": 397129,
@@ -845,8 +845,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 1 Premiere",
       "capacity": 231,
-      "ticket_sold": 184,
-      "sold_percent": 79.7
+      "ticket_sold": 209,
+      "sold_percent": 90.5
     },
     {
       "show_id": 397444,
@@ -854,8 +854,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 1 Premiere",
       "capacity": 269,
-      "ticket_sold": 204,
-      "sold_percent": 75.8
+      "ticket_sold": 251,
+      "sold_percent": 93.3
     },
     {
       "show_id": 398223,
@@ -863,8 +863,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 2",
       "capacity": 125,
-      "ticket_sold": 27,
-      "sold_percent": 21.6
+      "ticket_sold": 34,
+      "sold_percent": 27.2
     },
     {
       "show_id": 397315,
@@ -872,8 +872,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 7 Visa Premiere",
       "capacity": 247,
-      "ticket_sold": 188,
-      "sold_percent": 76.1
+      "ticket_sold": 204,
+      "sold_percent": 82.6
     },
     {
       "show_id": 397287,
@@ -881,8 +881,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 3 VIP",
       "capacity": 50,
-      "ticket_sold": 30,
-      "sold_percent": 60.0
+      "ticket_sold": 50,
+      "sold_percent": 100.0
     },
     {
       "show_id": 398175,
@@ -890,8 +890,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 2 Lounge",
       "capacity": 60,
-      "ticket_sold": 35,
-      "sold_percent": 58.3
+      "ticket_sold": 58,
+      "sold_percent": 96.7
     },
     {
       "show_id": 397556,
@@ -899,8 +899,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 1 Kids",
       "capacity": 260,
-      "ticket_sold": 58,
-      "sold_percent": 22.3
+      "ticket_sold": 120,
+      "sold_percent": 46.2
     },
     {
       "show_id": 398197,
@@ -908,8 +908,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 3",
       "capacity": 108,
-      "ticket_sold": 44,
-      "sold_percent": 40.7
+      "ticket_sold": 58,
+      "sold_percent": 53.7
     },
     {
       "show_id": 397197,
@@ -917,8 +917,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 6",
       "capacity": 143,
-      "ticket_sold": 59,
-      "sold_percent": 41.3
+      "ticket_sold": 67,
+      "sold_percent": 46.9
     },
     {
       "show_id": 398181,
@@ -926,8 +926,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 2 Classic",
       "capacity": 104,
-      "ticket_sold": 68,
-      "sold_percent": 65.4
+      "ticket_sold": 77,
+      "sold_percent": 74.0
     },
     {
       "show_id": 397196,
@@ -935,8 +935,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 5",
       "capacity": 143,
-      "ticket_sold": 74,
-      "sold_percent": 51.7
+      "ticket_sold": 90,
+      "sold_percent": 62.9
     },
     {
       "show_id": 398235,
@@ -944,17 +944,17 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 2",
       "capacity": 131,
-      "ticket_sold": 3,
-      "sold_percent": 2.3
+      "ticket_sold": 30,
+      "sold_percent": 22.9
     },
     {
-      "show_id": 397570,
+      "show_id": 398246,
       "start": "2026-08-15T14:50:00+03:00",
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 3 Premiere",
       "capacity": 265,
-      "ticket_sold": 0,
-      "sold_percent": 0.0
+      "ticket_sold": 7,
+      "sold_percent": 2.6
     },
     {
       "show_id": 397277,
@@ -962,8 +962,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 1 mooon IMAX",
       "capacity": 330,
-      "ticket_sold": 241,
-      "sold_percent": 73.0
+      "ticket_sold": 278,
+      "sold_percent": 84.2
     },
     {
       "show_id": 397130,
@@ -971,8 +971,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 1 Premiere",
       "capacity": 231,
-      "ticket_sold": 195,
-      "sold_percent": 84.4
+      "ticket_sold": 219,
+      "sold_percent": 94.8
     },
     {
       "show_id": 398224,
@@ -980,8 +980,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 2",
       "capacity": 125,
-      "ticket_sold": 24,
-      "sold_percent": 19.2
+      "ticket_sold": 36,
+      "sold_percent": 28.8
     },
     {
       "show_id": 397303,
@@ -989,8 +989,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 5 mooon+",
       "capacity": 116,
-      "ticket_sold": 67,
-      "sold_percent": 57.8
+      "ticket_sold": 115,
+      "sold_percent": 99.1
     },
     {
       "show_id": 397143,
@@ -998,8 +998,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 3 Screen X",
       "capacity": 204,
-      "ticket_sold": 164,
-      "sold_percent": 80.4
+      "ticket_sold": 190,
+      "sold_percent": 93.1
     },
     {
       "show_id": 398198,
@@ -1007,8 +1007,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 3",
       "capacity": 108,
-      "ticket_sold": 52,
-      "sold_percent": 48.1
+      "ticket_sold": 66,
+      "sold_percent": 61.1
     },
     {
       "show_id": 397198,
@@ -1016,8 +1016,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 6",
       "capacity": 143,
-      "ticket_sold": 99,
-      "sold_percent": 69.2
+      "ticket_sold": 116,
+      "sold_percent": 81.1
     },
     {
       "show_id": 397298,
@@ -1025,26 +1025,26 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 4 Resto Minges",
       "capacity": 76,
-      "ticket_sold": 54,
-      "sold_percent": 71.1
+      "ticket_sold": 70,
+      "sold_percent": 92.1
     },
     {
-      "show_id": 397458,
-      "start": "2026-08-15T18:00:00+03:00",
-      "event_name": "Человек-паук: Новый день",
-      "auditorium": "Зал 3 mooon+",
-      "capacity": 156,
-      "ticket_sold": 0,
-      "sold_percent": 0.0
-    },
-    {
-      "show_id": 397569,
+      "show_id": 398247,
       "start": "2026-08-15T18:00:00+03:00",
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 3 Premiere",
       "capacity": 265,
-      "ticket_sold": 0,
-      "sold_percent": 0.0
+      "ticket_sold": 21,
+      "sold_percent": 7.9
+    },
+    {
+      "show_id": 398254,
+      "start": "2026-08-15T18:00:00+03:00",
+      "event_name": "Человек-паук: Новый день",
+      "auditorium": "Зал 3 mooon+",
+      "capacity": 156,
+      "ticket_sold": 25,
+      "sold_percent": 16.0
     },
     {
       "show_id": 397451,
@@ -1052,8 +1052,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 2 Lounge",
       "capacity": 60,
-      "ticket_sold": 36,
-      "sold_percent": 60.0
+      "ticket_sold": 60,
+      "sold_percent": 100.0
     },
     {
       "show_id": 397128,
@@ -1061,8 +1061,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 1 Premiere",
       "capacity": 231,
-      "ticket_sold": 206,
-      "sold_percent": 89.2
+      "ticket_sold": 228,
+      "sold_percent": 98.7
     },
     {
       "show_id": 397555,
@@ -1070,8 +1070,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 1 Kids",
       "capacity": 260,
-      "ticket_sold": 110,
-      "sold_percent": 42.3
+      "ticket_sold": 225,
+      "sold_percent": 86.5
     },
     {
       "show_id": 398225,
@@ -1079,8 +1079,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 2",
       "capacity": 125,
-      "ticket_sold": 36,
-      "sold_percent": 28.8
+      "ticket_sold": 52,
+      "sold_percent": 41.6
     },
     {
       "show_id": 397302,
@@ -1088,8 +1088,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 5 mooon+",
       "capacity": 116,
-      "ticket_sold": 67,
-      "sold_percent": 57.8
+      "ticket_sold": 115,
+      "sold_percent": 99.1
     },
     {
       "show_id": 397167,
@@ -1097,8 +1097,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 7 VIP",
       "capacity": 48,
-      "ticket_sold": 32,
-      "sold_percent": 66.7
+      "ticket_sold": 48,
+      "sold_percent": 100.0
     },
     {
       "show_id": 397317,
@@ -1106,8 +1106,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 7 Visa Premiere",
       "capacity": 247,
-      "ticket_sold": 216,
-      "sold_percent": 87.4
+      "ticket_sold": 235,
+      "sold_percent": 95.1
     },
     {
       "show_id": 398199,
@@ -1115,8 +1115,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 3",
       "capacity": 108,
-      "ticket_sold": 75,
-      "sold_percent": 69.4
+      "ticket_sold": 88,
+      "sold_percent": 81.5
     },
     {
       "show_id": 397199,
@@ -1124,8 +1124,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 6",
       "capacity": 143,
-      "ticket_sold": 111,
-      "sold_percent": 77.6
+      "ticket_sold": 122,
+      "sold_percent": 85.3
     },
     {
       "show_id": 397136,
@@ -1133,8 +1133,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 2",
       "capacity": 131,
-      "ticket_sold": 116,
-      "sold_percent": 88.5
+      "ticket_sold": 128,
+      "sold_percent": 97.7
     },
     {
       "show_id": 397162,
@@ -1142,17 +1142,17 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 6 VIP",
       "capacity": 44,
-      "ticket_sold": 24,
-      "sold_percent": 54.5
+      "ticket_sold": 42,
+      "sold_percent": 95.5
     },
     {
-      "show_id": 397324,
+      "show_id": 398253,
       "start": "2026-08-15T20:50:00+03:00",
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 6 Kids",
       "capacity": 82,
-      "ticket_sold": 0,
-      "sold_percent": 0.0
+      "ticket_sold": 22,
+      "sold_percent": 26.8
     },
     {
       "show_id": 397285,
@@ -1160,17 +1160,17 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 2 Vegas",
       "capacity": 36,
-      "ticket_sold": 18,
-      "sold_percent": 50.0
+      "ticket_sold": 36,
+      "sold_percent": 100.0
     },
     {
-      "show_id": 397455,
+      "show_id": 398255,
       "start": "2026-08-15T21:10:00+03:00",
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 3 mooon+",
       "capacity": 156,
-      "ticket_sold": 0,
-      "sold_percent": 0.0
+      "ticket_sold": 35,
+      "sold_percent": 22.4
     },
     {
       "show_id": 397575,
@@ -1178,8 +1178,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 5 VIP",
       "capacity": 49,
-      "ticket_sold": 40,
-      "sold_percent": 81.6
+      "ticket_sold": 49,
+      "sold_percent": 100.0
     },
     {
       "show_id": 397127,
@@ -1187,8 +1187,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 1 Premiere",
       "capacity": 231,
-      "ticket_sold": 190,
-      "sold_percent": 82.3
+      "ticket_sold": 218,
+      "sold_percent": 94.4
     },
     {
       "show_id": 397554,
@@ -1196,8 +1196,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 1 Kids",
       "capacity": 260,
-      "ticket_sold": 102,
-      "sold_percent": 39.2
+      "ticket_sold": 201,
+      "sold_percent": 77.3
     },
     {
       "show_id": 398226,
@@ -1205,8 +1205,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 2",
       "capacity": 125,
-      "ticket_sold": 11,
-      "sold_percent": 8.8
+      "ticket_sold": 35,
+      "sold_percent": 28.0
     },
     {
       "show_id": 397278,
@@ -1214,8 +1214,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 1 mooon IMAX",
       "capacity": 330,
-      "ticket_sold": 241,
-      "sold_percent": 73.0
+      "ticket_sold": 277,
+      "sold_percent": 83.9
     },
     {
       "show_id": 398174,
@@ -1232,8 +1232,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 3",
       "capacity": 108,
-      "ticket_sold": 54,
-      "sold_percent": 50.0
+      "ticket_sold": 67,
+      "sold_percent": 62.0
     },
     {
       "show_id": 397190,
@@ -1241,8 +1241,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 4",
       "capacity": 124,
-      "ticket_sold": 54,
-      "sold_percent": 43.5
+      "ticket_sold": 63,
+      "sold_percent": 50.8
     },
     {
       "show_id": 398167,
@@ -1250,8 +1250,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 7 Visa Premiere",
       "capacity": 247,
-      "ticket_sold": 147,
-      "sold_percent": 59.5
+      "ticket_sold": 167,
+      "sold_percent": 67.6
     },
     {
       "show_id": 397441,
@@ -1259,8 +1259,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 1 Premiere",
       "capacity": 269,
-      "ticket_sold": 205,
-      "sold_percent": 76.2
+      "ticket_sold": 254,
+      "sold_percent": 94.4
     },
     {
       "show_id": 397168,
@@ -1268,8 +1268,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 3 Screen X",
       "capacity": 204,
-      "ticket_sold": 134,
-      "sold_percent": 65.7
+      "ticket_sold": 154,
+      "sold_percent": 75.5
     },
     {
       "show_id": 398162,
@@ -1277,8 +1277,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 2",
       "capacity": 131,
-      "ticket_sold": 97,
-      "sold_percent": 74.0
+      "ticket_sold": 109,
+      "sold_percent": 83.2
     },
     {
       "show_id": 397019,
@@ -1286,8 +1286,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 6 VIP",
       "capacity": 44,
-      "ticket_sold": 26,
-      "sold_percent": 59.1
+      "ticket_sold": 42,
+      "sold_percent": 95.5
     },
     {
       "show_id": 397007,
@@ -1295,8 +1295,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 1 Premiere",
       "capacity": 231,
-      "ticket_sold": 122,
-      "sold_percent": 52.8
+      "ticket_sold": 149,
+      "sold_percent": 64.5
     },
     {
       "show_id": 397472,
@@ -1304,8 +1304,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 1 Premiere",
       "capacity": 269,
-      "ticket_sold": 156,
-      "sold_percent": 58.0
+      "ticket_sold": 201,
+      "sold_percent": 74.7
     },
     {
       "show_id": 397405,
@@ -1313,8 +1313,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 7 Visa Premiere",
       "capacity": 247,
-      "ticket_sold": 108,
-      "sold_percent": 43.7
+      "ticket_sold": 124,
+      "sold_percent": 50.2
     },
     {
       "show_id": 398227,
@@ -1322,8 +1322,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 2",
       "capacity": 125,
-      "ticket_sold": 0,
-      "sold_percent": 0.0
+      "ticket_sold": 2,
+      "sold_percent": 1.6
     },
     {
       "show_id": 397377,
@@ -1331,8 +1331,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 3 VIP",
       "capacity": 50,
-      "ticket_sold": 30,
-      "sold_percent": 60.0
+      "ticket_sold": 50,
+      "sold_percent": 100.0
     },
     {
       "show_id": 398172,
@@ -1340,8 +1340,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 2 Lounge",
       "capacity": 60,
-      "ticket_sold": 33,
-      "sold_percent": 55.0
+      "ticket_sold": 57,
+      "sold_percent": 95.0
     },
     {
       "show_id": 397009,
@@ -1349,8 +1349,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 3 Screen X",
       "capacity": 204,
-      "ticket_sold": 99,
-      "sold_percent": 48.5
+      "ticket_sold": 116,
+      "sold_percent": 56.9
     },
     {
       "show_id": 397586,
@@ -1358,8 +1358,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 1 Kids",
       "capacity": 260,
-      "ticket_sold": 45,
-      "sold_percent": 17.3
+      "ticket_sold": 89,
+      "sold_percent": 34.2
     },
     {
       "show_id": 398201,
@@ -1367,8 +1367,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 3",
       "capacity": 108,
-      "ticket_sold": 21,
-      "sold_percent": 19.4
+      "ticket_sold": 26,
+      "sold_percent": 24.1
     },
     {
       "show_id": 397228,
@@ -1376,8 +1376,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 6",
       "capacity": 143,
-      "ticket_sold": 32,
-      "sold_percent": 22.4
+      "ticket_sold": 35,
+      "sold_percent": 24.5
     },
     {
       "show_id": 397227,
@@ -1385,11 +1385,11 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 5",
       "capacity": 143,
-      "ticket_sold": 45,
-      "sold_percent": 31.5
+      "ticket_sold": 53,
+      "sold_percent": 37.1
     },
     {
-      "show_id": 397600,
+      "show_id": 398258,
       "start": "2026-08-16T14:50:00+03:00",
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 3 Premiere",
@@ -1403,8 +1403,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 1 mooon IMAX",
       "capacity": 330,
-      "ticket_sold": 198,
-      "sold_percent": 60.0
+      "ticket_sold": 233,
+      "sold_percent": 70.6
     },
     {
       "show_id": 397011,
@@ -1412,8 +1412,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 1 Premiere",
       "capacity": 231,
-      "ticket_sold": 143,
-      "sold_percent": 61.9
+      "ticket_sold": 163,
+      "sold_percent": 70.6
     },
     {
       "show_id": 398228,
@@ -1421,8 +1421,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 2",
       "capacity": 125,
-      "ticket_sold": 5,
-      "sold_percent": 4.0
+      "ticket_sold": 7,
+      "sold_percent": 5.6
     },
     {
       "show_id": 397393,
@@ -1430,8 +1430,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 5 mooon+",
       "capacity": 116,
-      "ticket_sold": 56,
-      "sold_percent": 48.3
+      "ticket_sold": 103,
+      "sold_percent": 88.8
     },
     {
       "show_id": 398163,
@@ -1439,8 +1439,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 7 VIP",
       "capacity": 48,
-      "ticket_sold": 32,
-      "sold_percent": 66.7
+      "ticket_sold": 48,
+      "sold_percent": 100.0
     },
     {
       "show_id": 397010,
@@ -1448,8 +1448,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 3 Screen X",
       "capacity": 204,
-      "ticket_sold": 129,
-      "sold_percent": 63.2
+      "ticket_sold": 150,
+      "sold_percent": 73.5
     },
     {
       "show_id": 398202,
@@ -1457,8 +1457,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 3",
       "capacity": 108,
-      "ticket_sold": 33,
-      "sold_percent": 30.6
+      "ticket_sold": 40,
+      "sold_percent": 37.0
     },
     {
       "show_id": 397229,
@@ -1466,17 +1466,17 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 6",
       "capacity": 143,
-      "ticket_sold": 69,
-      "sold_percent": 48.3
+      "ticket_sold": 77,
+      "sold_percent": 53.8
     },
     {
-      "show_id": 398171,
+      "show_id": 398251,
       "start": "2026-08-16T16:20:00+03:00",
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 6 Kids",
       "capacity": 82,
-      "ticket_sold": 0,
-      "sold_percent": 0.0
+      "ticket_sold": 4,
+      "sold_percent": 4.9
     },
     {
       "show_id": 397388,
@@ -1484,26 +1484,26 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 4 Resto Minges",
       "capacity": 76,
-      "ticket_sold": 49,
-      "sold_percent": 64.5
+      "ticket_sold": 66,
+      "sold_percent": 86.8
     },
     {
-      "show_id": 397486,
+      "show_id": 398256,
       "start": "2026-08-16T18:00:00+03:00",
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 3 mooon+",
       "capacity": 156,
-      "ticket_sold": 0,
-      "sold_percent": 0.0
+      "ticket_sold": 6,
+      "sold_percent": 3.8
     },
     {
-      "show_id": 397599,
+      "show_id": 398259,
       "start": "2026-08-16T18:00:00+03:00",
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 3 Premiere",
       "capacity": 265,
-      "ticket_sold": 0,
-      "sold_percent": 0.0
+      "ticket_sold": 4,
+      "sold_percent": 1.5
     },
     {
       "show_id": 397479,
@@ -1511,8 +1511,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 2 Lounge",
       "capacity": 60,
-      "ticket_sold": 36,
-      "sold_percent": 60.0
+      "ticket_sold": 60,
+      "sold_percent": 100.0
     },
     {
       "show_id": 398229,
@@ -1520,8 +1520,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 2",
       "capacity": 125,
-      "ticket_sold": 8,
-      "sold_percent": 6.4
+      "ticket_sold": 23,
+      "sold_percent": 18.4
     },
     {
       "show_id": 397006,
@@ -1529,8 +1529,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 1 Premiere",
       "capacity": 231,
-      "ticket_sold": 187,
-      "sold_percent": 81.0
+      "ticket_sold": 209,
+      "sold_percent": 90.5
     },
     {
       "show_id": 397585,
@@ -1538,8 +1538,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 1 Kids",
       "capacity": 260,
-      "ticket_sold": 97,
-      "sold_percent": 37.3
+      "ticket_sold": 201,
+      "sold_percent": 77.3
     },
     {
       "show_id": 397392,
@@ -1547,8 +1547,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 5 mooon+",
       "capacity": 116,
-      "ticket_sold": 66,
-      "sold_percent": 56.9
+      "ticket_sold": 113,
+      "sold_percent": 97.4
     },
     {
       "show_id": 397012,
@@ -1556,8 +1556,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 7 VIP",
       "capacity": 48,
-      "ticket_sold": 32,
-      "sold_percent": 66.7
+      "ticket_sold": 48,
+      "sold_percent": 100.0
     },
     {
       "show_id": 397407,
@@ -1565,8 +1565,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 7 Visa Premiere",
       "capacity": 247,
-      "ticket_sold": 182,
-      "sold_percent": 73.7
+      "ticket_sold": 206,
+      "sold_percent": 83.4
     },
     {
       "show_id": 398203,
@@ -1574,8 +1574,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 3",
       "capacity": 108,
-      "ticket_sold": 37,
-      "sold_percent": 34.3
+      "ticket_sold": 45,
+      "sold_percent": 41.7
     },
     {
       "show_id": 397230,
@@ -1583,17 +1583,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 6",
       "capacity": 143,
-      "ticket_sold": 89,
-      "sold_percent": 62.2
-    },
-    {
-      "show_id": 398155,
-      "start": "2026-08-16T19:20:00+03:00",
-      "event_name": "Человек-паук: Новый день",
-      "auditorium": "Зал 6 Kids",
-      "capacity": 82,
-      "ticket_sold": 0,
-      "sold_percent": 0.0
+      "ticket_sold": 100,
+      "sold_percent": 69.9
     },
     {
       "show_id": 398173,
@@ -1605,13 +1596,22 @@
       "sold_percent": 100.0
     },
     {
+      "show_id": 398260,
+      "start": "2026-08-16T19:20:00+03:00",
+      "event_name": "Человек-паук: Новый день",
+      "auditorium": "Зал 6 Kids",
+      "capacity": 82,
+      "ticket_sold": 0,
+      "sold_percent": 0.0
+    },
+    {
       "show_id": 397008,
       "start": "2026-08-16T19:30:00+03:00",
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 2",
       "capacity": 131,
-      "ticket_sold": 107,
-      "sold_percent": 81.7
+      "ticket_sold": 119,
+      "sold_percent": 90.8
     },
     {
       "show_id": 397375,
@@ -1619,17 +1619,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 2 Vegas",
       "capacity": 36,
-      "ticket_sold": 18,
-      "sold_percent": 50.0
-    },
-    {
-      "show_id": 397483,
-      "start": "2026-08-16T21:10:00+03:00",
-      "event_name": "Человек-паук: Новый день",
-      "auditorium": "Зал 3 mooon+",
-      "capacity": 156,
-      "ticket_sold": 0,
-      "sold_percent": 0.0
+      "ticket_sold": 36,
+      "sold_percent": 100.0
     },
     {
       "show_id": 398161,
@@ -1637,8 +1628,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 5 MTB Kids by Visa",
       "capacity": 119,
-      "ticket_sold": 66,
-      "sold_percent": 55.5
+      "ticket_sold": 85,
+      "sold_percent": 71.4
     },
     {
       "show_id": 398230,
@@ -1646,8 +1637,17 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 2",
       "capacity": 125,
-      "ticket_sold": 9,
-      "sold_percent": 7.2
+      "ticket_sold": 16,
+      "sold_percent": 12.8
+    },
+    {
+      "show_id": 398257,
+      "start": "2026-08-16T21:10:00+03:00",
+      "event_name": "Человек-паук: Новый день",
+      "auditorium": "Зал 3 mooon+",
+      "capacity": 156,
+      "ticket_sold": 5,
+      "sold_percent": 3.2
     },
     {
       "show_id": 397606,
@@ -1655,8 +1655,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 5 VIP",
       "capacity": 49,
-      "ticket_sold": 40,
-      "sold_percent": 81.6
+      "ticket_sold": 46,
+      "sold_percent": 93.9
     },
     {
       "show_id": 397005,
@@ -1664,8 +1664,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 1 Premiere",
       "capacity": 231,
-      "ticket_sold": 148,
-      "sold_percent": 64.1
+      "ticket_sold": 170,
+      "sold_percent": 73.6
     },
     {
       "show_id": 397584,
@@ -1673,8 +1673,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 1 Kids",
       "capacity": 260,
-      "ticket_sold": 60,
-      "sold_percent": 23.1
+      "ticket_sold": 133,
+      "sold_percent": 51.2
     },
     {
       "show_id": 397013,
@@ -1682,8 +1682,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 6 VIP",
       "capacity": 44,
-      "ticket_sold": 27,
-      "sold_percent": 61.4
+      "ticket_sold": 43,
+      "sold_percent": 97.7
     },
     {
       "show_id": 397017,
@@ -1691,8 +1691,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 7 VIP",
       "capacity": 48,
-      "ticket_sold": 32,
-      "sold_percent": 66.7
+      "ticket_sold": 48,
+      "sold_percent": 100.0
     },
     {
       "show_id": 397368,
@@ -1700,8 +1700,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 1 mooon IMAX",
       "capacity": 330,
-      "ticket_sold": 177,
-      "sold_percent": 53.6
+      "ticket_sold": 207,
+      "sold_percent": 62.7
     },
     {
       "show_id": 398204,
@@ -1709,8 +1709,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 3",
       "capacity": 108,
-      "ticket_sold": 22,
-      "sold_percent": 20.4
+      "ticket_sold": 28,
+      "sold_percent": 25.9
     },
     {
       "show_id": 397221,
@@ -1718,8 +1718,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 4",
       "capacity": 124,
-      "ticket_sold": 18,
-      "sold_percent": 14.5
+      "ticket_sold": 27,
+      "sold_percent": 21.8
     },
     {
       "show_id": 398164,
@@ -1727,8 +1727,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 4 Lounge",
       "capacity": 70,
-      "ticket_sold": 31,
-      "sold_percent": 44.3
+      "ticket_sold": 62,
+      "sold_percent": 88.6
     },
     {
       "show_id": 398168,
@@ -1736,8 +1736,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 7 Visa Premiere",
       "capacity": 247,
-      "ticket_sold": 66,
-      "sold_percent": 26.7
+      "ticket_sold": 85,
+      "sold_percent": 34.4
     },
     {
       "show_id": 397469,
@@ -1745,8 +1745,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 1 Premiere",
       "capacity": 269,
-      "ticket_sold": 141,
-      "sold_percent": 52.4
+      "ticket_sold": 183,
+      "sold_percent": 68.0
     },
     {
       "show_id": 398182,
@@ -1754,8 +1754,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 2 Classic",
       "capacity": 104,
-      "ticket_sold": 45,
-      "sold_percent": 43.3
+      "ticket_sold": 53,
+      "sold_percent": 51.0
     },
     {
       "show_id": 398170,
@@ -1763,8 +1763,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 6 Kids",
       "capacity": 82,
-      "ticket_sold": 18,
-      "sold_percent": 22.0
+      "ticket_sold": 30,
+      "sold_percent": 36.6
     },
     {
       "show_id": 397658,
@@ -1772,8 +1772,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 6 VIP",
       "capacity": 44,
-      "ticket_sold": 23,
-      "sold_percent": 52.3
+      "ticket_sold": 36,
+      "sold_percent": 81.8
     },
     {
       "show_id": 398240,
@@ -1781,8 +1781,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 1 mooon IMAX",
       "capacity": 330,
-      "ticket_sold": 0,
-      "sold_percent": 0.0
+      "ticket_sold": 1,
+      "sold_percent": 0.3
     },
     {
       "show_id": 397622,
@@ -1790,8 +1790,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 1 Premiere",
       "capacity": 231,
-      "ticket_sold": 14,
-      "sold_percent": 6.1
+      "ticket_sold": 16,
+      "sold_percent": 6.9
     },
     {
       "show_id": 398069,
@@ -1799,8 +1799,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 1 Premiere",
       "capacity": 269,
-      "ticket_sold": 57,
-      "sold_percent": 21.2
+      "ticket_sold": 71,
+      "sold_percent": 26.4
     },
     {
       "show_id": 397894,
@@ -1808,8 +1808,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 7 Visa Premiere",
       "capacity": 247,
-      "ticket_sold": 14,
-      "sold_percent": 5.7
+      "ticket_sold": 17,
+      "sold_percent": 6.9
     },
     {
       "show_id": 398231,
@@ -1826,8 +1826,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 3 VIP",
       "capacity": 50,
-      "ticket_sold": 22,
-      "sold_percent": 44.0
+      "ticket_sold": 36,
+      "sold_percent": 72.0
     },
     {
       "show_id": 397635,
@@ -1835,8 +1835,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 3 Screen X",
       "capacity": 204,
-      "ticket_sold": 19,
-      "sold_percent": 9.3
+      "ticket_sold": 24,
+      "sold_percent": 11.8
     },
     {
       "show_id": 397984,
@@ -1844,8 +1844,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 1 Kids",
       "capacity": 260,
-      "ticket_sold": 13,
-      "sold_percent": 5.0
+      "ticket_sold": 30,
+      "sold_percent": 11.5
     },
     {
       "show_id": 398206,
@@ -1862,8 +1862,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 4 Lounge",
       "capacity": 70,
-      "ticket_sold": 0,
-      "sold_percent": 0.0
+      "ticket_sold": 2,
+      "sold_percent": 2.9
     },
     {
       "show_id": 398241,
@@ -1889,6 +1889,15 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 2",
       "capacity": 131,
+      "ticket_sold": 5,
+      "sold_percent": 3.8
+    },
+    {
+      "show_id": 398261,
+      "start": "2026-08-17T14:40:00+03:00",
+      "event_name": "Человек-паук: Новый день",
+      "auditorium": "Зал 3 mooon+",
+      "capacity": 156,
       "ticket_sold": 0,
       "sold_percent": 0.0
     },
@@ -1907,8 +1916,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 1 mooon IMAX",
       "capacity": 330,
-      "ticket_sold": 60,
-      "sold_percent": 18.2
+      "ticket_sold": 75,
+      "sold_percent": 22.7
     },
     {
       "show_id": 397623,
@@ -1916,8 +1925,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 1 Premiere",
       "capacity": 231,
-      "ticket_sold": 47,
-      "sold_percent": 20.3
+      "ticket_sold": 54,
+      "sold_percent": 23.4
     },
     {
       "show_id": 398232,
@@ -1934,8 +1943,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 5 mooon+",
       "capacity": 116,
-      "ticket_sold": 22,
-      "sold_percent": 19.0
+      "ticket_sold": 42,
+      "sold_percent": 36.2
     },
     {
       "show_id": 397636,
@@ -1943,8 +1952,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 3 Screen X",
       "capacity": 204,
-      "ticket_sold": 29,
-      "sold_percent": 14.2
+      "ticket_sold": 36,
+      "sold_percent": 17.6
     },
     {
       "show_id": 398207,
@@ -1961,8 +1970,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 6",
       "capacity": 143,
-      "ticket_sold": 23,
-      "sold_percent": 16.1
+      "ticket_sold": 27,
+      "sold_percent": 18.9
     },
     {
       "show_id": 397877,
@@ -1970,8 +1979,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 4 Resto Minges",
       "capacity": 76,
-      "ticket_sold": 11,
-      "sold_percent": 14.5
+      "ticket_sold": 20,
+      "sold_percent": 26.3
     },
     {
       "show_id": 397997,
@@ -1997,8 +2006,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 2 Lounge",
       "capacity": 60,
-      "ticket_sold": 34,
-      "sold_percent": 56.7
+      "ticket_sold": 58,
+      "sold_percent": 96.7
     },
     {
       "show_id": 398233,
@@ -2015,8 +2024,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 1 Premiere",
       "capacity": 231,
-      "ticket_sold": 122,
-      "sold_percent": 52.8
+      "ticket_sold": 141,
+      "sold_percent": 61.0
     },
     {
       "show_id": 397983,
@@ -2024,8 +2033,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 1 Kids",
       "capacity": 260,
-      "ticket_sold": 39,
-      "sold_percent": 15.0
+      "ticket_sold": 89,
+      "sold_percent": 34.2
     },
     {
       "show_id": 397881,
@@ -2033,8 +2042,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 5 mooon+",
       "capacity": 116,
-      "ticket_sold": 50,
-      "sold_percent": 43.1
+      "ticket_sold": 91,
+      "sold_percent": 78.4
     },
     {
       "show_id": 397663,
@@ -2042,8 +2051,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 7 VIP",
       "capacity": 48,
-      "ticket_sold": 32,
-      "sold_percent": 66.7
+      "ticket_sold": 48,
+      "sold_percent": 100.0
     },
     {
       "show_id": 397896,
@@ -2051,8 +2060,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 7 Visa Premiere",
       "capacity": 247,
-      "ticket_sold": 110,
-      "sold_percent": 44.5
+      "ticket_sold": 124,
+      "sold_percent": 50.2
     },
     {
       "show_id": 398208,
@@ -2060,8 +2069,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 3",
       "capacity": 108,
-      "ticket_sold": 6,
-      "sold_percent": 5.6
+      "ticket_sold": 8,
+      "sold_percent": 7.4
     },
     {
       "show_id": 397789,
@@ -2069,8 +2078,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 6",
       "capacity": 143,
-      "ticket_sold": 49,
-      "sold_percent": 34.3
+      "ticket_sold": 57,
+      "sold_percent": 39.9
     },
     {
       "show_id": 397631,
@@ -2078,8 +2087,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 2",
       "capacity": 131,
-      "ticket_sold": 97,
-      "sold_percent": 74.0
+      "ticket_sold": 111,
+      "sold_percent": 84.7
     },
     {
       "show_id": 397891,
@@ -2096,8 +2105,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 2 Vegas",
       "capacity": 36,
-      "ticket_sold": 18,
-      "sold_percent": 50.0
+      "ticket_sold": 36,
+      "sold_percent": 100.0
     },
     {
       "show_id": 398080,
@@ -2114,8 +2123,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 2",
       "capacity": 125,
-      "ticket_sold": 5,
-      "sold_percent": 4.0
+      "ticket_sold": 10,
+      "sold_percent": 8.0
     },
     {
       "show_id": 398003,
@@ -2123,8 +2132,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 5 VIP",
       "capacity": 49,
-      "ticket_sold": 40,
-      "sold_percent": 81.6
+      "ticket_sold": 49,
+      "sold_percent": 100.0
     },
     {
       "show_id": 397620,
@@ -2132,8 +2141,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 1 Premiere",
       "capacity": 231,
-      "ticket_sold": 94,
-      "sold_percent": 40.7
+      "ticket_sold": 108,
+      "sold_percent": 46.8
     },
     {
       "show_id": 397982,
@@ -2141,8 +2150,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 1 Kids",
       "capacity": 260,
-      "ticket_sold": 20,
-      "sold_percent": 7.7
+      "ticket_sold": 48,
+      "sold_percent": 18.5
     },
     {
       "show_id": 397657,
@@ -2150,8 +2159,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 6 VIP",
       "capacity": 44,
-      "ticket_sold": 23,
-      "sold_percent": 52.3
+      "ticket_sold": 39,
+      "sold_percent": 88.6
     },
     {
       "show_id": 397665,
@@ -2159,8 +2168,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 7 VIP",
       "capacity": 48,
-      "ticket_sold": 25,
-      "sold_percent": 52.1
+      "ticket_sold": 44,
+      "sold_percent": 91.7
     },
     {
       "show_id": 397857,
@@ -2168,8 +2177,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 1 mooon IMAX",
       "capacity": 330,
-      "ticket_sold": 112,
-      "sold_percent": 33.9
+      "ticket_sold": 145,
+      "sold_percent": 43.9
     },
     {
       "show_id": 398209,
@@ -2177,8 +2186,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 3",
       "capacity": 108,
-      "ticket_sold": 0,
-      "sold_percent": 0.0
+      "ticket_sold": 3,
+      "sold_percent": 2.8
     },
     {
       "show_id": 398220,
@@ -2186,8 +2195,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 7 Visa Premiere",
       "capacity": 247,
-      "ticket_sold": 0,
-      "sold_percent": 0.0
+      "ticket_sold": 4,
+      "sold_percent": 1.6
     },
     {
       "show_id": 398066,
@@ -2195,8 +2204,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 1 Premiere",
       "capacity": 269,
-      "ticket_sold": 76,
-      "sold_percent": 28.3
+      "ticket_sold": 102,
+      "sold_percent": 37.9
     },
     {
       "show_id": 397741,
@@ -2204,8 +2213,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 6 VIP",
       "capacity": 44,
-      "ticket_sold": 11,
-      "sold_percent": 25.0
+      "ticket_sold": 20,
+      "sold_percent": 45.5
     },
     {
       "show_id": 398239,
@@ -2231,8 +2240,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 1 Premiere",
       "capacity": 269,
-      "ticket_sold": 9,
-      "sold_percent": 3.3
+      "ticket_sold": 10,
+      "sold_percent": 3.7
     },
     {
       "show_id": 397965,
@@ -2258,8 +2267,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 3 VIP",
       "capacity": 50,
-      "ticket_sold": 12,
-      "sold_percent": 24.0
+      "ticket_sold": 24,
+      "sold_percent": 48.0
     },
     {
       "show_id": 398012,
@@ -2267,8 +2276,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 1 Kids",
       "capacity": 260,
-      "ticket_sold": 8,
-      "sold_percent": 3.1
+      "ticket_sold": 14,
+      "sold_percent": 5.4
     },
     {
       "show_id": 398210,
@@ -2294,8 +2303,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 4 Lounge",
       "capacity": 70,
-      "ticket_sold": 1,
-      "sold_percent": 1.4
+      "ticket_sold": 2,
+      "sold_percent": 2.9
     },
     {
       "show_id": 398242,
@@ -2325,13 +2334,22 @@
       "sold_percent": 0.0
     },
     {
+      "show_id": 398262,
+      "start": "2026-08-18T14:00:00+03:00",
+      "event_name": "Человек-паук: Новый день",
+      "auditorium": "Зал 3 mooon+",
+      "capacity": 156,
+      "ticket_sold": 0,
+      "sold_percent": 0.0
+    },
+    {
       "show_id": 397901,
       "start": "2026-08-18T14:50:00+03:00",
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 1 mooon IMAX",
       "capacity": 330,
-      "ticket_sold": 47,
-      "sold_percent": 14.2
+      "ticket_sold": 58,
+      "sold_percent": 17.6
     },
     {
       "show_id": 398040,
@@ -2348,8 +2366,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 1 Premiere",
       "capacity": 231,
-      "ticket_sold": 10,
-      "sold_percent": 4.3
+      "ticket_sold": 14,
+      "sold_percent": 6.1
     },
     {
       "show_id": 397809,
@@ -2366,8 +2384,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 5 mooon+",
       "capacity": 116,
-      "ticket_sold": 15,
-      "sold_percent": 12.9
+      "ticket_sold": 30,
+      "sold_percent": 25.9
     },
     {
       "show_id": 398221,
@@ -2384,8 +2402,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 3 Screen X",
       "capacity": 204,
-      "ticket_sold": 21,
-      "sold_percent": 10.3
+      "ticket_sold": 29,
+      "sold_percent": 14.2
     },
     {
       "show_id": 398211,
@@ -2402,8 +2420,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 6",
       "capacity": 143,
-      "ticket_sold": 5,
-      "sold_percent": 3.5
+      "ticket_sold": 8,
+      "sold_percent": 5.6
     },
     {
       "show_id": 397935,
@@ -2411,8 +2429,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 4 Resto Minges",
       "capacity": 76,
-      "ticket_sold": 18,
-      "sold_percent": 23.7
+      "ticket_sold": 31,
+      "sold_percent": 40.8
     },
     {
       "show_id": 398039,
@@ -2429,8 +2447,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 1 Premiere",
       "capacity": 231,
-      "ticket_sold": 88,
-      "sold_percent": 38.1
+      "ticket_sold": 104,
+      "sold_percent": 45.0
     },
     {
       "show_id": 398104,
@@ -2438,8 +2456,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 2 Lounge",
       "capacity": 60,
-      "ticket_sold": 33,
-      "sold_percent": 55.0
+      "ticket_sold": 57,
+      "sold_percent": 95.0
     },
     {
       "show_id": 397810,
@@ -2456,8 +2474,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 1 Kids",
       "capacity": 260,
-      "ticket_sold": 14,
-      "sold_percent": 5.4
+      "ticket_sold": 33,
+      "sold_percent": 12.7
     },
     {
       "show_id": 397750,
@@ -2465,8 +2483,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 7 VIP",
       "capacity": 48,
-      "ticket_sold": 31,
-      "sold_percent": 64.6
+      "ticket_sold": 47,
+      "sold_percent": 97.9
     },
     {
       "show_id": 397967,
@@ -2474,8 +2492,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 7 Visa Premiere",
       "capacity": 247,
-      "ticket_sold": 117,
-      "sold_percent": 47.4
+      "ticket_sold": 132,
+      "sold_percent": 53.4
     },
     {
       "show_id": 398212,
@@ -2483,8 +2501,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 3",
       "capacity": 108,
-      "ticket_sold": 1,
-      "sold_percent": 0.9
+      "ticket_sold": 5,
+      "sold_percent": 4.6
     },
     {
       "show_id": 397844,
@@ -2492,8 +2510,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 6",
       "capacity": 143,
-      "ticket_sold": 32,
-      "sold_percent": 22.4
+      "ticket_sold": 39,
+      "sold_percent": 27.3
     },
     {
       "show_id": 397687,
@@ -2501,8 +2519,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 2",
       "capacity": 131,
-      "ticket_sold": 79,
-      "sold_percent": 60.3
+      "ticket_sold": 90,
+      "sold_percent": 68.7
     },
     {
       "show_id": 397955,
@@ -2519,8 +2537,17 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 2 Vegas",
       "capacity": 36,
-      "ticket_sold": 18,
-      "sold_percent": 50.0
+      "ticket_sold": 36,
+      "sold_percent": 100.0
+    },
+    {
+      "show_id": 398249,
+      "start": "2026-08-18T21:10:00+03:00",
+      "event_name": "Человек-паук: Новый день",
+      "auditorium": "Зал 3 Premiere",
+      "capacity": 265,
+      "ticket_sold": 0,
+      "sold_percent": 0.0
     },
     {
       "show_id": 397811,
@@ -2537,8 +2564,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 5 VIP",
       "capacity": 49,
-      "ticket_sold": 36,
-      "sold_percent": 73.5
+      "ticket_sold": 47,
+      "sold_percent": 95.9
     },
     {
       "show_id": 398187,
@@ -2546,8 +2573,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 1 Premiere",
       "capacity": 231,
-      "ticket_sold": 0,
-      "sold_percent": 0.0
+      "ticket_sold": 3,
+      "sold_percent": 1.3
     },
     {
       "show_id": 397669,
@@ -2555,8 +2582,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 5 MTB Kids by Visa",
       "capacity": 119,
-      "ticket_sold": 24,
-      "sold_percent": 20.2
+      "ticket_sold": 31,
+      "sold_percent": 26.1
     },
     {
       "show_id": 397902,
@@ -2564,8 +2591,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 1 mooon IMAX",
       "capacity": 330,
-      "ticket_sold": 71,
-      "sold_percent": 21.5
+      "ticket_sold": 92,
+      "sold_percent": 27.9
     },
     {
       "show_id": 398010,
@@ -2573,8 +2600,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 1 Kids",
       "capacity": 260,
-      "ticket_sold": 17,
-      "sold_percent": 6.5
+      "ticket_sold": 32,
+      "sold_percent": 12.3
     },
     {
       "show_id": 397740,
@@ -2582,8 +2609,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 6 VIP",
       "capacity": 44,
-      "ticket_sold": 19,
-      "sold_percent": 43.2
+      "ticket_sold": 34,
+      "sold_percent": 77.3
     },
     {
       "show_id": 397752,
@@ -2591,8 +2618,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 7 VIP",
       "capacity": 48,
-      "ticket_sold": 19,
-      "sold_percent": 39.6
+      "ticket_sold": 32,
+      "sold_percent": 66.7
     },
     {
       "show_id": 397979,
@@ -2600,8 +2627,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 3 VIP",
       "capacity": 50,
-      "ticket_sold": 23,
-      "sold_percent": 46.0
+      "ticket_sold": 42,
+      "sold_percent": 84.0
     },
     {
       "show_id": 398108,
@@ -2627,8 +2654,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 4",
       "capacity": 124,
-      "ticket_sold": 1,
-      "sold_percent": 0.8
+      "ticket_sold": 2,
+      "sold_percent": 1.6
     },
     {
       "show_id": 398222,
@@ -2645,8 +2672,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 1 Premiere",
       "capacity": 269,
-      "ticket_sold": 64,
-      "sold_percent": 23.8
+      "ticket_sold": 78,
+      "sold_percent": 29.0
     },
     {
       "show_id": 397745,
@@ -2654,8 +2681,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 6 VIP",
       "capacity": 44,
-      "ticket_sold": 8,
-      "sold_percent": 18.2
+      "ticket_sold": 17,
+      "sold_percent": 38.6
     },
     {
       "show_id": 398238,
@@ -2663,8 +2690,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 1 mooon IMAX",
       "capacity": 330,
-      "ticket_sold": 0,
-      "sold_percent": 0.0
+      "ticket_sold": 6,
+      "sold_percent": 1.8
     },
     {
       "show_id": 397678,
@@ -2672,8 +2699,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 1 Premiere",
       "capacity": 231,
-      "ticket_sold": 1,
-      "sold_percent": 0.4
+      "ticket_sold": 2,
+      "sold_percent": 0.9
     },
     {
       "show_id": 398125,
@@ -2681,8 +2708,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 1 Premiere",
       "capacity": 269,
-      "ticket_sold": 7,
-      "sold_percent": 2.6
+      "ticket_sold": 8,
+      "sold_percent": 3.0
     },
     {
       "show_id": 397972,
@@ -2717,8 +2744,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 3 VIP",
       "capacity": 50,
-      "ticket_sold": 10,
-      "sold_percent": 20.0
+      "ticket_sold": 19,
+      "sold_percent": 38.0
     },
     {
       "show_id": 398019,
@@ -2784,6 +2811,15 @@
       "sold_percent": 0.0
     },
     {
+      "show_id": 398263,
+      "start": "2026-08-19T14:30:00+03:00",
+      "event_name": "Человек-паук: Новый день",
+      "auditorium": "Зал 3 mooon+",
+      "capacity": 156,
+      "ticket_sold": 0,
+      "sold_percent": 0.0
+    },
+    {
       "show_id": 398047,
       "start": "2026-08-19T14:50:00+03:00",
       "event_name": "Человек-паук: Новый день",
@@ -2798,8 +2834,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 1 mooon IMAX",
       "capacity": 330,
-      "ticket_sold": 18,
-      "sold_percent": 5.5
+      "ticket_sold": 32,
+      "sold_percent": 9.7
     },
     {
       "show_id": 397679,
@@ -2807,8 +2843,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 1 Premiere",
       "capacity": 231,
-      "ticket_sold": 13,
-      "sold_percent": 5.6
+      "ticket_sold": 15,
+      "sold_percent": 6.5
     },
     {
       "show_id": 397816,
@@ -2825,8 +2861,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 5 mooon+",
       "capacity": 116,
-      "ticket_sold": 3,
-      "sold_percent": 2.6
+      "ticket_sold": 6,
+      "sold_percent": 5.2
     },
     {
       "show_id": 397706,
@@ -2834,8 +2870,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 3 Screen X",
       "capacity": 204,
-      "ticket_sold": 15,
-      "sold_percent": 7.4
+      "ticket_sold": 18,
+      "sold_percent": 8.8
     },
     {
       "show_id": 398215,
@@ -2870,8 +2906,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 4 Resto Minges",
       "capacity": 76,
-      "ticket_sold": 9,
-      "sold_percent": 11.8
+      "ticket_sold": 15,
+      "sold_percent": 19.7
     },
     {
       "show_id": 398046,
@@ -2888,8 +2924,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 2 Lounge",
       "capacity": 60,
-      "ticket_sold": 28,
-      "sold_percent": 46.7
+      "ticket_sold": 51,
+      "sold_percent": 85.0
     },
     {
       "show_id": 397677,
@@ -2897,8 +2933,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 1 Premiere",
       "capacity": 231,
-      "ticket_sold": 71,
-      "sold_percent": 30.7
+      "ticket_sold": 86,
+      "sold_percent": 37.2
     },
     {
       "show_id": 397817,
@@ -2915,8 +2951,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 1 Kids",
       "capacity": 260,
-      "ticket_sold": 9,
-      "sold_percent": 3.5
+      "ticket_sold": 19,
+      "sold_percent": 7.3
     },
     {
       "show_id": 397757,
@@ -2924,8 +2960,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 7 VIP",
       "capacity": 48,
-      "ticket_sold": 29,
-      "sold_percent": 60.4
+      "ticket_sold": 45,
+      "sold_percent": 93.8
     },
     {
       "show_id": 397974,
@@ -2933,8 +2969,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 7 Visa Premiere",
       "capacity": 247,
-      "ticket_sold": 89,
-      "sold_percent": 36.0
+      "ticket_sold": 99,
+      "sold_percent": 40.1
     },
     {
       "show_id": 398216,
@@ -2951,8 +2987,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 6",
       "capacity": 143,
-      "ticket_sold": 18,
-      "sold_percent": 12.6
+      "ticket_sold": 25,
+      "sold_percent": 17.5
     },
     {
       "show_id": 397694,
@@ -2960,8 +2996,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 2",
       "capacity": 131,
-      "ticket_sold": 66,
-      "sold_percent": 50.4
+      "ticket_sold": 76,
+      "sold_percent": 58.0
     },
     {
       "show_id": 397962,
@@ -2987,6 +3023,15 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 5 MTB Kids by Visa",
       "capacity": 119,
+      "ticket_sold": 3,
+      "sold_percent": 2.5
+    },
+    {
+      "show_id": 398250,
+      "start": "2026-08-19T21:10:00+03:00",
+      "event_name": "Человек-паук: Новый день",
+      "auditorium": "Зал 3 Premiere",
+      "capacity": 265,
       "ticket_sold": 0,
       "sold_percent": 0.0
     },
@@ -3005,8 +3050,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 5 VIP",
       "capacity": 49,
-      "ticket_sold": 37,
-      "sold_percent": 75.5
+      "ticket_sold": 44,
+      "sold_percent": 89.8
     },
     {
       "show_id": 397676,
@@ -3014,8 +3059,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 1 Premiere",
       "capacity": 231,
-      "ticket_sold": 35,
-      "sold_percent": 15.2
+      "ticket_sold": 47,
+      "sold_percent": 20.3
     },
     {
       "show_id": 398017,
@@ -3023,8 +3068,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 1 Kids",
       "capacity": 260,
-      "ticket_sold": 6,
-      "sold_percent": 2.3
+      "ticket_sold": 12,
+      "sold_percent": 4.6
     },
     {
       "show_id": 397744,
@@ -3032,8 +3077,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 6 VIP",
       "capacity": 44,
-      "ticket_sold": 17,
-      "sold_percent": 38.6
+      "ticket_sold": 33,
+      "sold_percent": 75.0
     },
     {
       "show_id": 397759,
@@ -3041,8 +3086,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 7 VIP",
       "capacity": 48,
-      "ticket_sold": 20,
-      "sold_percent": 41.7
+      "ticket_sold": 38,
+      "sold_percent": 79.2
     },
     {
       "show_id": 397909,
@@ -3050,8 +3095,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 1 mooon IMAX",
       "capacity": 330,
-      "ticket_sold": 45,
-      "sold_percent": 13.6
+      "ticket_sold": 63,
+      "sold_percent": 19.1
     },
     {
       "show_id": 397919,
@@ -3059,8 +3104,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 3 VIP",
       "capacity": 50,
-      "ticket_sold": 21,
-      "sold_percent": 42.0
+      "ticket_sold": 36,
+      "sold_percent": 72.0
     },
     {
       "show_id": 398217,
@@ -3077,8 +3122,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 4",
       "capacity": 124,
-      "ticket_sold": 1,
-      "sold_percent": 0.8
+      "ticket_sold": 2,
+      "sold_percent": 1.6
     },
     {
       "show_id": 398236,
@@ -3095,8 +3140,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 1 Premiere",
       "capacity": 269,
-      "ticket_sold": 24,
-      "sold_percent": 8.9
+      "ticket_sold": 42,
+      "sold_percent": 15.6
     }
   ]
 }

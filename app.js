@@ -40,7 +40,7 @@ function createShowRow(show, isPast) {
 
   const sales = row.querySelector(".show-row__sales");
   sales.querySelector("strong").textContent = `${number.format(show.ticket_sold)} / ${number.format(show.capacity)}`;
-  sales.querySelector("span").textContent = "билетов / мест";
+  sales.querySelector("span").textContent = "занято / мест";
 
   const meter = row.querySelector(".show-row__meter");
   meter.setAttribute("aria-valuenow", String(show.sold_percent));
