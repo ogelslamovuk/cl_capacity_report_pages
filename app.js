@@ -94,15 +94,17 @@ function renderList(target, shows, isPast, sortMode) {
 function updateSummary(upcoming, past) {
   const sold = upcoming.reduce((sum, show) => sum + show.ticket_sold, 0);
   const capacity = upcoming.reduce((sum, show) => sum + show.capacity, 0);
+  const nextDay = new Date(reportData.meta.generated_at).getTime() + 24 * 60 * 60 * 1000;
+  const redZoneCount = upcoming.filter((show) => (
+    new Date(show.start).getTime() <= nextDay && show.sold_percent <= 5
+  )).length;
   $("upcoming-count").textContent = number.format(upcoming.length);
   $("past-count").textContent = number.format(past.length);
   $("upcoming-nav-count").textContent = number.format(upcoming.length);
   $("past-nav-count").textContent = number.format(past.length);
   $("upcoming-sold").textContent = number.format(sold);
   $("upcoming-capacity").textContent = capacity ? `из ${number.format(capacity)} мест` : "мест";
-  $("weakest-percent").textContent = upcoming.length
-    ? `${percent.format(Math.min(...upcoming.map((show) => show.sold_percent)))}%`
-    : "—";
+  $("red-zone-count").textContent = number.format(redZoneCount);
 }
 
 function updateFreshness(generatedAt) {
