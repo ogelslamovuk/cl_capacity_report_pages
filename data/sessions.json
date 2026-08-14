@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-14T12:56:25+03:00",
+    "generated_at": "2026-08-14T12:57:14+03:00",
     "timezone": "Europe/Minsk",
     "report_from": "2026-08-12",
     "report_to_exclusive": "2026-10-01",
@@ -530,8 +530,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 1 mooon IMAX",
       "capacity": 330,
-      "ticket_sold": 199,
-      "sold_percent": 60.3
+      "ticket_sold": 202,
+      "sold_percent": 61.2
     },
     {
       "show_id": 397552,
@@ -566,8 +566,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 3 Screen X",
       "capacity": 204,
-      "ticket_sold": 152,
-      "sold_percent": 74.5
+      "ticket_sold": 154,
+      "sold_percent": 75.5
     },
     {
       "show_id": 398195,
@@ -845,8 +845,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 1 Premiere",
       "capacity": 231,
-      "ticket_sold": 182,
-      "sold_percent": 78.8
+      "ticket_sold": 184,
+      "sold_percent": 79.7
     },
     {
       "show_id": 397444,
@@ -1205,8 +1205,8 @@
       "event_name": "Человек-паук: Новый день",
       "auditorium": "Зал 2",
       "capacity": 125,
-      "ticket_sold": 10,
-      "sold_percent": 8.0
+      "ticket_sold": 11,
+      "sold_percent": 8.8
     },
     {
       "show_id": 397278,
