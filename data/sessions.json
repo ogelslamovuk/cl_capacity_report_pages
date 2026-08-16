@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-16T04:30:03+03:00",
+    "generated_at": "2026-08-16T05:30:02+03:00",
     "timezone": "Europe/Minsk",
     "report_from": "2026-08-12",
     "report_to_exclusive": "2026-10-01",
@@ -1518,8 +1518,8 @@
       "cinema": "Silver Screen в ТРЦ Arena сity",
       "auditorium": "Зал 2",
       "capacity": 125,
-      "ticket_sold": 88,
-      "sold_percent": 70.4
+      "ticket_sold": 87,
+      "sold_percent": 69.6
     },
     {
       "show_id": 398270,
