@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-16T05:30:02+03:00",
+    "generated_at": "2026-08-16T06:30:02+03:00",
     "timezone": "Europe/Minsk",
     "report_from": "2026-08-12",
     "report_to_exclusive": "2026-10-01",
@@ -2008,8 +2008,8 @@
       "cinema": "mooon в ТРЦ Palazzo",
       "auditorium": "Зал 7 Visa Premiere",
       "capacity": 247,
-      "ticket_sold": 167,
-      "sold_percent": 67.6
+      "ticket_sold": 171,
+      "sold_percent": 69.2
     },
     {
       "show_id": 397469,
@@ -2468,8 +2468,8 @@
       "cinema": "Silver Screen в ТРЦ Arena сity",
       "auditorium": "Зал 2",
       "capacity": 125,
-      "ticket_sold": 39,
-      "sold_percent": 31.2
+      "ticket_sold": 41,
+      "sold_percent": 32.8
     },
     {
       "show_id": 398003,
