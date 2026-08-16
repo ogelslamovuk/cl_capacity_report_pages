@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-17T01:30:02+03:00",
+    "generated_at": "2026-08-17T02:30:03+03:00",
     "timezone": "Europe/Minsk",
     "report_from": "2026-08-12",
     "report_to_exclusive": "2026-10-01",
@@ -2188,8 +2188,8 @@
       "cinema": "mooon в ТРЦ Dana Mall",
       "auditorium": "Зал 2",
       "capacity": 131,
-      "ticket_sold": 68,
-      "sold_percent": 51.9
+      "ticket_sold": 70,
+      "sold_percent": 53.4
     },
     {
       "show_id": 398261,
@@ -2198,8 +2198,8 @@
       "cinema": "mooon в ТРК Minsk City Mall",
       "auditorium": "Зал 3 mooon+",
       "capacity": 156,
-      "ticket_sold": 82,
-      "sold_percent": 52.6
+      "ticket_sold": 83,
+      "sold_percent": 53.2
     },
     {
       "show_id": 397998,
@@ -2338,8 +2338,8 @@
       "cinema": "Silver Screen в ТРЦ Arena сity",
       "auditorium": "Зал 2",
       "capacity": 125,
-      "ticket_sold": 76,
-      "sold_percent": 60.8
+      "ticket_sold": 78,
+      "sold_percent": 62.4
     },
     {
       "show_id": 397621,
@@ -2358,8 +2358,8 @@
       "cinema": "mooon в ТРК Triniti",
       "auditorium": "Зал 1 Kids",
       "capacity": 260,
-      "ticket_sold": 135,
-      "sold_percent": 51.9
+      "ticket_sold": 137,
+      "sold_percent": 52.7
     },
     {
       "show_id": 397881,
@@ -2458,8 +2458,8 @@
       "cinema": "mooon в ТРК Minsk City Mall",
       "auditorium": "Зал 3 mooon+",
       "capacity": 156,
-      "ticket_sold": 144,
-      "sold_percent": 92.3
+      "ticket_sold": 146,
+      "sold_percent": 93.6
     },
     {
       "show_id": 398234,
@@ -2468,8 +2468,8 @@
       "cinema": "Silver Screen в ТРЦ Arena сity",
       "auditorium": "Зал 2",
       "capacity": 125,
-      "ticket_sold": 69,
-      "sold_percent": 55.2
+      "ticket_sold": 71,
+      "sold_percent": 56.8
     },
     {
       "show_id": 398003,
@@ -2548,8 +2548,8 @@
       "cinema": "Silver Screen в ТРЦ Arena сity",
       "auditorium": "Зал 3",
       "capacity": 108,
-      "ticket_sold": 57,
-      "sold_percent": 52.8
+      "ticket_sold": 59,
+      "sold_percent": 54.6
     },
     {
       "show_id": 398220,
@@ -2558,8 +2558,8 @@
       "cinema": "mooon в ТРЦ Palazzo",
       "auditorium": "Зал 7 Visa Premiere",
       "capacity": 247,
-      "ticket_sold": 124,
-      "sold_percent": 50.2
+      "ticket_sold": 130,
+      "sold_percent": 52.6
     },
     {
       "show_id": 398066,
@@ -2828,8 +2828,8 @@
       "cinema": "Silver Screen в ТРЦ Arena сity",
       "auditorium": "Зал 6",
       "capacity": 143,
-      "ticket_sold": 10,
-      "sold_percent": 7.0
+      "ticket_sold": 14,
+      "sold_percent": 9.8
     },
     {
       "show_id": 397935,
@@ -3108,8 +3108,8 @@
       "cinema": "Silver Screen в ТРЦ Arena сity",
       "auditorium": "Зал 4",
       "capacity": 124,
-      "ticket_sold": 16,
-      "sold_percent": 12.9
+      "ticket_sold": 18,
+      "sold_percent": 14.5
     },
     {
       "show_id": 398222,
@@ -3228,8 +3228,8 @@
       "cinema": "mooon в ТРЦ Palazzo",
       "auditorium": "Зал 3 VIP",
       "capacity": 50,
-      "ticket_sold": 37,
-      "sold_percent": 74.0
+      "ticket_sold": 39,
+      "sold_percent": 78.0
     },
     {
       "show_id": 398214,
@@ -3318,8 +3318,8 @@
       "cinema": "mooon в ТРЦ Palazzo",
       "auditorium": "Зал 1 mooon IMAX",
       "capacity": 330,
-      "ticket_sold": 66,
-      "sold_percent": 20.0
+      "ticket_sold": 68,
+      "sold_percent": 20.6
     },
     {
       "show_id": 397679,
@@ -3438,8 +3438,8 @@
       "cinema": "mooon в ТРК Minsk City Mall",
       "auditorium": "Зал 2 Lounge",
       "capacity": 60,
-      "ticket_sold": 54,
-      "sold_percent": 90.0
+      "ticket_sold": 56,
+      "sold_percent": 93.3
     },
     {
       "show_id": 397677,
@@ -3678,8 +3678,8 @@
       "cinema": "mooon в ТРЦ Palazzo",
       "auditorium": "Зал 7 Visa Premiere",
       "capacity": 247,
-      "ticket_sold": 36,
-      "sold_percent": 14.6
+      "ticket_sold": 38,
+      "sold_percent": 15.4
     },
     {
       "show_id": 398122,
