@@ -1,10 +1,10 @@
 {
   "meta": {
-    "generated_at": "2026-08-17T14:30:04+03:00",
+    "generated_at": "2026-08-17T15:30:03+03:00",
     "timezone": "Europe/Minsk",
     "report_from": "2026-08-12",
     "report_to_exclusive": "2026-10-01",
-    "show_count": 531
+    "show_count": 557
   },
   "event": {
     "id": 4480,
@@ -2198,8 +2198,8 @@
       "cinema": "mooon в ТРК Minsk City Mall",
       "auditorium": "Зал 3 mooon+",
       "capacity": 156,
-      "ticket_sold": 122,
-      "sold_percent": 78.2
+      "ticket_sold": 114,
+      "sold_percent": 73.1
     },
     {
       "show_id": 397998,
@@ -2208,8 +2208,8 @@
       "cinema": "mooon в ТРК Triniti",
       "auditorium": "Зал 3 Premiere",
       "capacity": 265,
-      "ticket_sold": 68,
-      "sold_percent": 25.7
+      "ticket_sold": 85,
+      "sold_percent": 32.1
     },
     {
       "show_id": 397856,
@@ -2218,8 +2218,8 @@
       "cinema": "mooon в ТРЦ Palazzo",
       "auditorium": "Зал 1 mooon IMAX",
       "capacity": 330,
-      "ticket_sold": 227,
-      "sold_percent": 68.8
+      "ticket_sold": 238,
+      "sold_percent": 72.1
     },
     {
       "show_id": 397623,
@@ -2228,8 +2228,8 @@
       "cinema": "mooon в ТРЦ Dana Mall",
       "auditorium": "Зал 1 Premiere",
       "capacity": 231,
-      "ticket_sold": 188,
-      "sold_percent": 81.4
+      "ticket_sold": 215,
+      "sold_percent": 93.1
     },
     {
       "show_id": 398232,
@@ -2238,8 +2238,8 @@
       "cinema": "Silver Screen в ТРЦ Arena сity",
       "auditorium": "Зал 2",
       "capacity": 125,
-      "ticket_sold": 52,
-      "sold_percent": 41.6
+      "ticket_sold": 68,
+      "sold_percent": 54.4
     },
     {
       "show_id": 397882,
@@ -2248,8 +2248,8 @@
       "cinema": "mooon в ТРЦ Palazzo",
       "auditorium": "Зал 5 mooon+",
       "capacity": 116,
-      "ticket_sold": 96,
-      "sold_percent": 82.8
+      "ticket_sold": 105,
+      "sold_percent": 90.5
     },
     {
       "show_id": 398241,
@@ -2258,8 +2258,8 @@
       "cinema": "mooon в ТРК Triniti",
       "auditorium": "Зал 2 Classic",
       "capacity": 104,
-      "ticket_sold": 71,
-      "sold_percent": 68.3
+      "ticket_sold": 81,
+      "sold_percent": 77.9
     },
     {
       "show_id": 397636,
@@ -2268,8 +2268,8 @@
       "cinema": "mooon в ТРЦ Dana Mall",
       "auditorium": "Зал 3 Screen X",
       "capacity": 204,
-      "ticket_sold": 160,
-      "sold_percent": 78.4
+      "ticket_sold": 186,
+      "sold_percent": 91.2
     },
     {
       "show_id": 398207,
@@ -2278,8 +2278,8 @@
       "cinema": "Silver Screen в ТРЦ Arena сity",
       "auditorium": "Зал 3",
       "capacity": 108,
-      "ticket_sold": 43,
-      "sold_percent": 39.8
+      "ticket_sold": 50,
+      "sold_percent": 46.3
     },
     {
       "show_id": 397788,
@@ -2288,8 +2288,8 @@
       "cinema": "Silver Screen в ТРЦ Arena сity",
       "auditorium": "Зал 6",
       "capacity": 143,
-      "ticket_sold": 57,
-      "sold_percent": 39.9
+      "ticket_sold": 70,
+      "sold_percent": 49.0
     },
     {
       "show_id": 397877,
@@ -2308,8 +2308,8 @@
       "cinema": "mooon в ТРК Triniti",
       "auditorium": "Зал 3 Premiere",
       "capacity": 265,
-      "ticket_sold": 149,
-      "sold_percent": 56.2
+      "ticket_sold": 161,
+      "sold_percent": 60.8
     },
     {
       "show_id": 398083,
@@ -2318,8 +2318,8 @@
       "cinema": "mooon в ТРК Minsk City Mall",
       "auditorium": "Зал 3 mooon+",
       "capacity": 156,
-      "ticket_sold": 155,
-      "sold_percent": 99.4
+      "ticket_sold": 151,
+      "sold_percent": 96.8
     },
     {
       "show_id": 398076,
@@ -2338,8 +2338,8 @@
       "cinema": "Silver Screen в ТРЦ Arena сity",
       "auditorium": "Зал 2",
       "capacity": 125,
-      "ticket_sold": 96,
-      "sold_percent": 76.8
+      "ticket_sold": 110,
+      "sold_percent": 88.0
     },
     {
       "show_id": 397621,
@@ -2348,8 +2348,8 @@
       "cinema": "mooon в ТРЦ Dana Mall",
       "auditorium": "Зал 1 Premiere",
       "capacity": 231,
-      "ticket_sold": 225,
-      "sold_percent": 97.4
+      "ticket_sold": 224,
+      "sold_percent": 97.0
     },
     {
       "show_id": 397983,
@@ -2358,8 +2358,8 @@
       "cinema": "mooon в ТРК Triniti",
       "auditorium": "Зал 1 Kids",
       "capacity": 260,
-      "ticket_sold": 168,
-      "sold_percent": 64.6
+      "ticket_sold": 170,
+      "sold_percent": 65.4
     },
     {
       "show_id": 397881,
@@ -2372,14 +2372,24 @@
       "sold_percent": 98.3
     },
     {
+      "show_id": 399038,
+      "start": "2026-08-17T18:30:00+03:00",
+      "event_name": "Человек-паук: Новый день",
+      "cinema": "Silver Screen в ТРЦ Arena сity",
+      "auditorium": "Зал 4",
+      "capacity": 124,
+      "ticket_sold": 19,
+      "sold_percent": 15.3
+    },
+    {
       "show_id": 397663,
       "start": "2026-08-17T18:40:00+03:00",
       "event_name": "Человек-паук: Новый день",
       "cinema": "mooon в ТРЦ Dana Mall",
       "auditorium": "Зал 7 VIP",
       "capacity": 48,
-      "ticket_sold": 48,
-      "sold_percent": 100.0
+      "ticket_sold": 47,
+      "sold_percent": 97.9
     },
     {
       "show_id": 398273,
@@ -2408,8 +2418,8 @@
       "cinema": "Silver Screen в ТРЦ Arena сity",
       "auditorium": "Зал 3",
       "capacity": 108,
-      "ticket_sold": 98,
-      "sold_percent": 90.7
+      "ticket_sold": 101,
+      "sold_percent": 93.5
     },
     {
       "show_id": 397789,
@@ -2418,8 +2428,8 @@
       "cinema": "Silver Screen в ТРЦ Arena сity",
       "auditorium": "Зал 6",
       "capacity": 143,
-      "ticket_sold": 128,
-      "sold_percent": 89.5
+      "ticket_sold": 132,
+      "sold_percent": 92.3
     },
     {
       "show_id": 397631,
@@ -2458,8 +2468,8 @@
       "cinema": "mooon в ТРК Minsk City Mall",
       "auditorium": "Зал 3 mooon+",
       "capacity": 156,
-      "ticket_sold": 153,
-      "sold_percent": 98.1
+      "ticket_sold": 155,
+      "sold_percent": 99.4
     },
     {
       "show_id": 398234,
@@ -2468,8 +2478,8 @@
       "cinema": "Silver Screen в ТРЦ Arena сity",
       "auditorium": "Зал 2",
       "capacity": 125,
-      "ticket_sold": 108,
-      "sold_percent": 86.4
+      "ticket_sold": 110,
+      "sold_percent": 88.0
     },
     {
       "show_id": 398003,
@@ -2498,8 +2508,18 @@
       "cinema": "mooon в ТРК Triniti",
       "auditorium": "Зал 1 Kids",
       "capacity": 260,
-      "ticket_sold": 176,
-      "sold_percent": 67.7
+      "ticket_sold": 178,
+      "sold_percent": 68.5
+    },
+    {
+      "show_id": 399039,
+      "start": "2026-08-17T21:30:00+03:00",
+      "event_name": "Человек-паук: Новый день",
+      "cinema": "Silver Screen в ТРЦ Arena сity",
+      "auditorium": "Зал 4",
+      "capacity": 124,
+      "ticket_sold": 28,
+      "sold_percent": 22.6
     },
     {
       "show_id": 397657,
@@ -2528,8 +2548,8 @@
       "cinema": "mooon в ТРЦ Palazzo",
       "auditorium": "Зал 1 mooon IMAX",
       "capacity": 330,
-      "ticket_sold": 276,
-      "sold_percent": 83.6
+      "ticket_sold": 278,
+      "sold_percent": 84.2
     },
     {
       "show_id": 398275,
@@ -2548,8 +2568,8 @@
       "cinema": "Silver Screen в ТРЦ Arena сity",
       "auditorium": "Зал 3",
       "capacity": 108,
-      "ticket_sold": 75,
-      "sold_percent": 69.4
+      "ticket_sold": 80,
+      "sold_percent": 74.1
     },
     {
       "show_id": 398220,
@@ -2558,8 +2578,8 @@
       "cinema": "mooon в ТРЦ Palazzo",
       "auditorium": "Зал 7 Visa Premiere",
       "capacity": 247,
-      "ticket_sold": 183,
-      "sold_percent": 74.1
+      "ticket_sold": 186,
+      "sold_percent": 75.3
     },
     {
       "show_id": 398066,
@@ -2568,8 +2588,8 @@
       "cinema": "mooon в ТРК Minsk City Mall",
       "auditorium": "Зал 1 Premiere",
       "capacity": 269,
-      "ticket_sold": 227,
-      "sold_percent": 84.4
+      "ticket_sold": 233,
+      "sold_percent": 86.6
     },
     {
       "show_id": 397741,
@@ -2618,8 +2638,8 @@
       "cinema": "mooon в ТРК Minsk City Mall",
       "auditorium": "Зал 1 Premiere",
       "capacity": 269,
-      "ticket_sold": 69,
-      "sold_percent": 25.7
+      "ticket_sold": 75,
+      "sold_percent": 27.9
     },
     {
       "show_id": 397965,
@@ -2628,8 +2648,8 @@
       "cinema": "mooon в ТРЦ Palazzo",
       "auditorium": "Зал 7 Visa Premiere",
       "capacity": 247,
-      "ticket_sold": 24,
-      "sold_percent": 9.7
+      "ticket_sold": 26,
+      "sold_percent": 10.5
     },
     {
       "show_id": 398277,
@@ -2658,8 +2678,8 @@
       "cinema": "mooon в ТРЦ Palazzo",
       "auditorium": "Зал 3 VIP",
       "capacity": 50,
-      "ticket_sold": 42,
-      "sold_percent": 84.0
+      "ticket_sold": 48,
+      "sold_percent": 96.0
     },
     {
       "show_id": 398012,
@@ -2698,8 +2718,8 @@
       "cinema": "mooon в ТРЦ Dana Mall",
       "auditorium": "Зал 4 Lounge",
       "capacity": 70,
-      "ticket_sold": 30,
-      "sold_percent": 42.9
+      "ticket_sold": 32,
+      "sold_percent": 45.7
     },
     {
       "show_id": 398242,
@@ -2728,8 +2748,8 @@
       "cinema": "mooon в ТРЦ Dana Mall",
       "auditorium": "Зал 2",
       "capacity": 131,
-      "ticket_sold": 34,
-      "sold_percent": 26.0
+      "ticket_sold": 40,
+      "sold_percent": 30.5
     },
     {
       "show_id": 398262,
@@ -2738,8 +2758,8 @@
       "cinema": "mooon в ТРК Minsk City Mall",
       "auditorium": "Зал 3 mooon+",
       "capacity": 156,
-      "ticket_sold": 80,
-      "sold_percent": 51.3
+      "ticket_sold": 87,
+      "sold_percent": 55.8
     },
     {
       "show_id": 397901,
@@ -2758,8 +2778,8 @@
       "cinema": "mooon в ТРК Triniti",
       "auditorium": "Зал 3 Premiere",
       "capacity": 265,
-      "ticket_sold": 31,
-      "sold_percent": 11.7
+      "ticket_sold": 32,
+      "sold_percent": 12.1
     },
     {
       "show_id": 397672,
@@ -2768,8 +2788,8 @@
       "cinema": "mooon в ТРЦ Dana Mall",
       "auditorium": "Зал 1 Premiere",
       "capacity": 231,
-      "ticket_sold": 83,
-      "sold_percent": 35.9
+      "ticket_sold": 87,
+      "sold_percent": 37.7
     },
     {
       "show_id": 398286,
@@ -2798,8 +2818,8 @@
       "cinema": "mooon в ТРЦ Palazzo",
       "auditorium": "Зал 7 Visa Premiere",
       "capacity": 247,
-      "ticket_sold": 72,
-      "sold_percent": 29.1
+      "ticket_sold": 79,
+      "sold_percent": 32.0
     },
     {
       "show_id": 397699,
@@ -2808,8 +2828,8 @@
       "cinema": "mooon в ТРЦ Dana Mall",
       "auditorium": "Зал 3 Screen X",
       "capacity": 204,
-      "ticket_sold": 75,
-      "sold_percent": 36.8
+      "ticket_sold": 83,
+      "sold_percent": 40.7
     },
     {
       "show_id": 398211,
@@ -2828,8 +2848,8 @@
       "cinema": "Silver Screen в ТРЦ Arena сity",
       "auditorium": "Зал 6",
       "capacity": 143,
-      "ticket_sold": 17,
-      "sold_percent": 11.9
+      "ticket_sold": 19,
+      "sold_percent": 13.3
     },
     {
       "show_id": 397935,
@@ -2848,8 +2868,8 @@
       "cinema": "mooon в ТРК Triniti",
       "auditorium": "Зал 4 Resto",
       "capacity": 36,
-      "ticket_sold": 18,
-      "sold_percent": 50.0
+      "ticket_sold": 20,
+      "sold_percent": 55.6
     },
     {
       "show_id": 398039,
@@ -2858,8 +2878,8 @@
       "cinema": "mooon в ТРК Triniti",
       "auditorium": "Зал 3 Premiere",
       "capacity": 265,
-      "ticket_sold": 89,
-      "sold_percent": 33.6
+      "ticket_sold": 96,
+      "sold_percent": 36.2
     },
     {
       "show_id": 397670,
@@ -2878,8 +2898,8 @@
       "cinema": "mooon в ТРК Minsk City Mall",
       "auditorium": "Зал 2 Lounge",
       "capacity": 60,
-      "ticket_sold": 58,
-      "sold_percent": 96.7
+      "ticket_sold": 60,
+      "sold_percent": 100.0
     },
     {
       "show_id": 398011,
@@ -2928,8 +2948,8 @@
       "cinema": "Silver Screen в ТРЦ Arena сity",
       "auditorium": "Зал 3",
       "capacity": 108,
-      "ticket_sold": 65,
-      "sold_percent": 60.2
+      "ticket_sold": 71,
+      "sold_percent": 65.7
     },
     {
       "show_id": 397844,
@@ -3008,8 +3028,8 @@
       "cinema": "mooon в ТРЦ Dana Mall",
       "auditorium": "Зал 1 Premiere",
       "capacity": 231,
-      "ticket_sold": 158,
-      "sold_percent": 68.4
+      "ticket_sold": 162,
+      "sold_percent": 70.1
     },
     {
       "show_id": 398288,
@@ -3018,8 +3038,8 @@
       "cinema": "Silver Screen в ТРЦ Arena сity",
       "auditorium": "Зал 2",
       "capacity": 125,
-      "ticket_sold": 32,
-      "sold_percent": 25.6
+      "ticket_sold": 35,
+      "sold_percent": 28.0
     },
     {
       "show_id": 397669,
@@ -3028,8 +3048,8 @@
       "cinema": "mooon в ТРЦ Dana Mall",
       "auditorium": "Зал 5 MTB Kids by Visa",
       "capacity": 119,
-      "ticket_sold": 85,
-      "sold_percent": 71.4
+      "ticket_sold": 101,
+      "sold_percent": 84.9
     },
     {
       "show_id": 397902,
@@ -3038,8 +3058,8 @@
       "cinema": "mooon в ТРЦ Palazzo",
       "auditorium": "Зал 1 mooon IMAX",
       "capacity": 330,
-      "ticket_sold": 168,
-      "sold_percent": 50.9
+      "ticket_sold": 172,
+      "sold_percent": 52.1
     },
     {
       "show_id": 398010,
@@ -3048,8 +3068,8 @@
       "cinema": "mooon в ТРК Triniti",
       "auditorium": "Зал 1 Kids",
       "capacity": 260,
-      "ticket_sold": 45,
-      "sold_percent": 17.3
+      "ticket_sold": 47,
+      "sold_percent": 18.1
     },
     {
       "show_id": 397740,
@@ -3068,8 +3088,8 @@
       "cinema": "mooon в ТРЦ Dana Mall",
       "auditorium": "Зал 7 VIP",
       "capacity": 48,
-      "ticket_sold": 46,
-      "sold_percent": 95.8
+      "ticket_sold": 47,
+      "sold_percent": 97.9
     },
     {
       "show_id": 397979,
@@ -3088,8 +3108,8 @@
       "cinema": "mooon в ТРК Minsk City Mall",
       "auditorium": "Зал 3 mooon+",
       "capacity": 156,
-      "ticket_sold": 103,
-      "sold_percent": 66.0
+      "ticket_sold": 108,
+      "sold_percent": 69.2
     },
     {
       "show_id": 398213,
@@ -3098,8 +3118,8 @@
       "cinema": "Silver Screen в ТРЦ Arena сity",
       "auditorium": "Зал 3",
       "capacity": 108,
-      "ticket_sold": 22,
-      "sold_percent": 20.4
+      "ticket_sold": 24,
+      "sold_percent": 22.2
     },
     {
       "show_id": 397825,
@@ -3118,8 +3138,8 @@
       "cinema": "mooon в ТРЦ Palazzo",
       "auditorium": "Зал 7 Visa Premiere",
       "capacity": 247,
-      "ticket_sold": 63,
-      "sold_percent": 25.5
+      "ticket_sold": 69,
+      "sold_percent": 27.9
     },
     {
       "show_id": 398094,
@@ -3158,8 +3178,8 @@
       "cinema": "mooon в ТРЦ Dana Mall",
       "auditorium": "Зал 1 Premiere",
       "capacity": 231,
-      "ticket_sold": 21,
-      "sold_percent": 9.1
+      "ticket_sold": 24,
+      "sold_percent": 10.4
     },
     {
       "show_id": 398125,
@@ -3188,8 +3208,8 @@
       "cinema": "mooon в ТРЦ Palazzo",
       "auditorium": "Зал 7 Visa Premiere",
       "capacity": 247,
-      "ticket_sold": 12,
-      "sold_percent": 4.9
+      "ticket_sold": 14,
+      "sold_percent": 5.7
     },
     {
       "show_id": 398289,
@@ -3298,8 +3318,8 @@
       "cinema": "mooon в ТРК Minsk City Mall",
       "auditorium": "Зал 3 mooon+",
       "capacity": 156,
-      "ticket_sold": 46,
-      "sold_percent": 29.5
+      "ticket_sold": 48,
+      "sold_percent": 30.8
     },
     {
       "show_id": 398047,
@@ -3358,8 +3378,8 @@
       "cinema": "mooon в ТРЦ Palazzo",
       "auditorium": "Зал 5 mooon+",
       "capacity": 116,
-      "ticket_sold": 24,
-      "sold_percent": 20.7
+      "ticket_sold": 27,
+      "sold_percent": 23.3
     },
     {
       "show_id": 397706,
@@ -3368,8 +3388,8 @@
       "cinema": "mooon в ТРЦ Dana Mall",
       "auditorium": "Зал 3 Screen X",
       "capacity": 204,
-      "ticket_sold": 43,
-      "sold_percent": 21.1
+      "ticket_sold": 46,
+      "sold_percent": 22.5
     },
     {
       "show_id": 398215,
@@ -3388,8 +3408,8 @@
       "cinema": "mooon в ТРЦ Palazzo",
       "auditorium": "Зал 7 Visa Premiere",
       "capacity": 247,
-      "ticket_sold": 45,
-      "sold_percent": 18.2
+      "ticket_sold": 48,
+      "sold_percent": 19.4
     },
     {
       "show_id": 397850,
@@ -3408,8 +3428,8 @@
       "cinema": "mooon в ТРЦ Palazzo",
       "auditorium": "Зал 4 Resto Minges",
       "capacity": 76,
-      "ticket_sold": 36,
-      "sold_percent": 47.4
+      "ticket_sold": 39,
+      "sold_percent": 51.3
     },
     {
       "show_id": 398282,
@@ -3418,8 +3438,8 @@
       "cinema": "mooon в ТРК Triniti",
       "auditorium": "Зал 4 Resto",
       "capacity": 36,
-      "ticket_sold": 14,
-      "sold_percent": 38.9
+      "ticket_sold": 16,
+      "sold_percent": 44.4
     },
     {
       "show_id": 398046,
@@ -3428,8 +3448,8 @@
       "cinema": "mooon в ТРК Triniti",
       "auditorium": "Зал 3 Premiere",
       "capacity": 265,
-      "ticket_sold": 48,
-      "sold_percent": 18.1
+      "ticket_sold": 50,
+      "sold_percent": 18.9
     },
     {
       "show_id": 398132,
@@ -3448,8 +3468,8 @@
       "cinema": "mooon в ТРЦ Dana Mall",
       "auditorium": "Зал 1 Premiere",
       "capacity": 231,
-      "ticket_sold": 184,
-      "sold_percent": 79.7
+      "ticket_sold": 188,
+      "sold_percent": 81.4
     },
     {
       "show_id": 398018,
@@ -3508,8 +3528,8 @@
       "cinema": "Silver Screen в ТРЦ Arena сity",
       "auditorium": "Зал 6",
       "capacity": 143,
-      "ticket_sold": 67,
-      "sold_percent": 46.9
+      "ticket_sold": 69,
+      "sold_percent": 48.3
     },
     {
       "show_id": 397694,
@@ -3518,8 +3538,8 @@
       "cinema": "mooon в ТРЦ Dana Mall",
       "auditorium": "Зал 2",
       "capacity": 131,
-      "ticket_sold": 116,
-      "sold_percent": 88.5
+      "ticket_sold": 118,
+      "sold_percent": 90.1
     },
     {
       "show_id": 398283,
@@ -3528,8 +3548,8 @@
       "cinema": "mooon в ТРК Triniti",
       "auditorium": "Зал 4 Resto",
       "capacity": 36,
-      "ticket_sold": 20,
-      "sold_percent": 55.6
+      "ticket_sold": 22,
+      "sold_percent": 61.1
     },
     {
       "show_id": 397962,
@@ -3538,8 +3558,8 @@
       "cinema": "mooon в ТРЦ Palazzo",
       "auditorium": "Зал 6 Kids",
       "capacity": 82,
-      "ticket_sold": 37,
-      "sold_percent": 45.1
+      "ticket_sold": 39,
+      "sold_percent": 47.6
     },
     {
       "show_id": 398136,
@@ -3548,8 +3568,8 @@
       "cinema": "mooon в ТРК Minsk City Mall",
       "auditorium": "Зал 3 mooon+",
       "capacity": 156,
-      "ticket_sold": 101,
-      "sold_percent": 64.7
+      "ticket_sold": 106,
+      "sold_percent": 67.9
     },
     {
       "show_id": 398190,
@@ -3598,8 +3618,8 @@
       "cinema": "mooon в ТРЦ Dana Mall",
       "auditorium": "Зал 1 Premiere",
       "capacity": 231,
-      "ticket_sold": 124,
-      "sold_percent": 53.7
+      "ticket_sold": 130,
+      "sold_percent": 56.3
     },
     {
       "show_id": 398017,
@@ -3638,8 +3658,8 @@
       "cinema": "mooon в ТРЦ Palazzo",
       "auditorium": "Зал 1 mooon IMAX",
       "capacity": 330,
-      "ticket_sold": 139,
-      "sold_percent": 42.1
+      "ticket_sold": 151,
+      "sold_percent": 45.8
     },
     {
       "show_id": 397919,
@@ -3668,8 +3688,8 @@
       "cinema": "Silver Screen в ТРЦ Arena сity",
       "auditorium": "Зал 4",
       "capacity": 124,
-      "ticket_sold": 4,
-      "sold_percent": 3.2
+      "ticket_sold": 8,
+      "sold_percent": 6.5
     },
     {
       "show_id": 398236,
@@ -3688,8 +3708,8 @@
       "cinema": "mooon в ТРК Minsk City Mall",
       "auditorium": "Зал 1 Premiere",
       "capacity": 269,
-      "ticket_sold": 107,
-      "sold_percent": 39.8
+      "ticket_sold": 109,
+      "sold_percent": 40.5
     },
     {
       "show_id": 398598,
@@ -3722,12 +3742,32 @@
       "sold_percent": 0.0
     },
     {
+      "show_id": 399043,
+      "start": "2026-08-20T11:50:00+03:00",
+      "event_name": "Человек-паук: Новый день",
+      "cinema": "mooon в ТРК Minsk City Mall",
+      "auditorium": "Зал 1 Premiere",
+      "capacity": 269,
+      "ticket_sold": 0,
+      "sold_percent": 0.0
+    },
+    {
       "show_id": 398720,
       "start": "2026-08-20T12:00:00+03:00",
       "event_name": "Человек-паук: Новый день",
       "cinema": "mooon в ТРЦ Palazzo",
       "auditorium": "Зал 7 Visa Premiere",
       "capacity": 247,
+      "ticket_sold": 0,
+      "sold_percent": 0.0
+    },
+    {
+      "show_id": 399153,
+      "start": "2026-08-20T12:00:00+03:00",
+      "event_name": "Человек-паук: Новый день",
+      "cinema": "mooon в ТРК Triniti",
+      "auditorium": "Зал 3 Premiere",
+      "capacity": 265,
       "ticket_sold": 0,
       "sold_percent": 0.0
     },
@@ -3742,12 +3782,32 @@
       "sold_percent": 0.0
     },
     {
+      "show_id": 399054,
+      "start": "2026-08-20T12:10:00+03:00",
+      "event_name": "Человек-паук: Новый день",
+      "cinema": "mooon в ТРК Minsk City Mall",
+      "auditorium": "Зал 3 mooon+",
+      "capacity": 156,
+      "ticket_sold": 0,
+      "sold_percent": 0.0
+    },
+    {
       "show_id": 399023,
       "start": "2026-08-20T12:40:00+03:00",
       "event_name": "Человек-паук: Новый день",
       "cinema": "Silver Screen в ТРЦ Arena сity",
       "auditorium": "Зал 4",
       "capacity": 124,
+      "ticket_sold": 0,
+      "sold_percent": 0.0
+    },
+    {
+      "show_id": 399139,
+      "start": "2026-08-20T12:50:00+03:00",
+      "event_name": "Человек-паук: Новый день",
+      "cinema": "mooon в ТРК Triniti",
+      "auditorium": "Зал 1 Kids",
+      "capacity": 260,
       "ticket_sold": 0,
       "sold_percent": 0.0
     },
@@ -3782,22 +3842,22 @@
       "sold_percent": 0.0
     },
     {
+      "show_id": 399064,
+      "start": "2026-08-20T15:10:00+03:00",
+      "event_name": "Человек-паук: Новый день",
+      "cinema": "mooon в ТРК Minsk City Mall",
+      "auditorium": "Зал 3 mooon+",
+      "capacity": 156,
+      "ticket_sold": 0,
+      "sold_percent": 0.0
+    },
+    {
       "show_id": 398402,
       "start": "2026-08-20T15:20:00+03:00",
       "event_name": "Человек-паук: Новый день",
       "cinema": "mooon в ТРЦ Dana Mall",
       "auditorium": "Зал 3 Screen X",
       "capacity": 204,
-      "ticket_sold": 0,
-      "sold_percent": 0.0
-    },
-    {
-      "show_id": 398679,
-      "start": "2026-08-20T15:20:00+03:00",
-      "event_name": "Человек-паук: Новый день",
-      "cinema": "mooon в ТРЦ Palazzo",
-      "auditorium": "Зал 5 mooon+",
-      "capacity": 116,
       "ticket_sold": 0,
       "sold_percent": 0.0
     },
@@ -3813,7 +3873,7 @@
     },
     {
       "show_id": 398640,
-      "start": "2026-08-20T15:50:00+03:00",
+      "start": "2026-08-20T15:30:00+03:00",
       "event_name": "Человек-паук: Новый день",
       "cinema": "mooon в ТРЦ Palazzo",
       "auditorium": "Зал 3 VIP",
@@ -3822,8 +3882,18 @@
       "sold_percent": 0.0
     },
     {
+      "show_id": 399058,
+      "start": "2026-08-20T15:45:00+03:00",
+      "event_name": "Человек-паук: Новый день",
+      "cinema": "mooon в ТРК Minsk City Mall",
+      "auditorium": "Зал 4 HEROES",
+      "capacity": 29,
+      "ticket_sold": 0,
+      "sold_percent": 0.0
+    },
+    {
       "show_id": 398660,
-      "start": "2026-08-20T16:00:00+03:00",
+      "start": "2026-08-20T15:50:00+03:00",
       "event_name": "Человек-паук: Новый день",
       "cinema": "mooon в ТРЦ Palazzo",
       "auditorium": "Зал 4 Resto Minges",
@@ -3872,16 +3942,6 @@
       "sold_percent": 0.0
     },
     {
-      "show_id": 398481,
-      "start": "2026-08-20T18:20:00+03:00",
-      "event_name": "Человек-паук: Новый день",
-      "cinema": "mooon в ТРЦ Dana Mall",
-      "auditorium": "Зал 7 VIP",
-      "capacity": 48,
-      "ticket_sold": 0,
-      "sold_percent": 0.0
-    },
-    {
       "show_id": 398760,
       "start": "2026-08-20T18:20:00+03:00",
       "event_name": "Человек-паук: Новый день",
@@ -3892,8 +3952,38 @@
       "sold_percent": 0.0
     },
     {
-      "show_id": 398400,
+      "show_id": 399041,
+      "start": "2026-08-20T18:20:00+03:00",
+      "event_name": "Человек-паук: Новый день",
+      "cinema": "mooon в ТРК Minsk City Mall",
+      "auditorium": "Зал 1 Premiere",
+      "capacity": 269,
+      "ticket_sold": 0,
+      "sold_percent": 0.0
+    },
+    {
+      "show_id": 398481,
       "start": "2026-08-20T18:30:00+03:00",
+      "event_name": "Человек-паук: Новый день",
+      "cinema": "mooon в ТРЦ Dana Mall",
+      "auditorium": "Зал 7 VIP",
+      "capacity": 48,
+      "ticket_sold": 0,
+      "sold_percent": 0.0
+    },
+    {
+      "show_id": 399151,
+      "start": "2026-08-20T18:30:00+03:00",
+      "event_name": "Человек-паук: Новый день",
+      "cinema": "mooon в ТРК Triniti",
+      "auditorium": "Зал 3 Premiere",
+      "capacity": 265,
+      "ticket_sold": 0,
+      "sold_percent": 0.0
+    },
+    {
+      "show_id": 398400,
+      "start": "2026-08-20T18:40:00+03:00",
       "event_name": "Человек-паук: Новый день",
       "cinema": "mooon в ТРЦ Dana Mall",
       "auditorium": "Зал 3 Screen X",
@@ -3918,6 +4008,16 @@
       "cinema": "Silver Screen в ТРЦ Arena сity",
       "auditorium": "Зал 6",
       "capacity": 143,
+      "ticket_sold": 0,
+      "sold_percent": 0.0
+    },
+    {
+      "show_id": 399140,
+      "start": "2026-08-20T20:30:00+03:00",
+      "event_name": "Человек-паук: Новый день",
+      "cinema": "mooon в ТРК Triniti",
+      "auditorium": "Зал 1 Kids",
+      "capacity": 260,
       "ticket_sold": 0,
       "sold_percent": 0.0
     },
@@ -3972,6 +4072,26 @@
       "sold_percent": 0.0
     },
     {
+      "show_id": 399065,
+      "start": "2026-08-20T21:20:00+03:00",
+      "event_name": "Человек-паук: Новый день",
+      "cinema": "mooon в ТРК Minsk City Mall",
+      "auditorium": "Зал 1 Premiere",
+      "capacity": 269,
+      "ticket_sold": 0,
+      "sold_percent": 0.0
+    },
+    {
+      "show_id": 399168,
+      "start": "2026-08-20T21:20:00+03:00",
+      "event_name": "Человек-паук: Новый день",
+      "cinema": "mooon в ТРК Triniti",
+      "auditorium": "Зал 5 VIP",
+      "capacity": 49,
+      "ticket_sold": 0,
+      "sold_percent": 0.0
+    },
+    {
       "show_id": 398482,
       "start": "2026-08-20T21:30:00+03:00",
       "event_name": "Человек-паук: Новый день",
@@ -3992,22 +4112,22 @@
       "sold_percent": 0.0
     },
     {
-      "show_id": 398401,
-      "start": "2026-08-20T21:40:00+03:00",
+      "show_id": 399154,
+      "start": "2026-08-20T21:30:00+03:00",
       "event_name": "Человек-паук: Новый день",
-      "cinema": "mooon в ТРЦ Dana Mall",
-      "auditorium": "Зал 3 Screen X",
-      "capacity": 204,
+      "cinema": "mooon в ТРК Triniti",
+      "auditorium": "Зал 3 Premiere",
+      "capacity": 265,
       "ticket_sold": 0,
       "sold_percent": 0.0
     },
     {
-      "show_id": 398382,
+      "show_id": 398401,
       "start": "2026-08-20T21:50:00+03:00",
       "event_name": "Человек-паук: Новый день",
       "cinema": "mooon в ТРЦ Dana Mall",
-      "auditorium": "Зал 2",
-      "capacity": 131,
+      "auditorium": "Зал 3 Screen X",
+      "capacity": 204,
       "ticket_sold": 0,
       "sold_percent": 0.0
     },
@@ -4018,6 +4138,16 @@
       "cinema": "mooon в ТРЦ Palazzo",
       "auditorium": "Зал 1 mooon IMAX",
       "capacity": 330,
+      "ticket_sold": 0,
+      "sold_percent": 0.0
+    },
+    {
+      "show_id": 398382,
+      "start": "2026-08-20T22:00:00+03:00",
+      "event_name": "Человек-паук: Новый день",
+      "cinema": "mooon в ТРЦ Dana Mall",
+      "auditorium": "Зал 2",
+      "capacity": 131,
       "ticket_sold": 0,
       "sold_percent": 0.0
     },
@@ -4082,16 +4212,6 @@
       "sold_percent": 0.0
     },
     {
-      "show_id": 398344,
-      "start": "2026-08-21T12:10:00+03:00",
-      "event_name": "Человек-паук: Новый день",
-      "cinema": "mooon в ТРЦ Dana Mall",
-      "auditorium": "Зал 3 Screen X",
-      "capacity": 204,
-      "ticket_sold": 0,
-      "sold_percent": 0.0
-    },
-    {
       "show_id": 398922,
       "start": "2026-08-21T12:10:00+03:00",
       "event_name": "Человек-паук: Новый день",
@@ -4102,22 +4222,22 @@
       "sold_percent": 0.0
     },
     {
+      "show_id": 398344,
+      "start": "2026-08-21T12:20:00+03:00",
+      "event_name": "Человек-паук: Новый день",
+      "cinema": "mooon в ТРЦ Dana Mall",
+      "auditorium": "Зал 3 Screen X",
+      "capacity": 204,
+      "ticket_sold": 0,
+      "sold_percent": 0.0
+    },
+    {
       "show_id": 398594,
       "start": "2026-08-21T12:20:00+03:00",
       "event_name": "Человек-паук: Новый день",
       "cinema": "mooon в ТРЦ Palazzo",
       "auditorium": "Зал 7 Visa Premiere",
       "capacity": 247,
-      "ticket_sold": 0,
-      "sold_percent": 0.0
-    },
-    {
-      "show_id": 398923,
-      "start": "2026-08-21T12:40:00+03:00",
-      "event_name": "Человек-паук: Новый день",
-      "cinema": "mooon в ТРК Minsk City Mall",
-      "auditorium": "Зал 4 HEROES",
-      "capacity": 29,
       "ticket_sold": 0,
       "sold_percent": 0.0
     },
@@ -4192,16 +4312,6 @@
       "sold_percent": 0.0
     },
     {
-      "show_id": 398343,
-      "start": "2026-08-21T15:20:00+03:00",
-      "event_name": "Человек-паук: Новый день",
-      "cinema": "mooon в ТРЦ Dana Mall",
-      "auditorium": "Зал 3 Screen X",
-      "capacity": 204,
-      "ticket_sold": 0,
-      "sold_percent": 0.0
-    },
-    {
       "show_id": 398802,
       "start": "2026-08-21T15:20:00+03:00",
       "event_name": "Человек-паук: Новый день",
@@ -4222,6 +4332,16 @@
       "sold_percent": 0.0
     },
     {
+      "show_id": 398343,
+      "start": "2026-08-21T15:30:00+03:00",
+      "event_name": "Человек-паук: Новый день",
+      "cinema": "mooon в ТРЦ Dana Mall",
+      "auditorium": "Зал 3 Screen X",
+      "capacity": 204,
+      "ticket_sold": 0,
+      "sold_percent": 0.0
+    },
+    {
       "show_id": 398590,
       "start": "2026-08-21T15:50:00+03:00",
       "event_name": "Человек-паук: Новый день",
@@ -4232,22 +4352,22 @@
       "sold_percent": 0.0
     },
     {
-      "show_id": 398591,
-      "start": "2026-08-21T16:00:00+03:00",
-      "event_name": "Человек-паук: Новый день",
-      "cinema": "mooon в ТРЦ Palazzo",
-      "auditorium": "Зал 4 Resto Minges",
-      "capacity": 76,
-      "ticket_sold": 0,
-      "sold_percent": 0.0
-    },
-    {
       "show_id": 398887,
       "start": "2026-08-21T16:10:00+03:00",
       "event_name": "Человек-паук: Новый день",
       "cinema": "Silver Screen в ТРЦ Arena сity",
       "auditorium": "Зал 6",
       "capacity": 143,
+      "ticket_sold": 0,
+      "sold_percent": 0.0
+    },
+    {
+      "show_id": 398591,
+      "start": "2026-08-21T16:20:00+03:00",
+      "event_name": "Человек-паук: Новый день",
+      "cinema": "mooon в ТРЦ Palazzo",
+      "auditorium": "Зал 4 Resto Minges",
+      "capacity": 76,
       "ticket_sold": 0,
       "sold_percent": 0.0
     },
@@ -4292,16 +4412,6 @@
       "sold_percent": 0.0
     },
     {
-      "show_id": 398347,
-      "start": "2026-08-21T18:20:00+03:00",
-      "event_name": "Человек-паук: Новый день",
-      "cinema": "mooon в ТРЦ Dana Mall",
-      "auditorium": "Зал 7 VIP",
-      "capacity": 48,
-      "ticket_sold": 0,
-      "sold_percent": 0.0
-    },
-    {
       "show_id": 398803,
       "start": "2026-08-21T18:20:00+03:00",
       "event_name": "Человек-паук: Новый день",
@@ -4312,12 +4422,12 @@
       "sold_percent": 0.0
     },
     {
-      "show_id": 398329,
+      "show_id": 398347,
       "start": "2026-08-21T18:30:00+03:00",
       "event_name": "Человек-паук: Новый день",
       "cinema": "mooon в ТРЦ Dana Mall",
-      "auditorium": "Зал 3 Screen X",
-      "capacity": 204,
+      "auditorium": "Зал 7 VIP",
+      "capacity": 48,
       "ticket_sold": 0,
       "sold_percent": 0.0
     },
@@ -4332,12 +4442,12 @@
       "sold_percent": 0.0
     },
     {
-      "show_id": 398592,
-      "start": "2026-08-21T19:00:00+03:00",
+      "show_id": 398329,
+      "start": "2026-08-21T18:40:00+03:00",
       "event_name": "Человек-паук: Новый день",
-      "cinema": "mooon в ТРЦ Palazzo",
-      "auditorium": "Зал 4 Resto Minges",
-      "capacity": 76,
+      "cinema": "mooon в ТРЦ Dana Mall",
+      "auditorium": "Зал 3 Screen X",
+      "capacity": 204,
       "ticket_sold": 0,
       "sold_percent": 0.0
     },
@@ -4348,6 +4458,16 @@
       "cinema": "Silver Screen в ТРЦ Arena сity",
       "auditorium": "Зал 6",
       "capacity": 143,
+      "ticket_sold": 0,
+      "sold_percent": 0.0
+    },
+    {
+      "show_id": 398592,
+      "start": "2026-08-21T19:20:00+03:00",
+      "event_name": "Человек-паук: Новый день",
+      "cinema": "mooon в ТРЦ Palazzo",
+      "auditorium": "Зал 4 Resto Minges",
+      "capacity": 76,
       "ticket_sold": 0,
       "sold_percent": 0.0
     },
@@ -4463,21 +4583,11 @@
     },
     {
       "show_id": 398340,
-      "start": "2026-08-21T21:40:00+03:00",
+      "start": "2026-08-21T21:50:00+03:00",
       "event_name": "Человек-паук: Новый день",
       "cinema": "mooon в ТРЦ Dana Mall",
       "auditorium": "Зал 3 Screen X",
       "capacity": 204,
-      "ticket_sold": 0,
-      "sold_percent": 0.0
-    },
-    {
-      "show_id": 398356,
-      "start": "2026-08-21T21:50:00+03:00",
-      "event_name": "Человек-паук: Новый день",
-      "cinema": "mooon в ТРЦ Dana Mall",
-      "auditorium": "Зал 2",
-      "capacity": 131,
       "ticket_sold": 0,
       "sold_percent": 0.0
     },
@@ -4488,6 +4598,16 @@
       "cinema": "mooon в ТРЦ Palazzo",
       "auditorium": "Зал 1 mooon IMAX",
       "capacity": 330,
+      "ticket_sold": 0,
+      "sold_percent": 0.0
+    },
+    {
+      "show_id": 398356,
+      "start": "2026-08-21T22:00:00+03:00",
+      "event_name": "Человек-паук: Новый день",
+      "cinema": "mooon в ТРЦ Dana Mall",
+      "auditorium": "Зал 2",
+      "capacity": 131,
       "ticket_sold": 0,
       "sold_percent": 0.0
     },
@@ -4518,6 +4638,16 @@
       "cinema": "mooon в ТРК Triniti",
       "auditorium": "Зал 2 Classic",
       "capacity": 104,
+      "ticket_sold": 0,
+      "sold_percent": 0.0
+    },
+    {
+      "show_id": 399195,
+      "start": "2026-08-21T22:10:00+03:00",
+      "event_name": "Человек-паук: Новый день",
+      "cinema": "mooon в ТРЦ Palazzo",
+      "auditorium": "Зал 5 mooon+",
+      "capacity": 116,
       "ticket_sold": 0,
       "sold_percent": 0.0
     },
@@ -4572,6 +4702,16 @@
       "sold_percent": 0.0
     },
     {
+      "show_id": 399097,
+      "start": "2026-08-22T12:00:00+03:00",
+      "event_name": "Человек-паук: Новый день",
+      "cinema": "mooon в ТРК Triniti",
+      "auditorium": "Зал 3 Premiere",
+      "capacity": 265,
+      "ticket_sold": 0,
+      "sold_percent": 0.0
+    },
+    {
       "show_id": 398389,
       "start": "2026-08-22T12:20:00+03:00",
       "event_name": "Человек-паук: Новый день",
@@ -4592,22 +4732,22 @@
       "sold_percent": 0.0
     },
     {
-      "show_id": 398996,
-      "start": "2026-08-22T12:30:00+03:00",
-      "event_name": "Человек-паук: Новый день",
-      "cinema": "mooon в ТРК Minsk City Mall",
-      "auditorium": "Зал 4 HEROES",
-      "capacity": 29,
-      "ticket_sold": 0,
-      "sold_percent": 0.0
-    },
-    {
       "show_id": 399024,
       "start": "2026-08-22T12:40:00+03:00",
       "event_name": "Человек-паук: Новый день",
       "cinema": "Silver Screen в ТРЦ Arena сity",
       "auditorium": "Зал 4",
       "capacity": 124,
+      "ticket_sold": 0,
+      "sold_percent": 0.0
+    },
+    {
+      "show_id": 399069,
+      "start": "2026-08-22T12:50:00+03:00",
+      "event_name": "Человек-паук: Новый день",
+      "cinema": "mooon в ТРК Triniti",
+      "auditorium": "Зал 1 Kids",
+      "capacity": 260,
       "ticket_sold": 0,
       "sold_percent": 0.0
     },
@@ -4752,6 +4892,16 @@
       "sold_percent": 0.0
     },
     {
+      "show_id": 399095,
+      "start": "2026-08-22T18:30:00+03:00",
+      "event_name": "Человек-паук: Новый день",
+      "cinema": "mooon в ТРК Triniti",
+      "auditorium": "Зал 3 Premiere",
+      "capacity": 265,
+      "ticket_sold": 0,
+      "sold_percent": 0.0
+    },
+    {
       "show_id": 398407,
       "start": "2026-08-22T18:40:00+03:00",
       "event_name": "Человек-паук: Новый день",
@@ -4788,6 +4938,16 @@
       "cinema": "Silver Screen в ТРЦ Arena сity",
       "auditorium": "Зал 6",
       "capacity": 143,
+      "ticket_sold": 0,
+      "sold_percent": 0.0
+    },
+    {
+      "show_id": 399070,
+      "start": "2026-08-22T20:30:00+03:00",
+      "event_name": "Человек-паук: Новый день",
+      "cinema": "mooon в ТРК Triniti",
+      "auditorium": "Зал 1 Kids",
+      "capacity": 260,
       "ticket_sold": 0,
       "sold_percent": 0.0
     },
@@ -4842,16 +5002,6 @@
       "sold_percent": 0.0
     },
     {
-      "show_id": 398995,
-      "start": "2026-08-22T21:00:00+03:00",
-      "event_name": "Человек-паук: Новый день",
-      "cinema": "mooon в ТРК Minsk City Mall",
-      "auditorium": "Зал 4 HEROES",
-      "capacity": 29,
-      "ticket_sold": 0,
-      "sold_percent": 0.0
-    },
-    {
       "show_id": 398811,
       "start": "2026-08-22T21:20:00+03:00",
       "event_name": "Человек-паук: Новый день",
@@ -4872,6 +5022,16 @@
       "sold_percent": 0.0
     },
     {
+      "show_id": 399126,
+      "start": "2026-08-22T21:20:00+03:00",
+      "event_name": "Человек-паук: Новый день",
+      "cinema": "mooon в ТРК Triniti",
+      "auditorium": "Зал 5 VIP",
+      "capacity": 49,
+      "ticket_sold": 0,
+      "sold_percent": 0.0
+    },
+    {
       "show_id": 398626,
       "start": "2026-08-22T21:30:00+03:00",
       "event_name": "Человек-паук: Новый день",
@@ -4882,12 +5042,12 @@
       "sold_percent": 0.0
     },
     {
-      "show_id": 398408,
-      "start": "2026-08-22T21:50:00+03:00",
+      "show_id": 399098,
+      "start": "2026-08-22T21:30:00+03:00",
       "event_name": "Человек-паук: Новый день",
-      "cinema": "mooon в ТРЦ Dana Mall",
-      "auditorium": "Зал 3 Screen X",
-      "capacity": 204,
+      "cinema": "mooon в ТРК Triniti",
+      "auditorium": "Зал 3 Premiere",
+      "capacity": 265,
       "ticket_sold": 0,
       "sold_percent": 0.0
     },
@@ -4902,12 +5062,52 @@
       "sold_percent": 0.0
     },
     {
+      "show_id": 398408,
+      "start": "2026-08-22T22:00:00+03:00",
+      "event_name": "Человек-паук: Новый день",
+      "cinema": "mooon в ТРЦ Dana Mall",
+      "auditorium": "Зал 3 Screen X",
+      "capacity": 204,
+      "ticket_sold": 0,
+      "sold_percent": 0.0
+    },
+    {
       "show_id": 398852,
       "start": "2026-08-22T22:00:00+03:00",
       "event_name": "Человек-паук: Новый день",
       "cinema": "Silver Screen в ТРЦ Arena сity",
       "auditorium": "Зал 4",
       "capacity": 124,
+      "ticket_sold": 0,
+      "sold_percent": 0.0
+    },
+    {
+      "show_id": 398995,
+      "start": "2026-08-22T22:00:00+03:00",
+      "event_name": "Человек-паук: Новый день",
+      "cinema": "mooon в ТРК Minsk City Mall",
+      "auditorium": "Зал 4 HEROES",
+      "capacity": 29,
+      "ticket_sold": 0,
+      "sold_percent": 0.0
+    },
+    {
+      "show_id": 399084,
+      "start": "2026-08-22T22:10:00+03:00",
+      "event_name": "Человек-паук: Новый день",
+      "cinema": "mooon в ТРК Triniti",
+      "auditorium": "Зал 2 Classic",
+      "capacity": 104,
+      "ticket_sold": 0,
+      "sold_percent": 0.0
+    },
+    {
+      "show_id": 399196,
+      "start": "2026-08-22T22:10:00+03:00",
+      "event_name": "Человек-паук: Новый день",
+      "cinema": "mooon в ТРЦ Palazzo",
+      "auditorium": "Зал 5 mooon+",
+      "capacity": 116,
       "ticket_sold": 0,
       "sold_percent": 0.0
     },
@@ -4952,6 +5152,16 @@
       "sold_percent": 0.0
     },
     {
+      "show_id": 399104,
+      "start": "2026-08-23T12:00:00+03:00",
+      "event_name": "Человек-паук: Новый день",
+      "cinema": "mooon в ТРК Triniti",
+      "auditorium": "Зал 3 Premiere",
+      "capacity": 265,
+      "ticket_sold": 0,
+      "sold_percent": 0.0
+    },
+    {
       "show_id": 398530,
       "start": "2026-08-23T12:10:00+03:00",
       "event_name": "Человек-паук: Новый день",
@@ -4978,6 +5188,16 @@
       "cinema": "Silver Screen в ТРЦ Arena сity",
       "auditorium": "Зал 4",
       "capacity": 124,
+      "ticket_sold": 0,
+      "sold_percent": 0.0
+    },
+    {
+      "show_id": 399076,
+      "start": "2026-08-23T12:50:00+03:00",
+      "event_name": "Человек-паук: Новый день",
+      "cinema": "mooon в ТРК Triniti",
+      "auditorium": "Зал 1 Kids",
+      "capacity": 260,
       "ticket_sold": 0,
       "sold_percent": 0.0
     },
@@ -5142,16 +5362,6 @@
       "sold_percent": 0.0
     },
     {
-      "show_id": 398556,
-      "start": "2026-08-23T18:20:00+03:00",
-      "event_name": "Человек-паук: Новый день",
-      "cinema": "mooon в ТРЦ Dana Mall",
-      "auditorium": "Зал 7 VIP",
-      "capacity": 48,
-      "ticket_sold": 0,
-      "sold_percent": 0.0
-    },
-    {
       "show_id": 398817,
       "start": "2026-08-23T18:20:00+03:00",
       "event_name": "Человек-паук: Новый день",
@@ -5172,8 +5382,28 @@
       "sold_percent": 0.0
     },
     {
-      "show_id": 398527,
+      "show_id": 398556,
       "start": "2026-08-23T18:30:00+03:00",
+      "event_name": "Человек-паук: Новый день",
+      "cinema": "mooon в ТРЦ Dana Mall",
+      "auditorium": "Зал 7 VIP",
+      "capacity": 48,
+      "ticket_sold": 0,
+      "sold_percent": 0.0
+    },
+    {
+      "show_id": 399102,
+      "start": "2026-08-23T18:30:00+03:00",
+      "event_name": "Человек-паук: Новый день",
+      "cinema": "mooon в ТРК Triniti",
+      "auditorium": "Зал 3 Premiere",
+      "capacity": 265,
+      "ticket_sold": 0,
+      "sold_percent": 0.0
+    },
+    {
+      "show_id": 398527,
+      "start": "2026-08-23T18:40:00+03:00",
       "event_name": "Человек-паук: Новый день",
       "cinema": "mooon в ТРЦ Dana Mall",
       "auditorium": "Зал 3 Screen X",
@@ -5198,6 +5428,16 @@
       "cinema": "Silver Screen в ТРЦ Arena сity",
       "auditorium": "Зал 6",
       "capacity": 143,
+      "ticket_sold": 0,
+      "sold_percent": 0.0
+    },
+    {
+      "show_id": 399077,
+      "start": "2026-08-23T20:30:00+03:00",
+      "event_name": "Человек-паук: Новый день",
+      "cinema": "mooon в ТРК Triniti",
+      "auditorium": "Зал 1 Kids",
+      "capacity": 260,
       "ticket_sold": 0,
       "sold_percent": 0.0
     },
@@ -5262,6 +5502,16 @@
       "sold_percent": 0.0
     },
     {
+      "show_id": 399133,
+      "start": "2026-08-23T21:20:00+03:00",
+      "event_name": "Человек-паук: Новый день",
+      "cinema": "mooon в ТРК Triniti",
+      "auditorium": "Зал 5 VIP",
+      "capacity": 49,
+      "ticket_sold": 0,
+      "sold_percent": 0.0
+    },
+    {
       "show_id": 398557,
       "start": "2026-08-23T21:30:00+03:00",
       "event_name": "Человек-паук: Новый день",
@@ -5282,22 +5532,22 @@
       "sold_percent": 0.0
     },
     {
-      "show_id": 398528,
-      "start": "2026-08-23T21:40:00+03:00",
+      "show_id": 399105,
+      "start": "2026-08-23T21:30:00+03:00",
       "event_name": "Человек-паук: Новый день",
-      "cinema": "mooon в ТРЦ Dana Mall",
-      "auditorium": "Зал 3 Screen X",
-      "capacity": 204,
+      "cinema": "mooon в ТРК Triniti",
+      "auditorium": "Зал 3 Premiere",
+      "capacity": 265,
       "ticket_sold": 0,
       "sold_percent": 0.0
     },
     {
-      "show_id": 398523,
+      "show_id": 398528,
       "start": "2026-08-23T21:50:00+03:00",
       "event_name": "Человек-паук: Новый день",
       "cinema": "mooon в ТРЦ Dana Mall",
-      "auditorium": "Зал 2",
-      "capacity": 131,
+      "auditorium": "Зал 3 Screen X",
+      "capacity": 204,
       "ticket_sold": 0,
       "sold_percent": 0.0
     },
@@ -5308,6 +5558,16 @@
       "cinema": "mooon в ТРЦ Palazzo",
       "auditorium": "Зал 1 mooon IMAX",
       "capacity": 330,
+      "ticket_sold": 0,
+      "sold_percent": 0.0
+    },
+    {
+      "show_id": 398523,
+      "start": "2026-08-23T22:00:00+03:00",
+      "event_name": "Человек-паук: Новый день",
+      "cinema": "mooon в ТРЦ Dana Mall",
+      "auditorium": "Зал 2",
+      "capacity": 131,
       "ticket_sold": 0,
       "sold_percent": 0.0
     },
