@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-17T03:30:02+03:00",
+    "generated_at": "2026-08-17T04:30:02+03:00",
     "timezone": "Europe/Minsk",
     "report_from": "2026-08-12",
     "report_to_exclusive": "2026-10-01",
@@ -3598,8 +3598,8 @@
       "cinema": "mooon в ТРЦ Dana Mall",
       "auditorium": "Зал 1 Premiere",
       "capacity": 231,
-      "ticket_sold": 104,
-      "sold_percent": 45.0
+      "ticket_sold": 106,
+      "sold_percent": 45.9
     },
     {
       "show_id": 398017,
