@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-18T16:30:27+03:00",
+    "generated_at": "2026-08-18T17:30:06+03:00",
     "timezone": "Europe/Minsk",
     "report_from": "2026-08-12",
     "report_to_exclusive": "2026-10-01",
@@ -2858,8 +2858,8 @@
       "cinema": "mooon в ТРЦ Palazzo",
       "auditorium": "Зал 4 Resto Minges",
       "capacity": 76,
-      "ticket_sold": 74,
-      "sold_percent": 97.4
+      "ticket_sold": 75,
+      "sold_percent": 98.7
     },
     {
       "show_id": 398278,
@@ -2878,8 +2878,8 @@
       "cinema": "mooon в ТРК Triniti",
       "auditorium": "Зал 3 Premiere",
       "capacity": 265,
-      "ticket_sold": 176,
-      "sold_percent": 66.4
+      "ticket_sold": 192,
+      "sold_percent": 72.5
     },
     {
       "show_id": 397670,
@@ -2908,8 +2908,8 @@
       "cinema": "mooon в ТРК Triniti",
       "auditorium": "Зал 1 Kids",
       "capacity": 260,
-      "ticket_sold": 186,
-      "sold_percent": 71.5
+      "ticket_sold": 208,
+      "sold_percent": 80.0
     },
     {
       "show_id": 398287,
@@ -2918,8 +2918,8 @@
       "cinema": "Silver Screen в ТРЦ Arena сity",
       "auditorium": "Зал 2",
       "capacity": 125,
-      "ticket_sold": 122,
-      "sold_percent": 97.6
+      "ticket_sold": 124,
+      "sold_percent": 99.2
     },
     {
       "show_id": 397750,
@@ -2948,8 +2948,8 @@
       "cinema": "Silver Screen в ТРЦ Arena сity",
       "auditorium": "Зал 3",
       "capacity": 108,
-      "ticket_sold": 103,
-      "sold_percent": 95.4
+      "ticket_sold": 102,
+      "sold_percent": 94.4
     },
     {
       "show_id": 397844,
@@ -3008,8 +3008,8 @@
       "cinema": "mooon в ТРК Triniti",
       "auditorium": "Зал 3 Premiere",
       "capacity": 265,
-      "ticket_sold": 170,
-      "sold_percent": 64.2
+      "ticket_sold": 178,
+      "sold_percent": 67.2
     },
     {
       "show_id": 398052,
@@ -3028,8 +3028,8 @@
       "cinema": "mooon в ТРЦ Dana Mall",
       "auditorium": "Зал 1 Premiere",
       "capacity": 231,
-      "ticket_sold": 227,
-      "sold_percent": 98.3
+      "ticket_sold": 228,
+      "sold_percent": 98.7
     },
     {
       "show_id": 398288,
@@ -3038,8 +3038,8 @@
       "cinema": "Silver Screen в ТРЦ Arena сity",
       "auditorium": "Зал 2",
       "capacity": 125,
-      "ticket_sold": 93,
-      "sold_percent": 74.4
+      "ticket_sold": 98,
+      "sold_percent": 78.4
     },
     {
       "show_id": 397669,
@@ -3058,8 +3058,8 @@
       "cinema": "mooon в ТРЦ Palazzo",
       "auditorium": "Зал 1 mooon IMAX",
       "capacity": 330,
-      "ticket_sold": 298,
-      "sold_percent": 90.3
+      "ticket_sold": 305,
+      "sold_percent": 92.4
     },
     {
       "show_id": 398010,
@@ -3068,8 +3068,8 @@
       "cinema": "mooon в ТРК Triniti",
       "auditorium": "Зал 1 Kids",
       "capacity": 260,
-      "ticket_sold": 136,
-      "sold_percent": 52.3
+      "ticket_sold": 161,
+      "sold_percent": 61.9
     },
     {
       "show_id": 397740,
@@ -3108,8 +3108,8 @@
       "cinema": "mooon в ТРК Minsk City Mall",
       "auditorium": "Зал 3 mooon+",
       "capacity": 156,
-      "ticket_sold": 152,
-      "sold_percent": 97.4
+      "ticket_sold": 154,
+      "sold_percent": 98.7
     },
     {
       "show_id": 398213,
@@ -3118,8 +3118,8 @@
       "cinema": "Silver Screen в ТРЦ Arena сity",
       "auditorium": "Зал 3",
       "capacity": 108,
-      "ticket_sold": 73,
-      "sold_percent": 67.6
+      "ticket_sold": 83,
+      "sold_percent": 76.9
     },
     {
       "show_id": 397825,
@@ -3128,8 +3128,8 @@
       "cinema": "Silver Screen в ТРЦ Arena сity",
       "auditorium": "Зал 4",
       "capacity": 124,
-      "ticket_sold": 85,
-      "sold_percent": 68.5
+      "ticket_sold": 90,
+      "sold_percent": 72.6
     },
     {
       "show_id": 398222,
@@ -3138,8 +3138,8 @@
       "cinema": "mooon в ТРЦ Palazzo",
       "auditorium": "Зал 7 Visa Premiere",
       "capacity": 247,
-      "ticket_sold": 171,
-      "sold_percent": 69.2
+      "ticket_sold": 183,
+      "sold_percent": 74.1
     },
     {
       "show_id": 398094,
@@ -3148,8 +3148,8 @@
       "cinema": "mooon в ТРК Minsk City Mall",
       "auditorium": "Зал 1 Premiere",
       "capacity": 269,
-      "ticket_sold": 241,
-      "sold_percent": 89.6
+      "ticket_sold": 252,
+      "sold_percent": 93.7
     },
     {
       "show_id": 397745,
@@ -3158,8 +3158,8 @@
       "cinema": "mooon в ТРЦ Dana Mall",
       "auditorium": "Зал 6 VIP",
       "capacity": 44,
-      "ticket_sold": 41,
-      "sold_percent": 93.2
+      "ticket_sold": 42,
+      "sold_percent": 95.5
     },
     {
       "show_id": 398238,
@@ -3178,8 +3178,8 @@
       "cinema": "mooon в ТРЦ Dana Mall",
       "auditorium": "Зал 1 Premiere",
       "capacity": 231,
-      "ticket_sold": 55,
-      "sold_percent": 23.8
+      "ticket_sold": 57,
+      "sold_percent": 24.7
     },
     {
       "show_id": 398125,
@@ -3188,8 +3188,8 @@
       "cinema": "mooon в ТРК Minsk City Mall",
       "auditorium": "Зал 1 Premiere",
       "capacity": 269,
-      "ticket_sold": 55,
-      "sold_percent": 20.4
+      "ticket_sold": 57,
+      "sold_percent": 21.2
     },
     {
       "show_id": 398280,
@@ -3218,8 +3218,8 @@
       "cinema": "Silver Screen в ТРЦ Arena сity",
       "auditorium": "Зал 2",
       "capacity": 125,
-      "ticket_sold": 6,
-      "sold_percent": 4.8
+      "ticket_sold": 8,
+      "sold_percent": 6.4
     },
     {
       "show_id": 398281,
@@ -3228,8 +3228,8 @@
       "cinema": "mooon в ТРК Triniti",
       "auditorium": "Зал 5 VIP",
       "capacity": 49,
-      "ticket_sold": 17,
-      "sold_percent": 34.7
+      "ticket_sold": 19,
+      "sold_percent": 38.8
     },
     {
       "show_id": 397705,
@@ -3238,8 +3238,8 @@
       "cinema": "mooon в ТРЦ Dana Mall",
       "auditorium": "Зал 3 Screen X",
       "capacity": 204,
-      "ticket_sold": 28,
-      "sold_percent": 13.7
+      "ticket_sold": 30,
+      "sold_percent": 14.7
     },
     {
       "show_id": 397928,
@@ -3278,8 +3278,8 @@
       "cinema": "mooon в ТРЦ Dana Mall",
       "auditorium": "Зал 4 Lounge",
       "capacity": 70,
-      "ticket_sold": 42,
-      "sold_percent": 60.0
+      "ticket_sold": 44,
+      "sold_percent": 62.9
     },
     {
       "show_id": 398243,
@@ -3328,8 +3328,8 @@
       "cinema": "mooon в ТРК Triniti",
       "auditorium": "Зал 3 Premiere",
       "capacity": 265,
-      "ticket_sold": 24,
-      "sold_percent": 9.1
+      "ticket_sold": 28,
+      "sold_percent": 10.6
     },
     {
       "show_id": 397908,
@@ -3338,8 +3338,8 @@
       "cinema": "mooon в ТРЦ Palazzo",
       "auditorium": "Зал 1 mooon IMAX",
       "capacity": 330,
-      "ticket_sold": 100,
-      "sold_percent": 30.3
+      "ticket_sold": 104,
+      "sold_percent": 31.5
     },
     {
       "show_id": 397679,
@@ -3348,8 +3348,8 @@
       "cinema": "mooon в ТРЦ Dana Mall",
       "auditorium": "Зал 1 Premiere",
       "capacity": 231,
-      "ticket_sold": 80,
-      "sold_percent": 34.6
+      "ticket_sold": 82,
+      "sold_percent": 35.5
     },
     {
       "show_id": 398019,
@@ -3378,8 +3378,8 @@
       "cinema": "mooon в ТРЦ Palazzo",
       "auditorium": "Зал 5 mooon+",
       "capacity": 116,
-      "ticket_sold": 39,
-      "sold_percent": 33.6
+      "ticket_sold": 47,
+      "sold_percent": 40.5
     },
     {
       "show_id": 397706,
@@ -3388,8 +3388,8 @@
       "cinema": "mooon в ТРЦ Dana Mall",
       "auditorium": "Зал 3 Screen X",
       "capacity": 204,
-      "ticket_sold": 100,
-      "sold_percent": 49.0
+      "ticket_sold": 102,
+      "sold_percent": 50.0
     },
     {
       "show_id": 398215,
@@ -3418,8 +3418,8 @@
       "cinema": "Silver Screen в ТРЦ Arena сity",
       "auditorium": "Зал 6",
       "capacity": 143,
-      "ticket_sold": 24,
-      "sold_percent": 16.8
+      "ticket_sold": 28,
+      "sold_percent": 19.6
     },
     {
       "show_id": 397942,
@@ -3448,8 +3448,8 @@
       "cinema": "mooon в ТРК Triniti",
       "auditorium": "Зал 3 Premiere",
       "capacity": 265,
-      "ticket_sold": 91,
-      "sold_percent": 34.3
+      "ticket_sold": 97,
+      "sold_percent": 36.6
     },
     {
       "show_id": 398132,
@@ -3468,8 +3468,8 @@
       "cinema": "mooon в ТРЦ Dana Mall",
       "auditorium": "Зал 1 Premiere",
       "capacity": 231,
-      "ticket_sold": 216,
-      "sold_percent": 93.5
+      "ticket_sold": 217,
+      "sold_percent": 93.9
     },
     {
       "show_id": 398018,
@@ -3478,8 +3478,8 @@
       "cinema": "mooon в ТРК Triniti",
       "auditorium": "Зал 1 Kids",
       "capacity": 260,
-      "ticket_sold": 69,
-      "sold_percent": 26.5
+      "ticket_sold": 71,
+      "sold_percent": 27.3
     },
     {
       "show_id": 398291,
@@ -3518,8 +3518,8 @@
       "cinema": "Silver Screen в ТРЦ Arena сity",
       "auditorium": "Зал 3",
       "capacity": 108,
-      "ticket_sold": 66,
-      "sold_percent": 61.1
+      "ticket_sold": 72,
+      "sold_percent": 66.7
     },
     {
       "show_id": 397851,
@@ -3528,8 +3528,8 @@
       "cinema": "Silver Screen в ТРЦ Arena сity",
       "auditorium": "Зал 6",
       "capacity": 143,
-      "ticket_sold": 83,
-      "sold_percent": 58.0
+      "ticket_sold": 87,
+      "sold_percent": 60.8
     },
     {
       "show_id": 397694,
@@ -3568,8 +3568,8 @@
       "cinema": "mooon в ТРК Minsk City Mall",
       "auditorium": "Зал 3 mooon+",
       "capacity": 156,
-      "ticket_sold": 131,
-      "sold_percent": 84.0
+      "ticket_sold": 133,
+      "sold_percent": 85.3
     },
     {
       "show_id": 398190,
@@ -3578,8 +3578,8 @@
       "cinema": "mooon в ТРЦ Dana Mall",
       "auditorium": "Зал 5 MTB Kids by Visa",
       "capacity": 119,
-      "ticket_sold": 92,
-      "sold_percent": 77.3
+      "ticket_sold": 96,
+      "sold_percent": 80.7
     },
     {
       "show_id": 398250,
@@ -3588,8 +3588,8 @@
       "cinema": "mooon в ТРК Triniti",
       "auditorium": "Зал 3 Premiere",
       "capacity": 265,
-      "ticket_sold": 82,
-      "sold_percent": 30.9
+      "ticket_sold": 86,
+      "sold_percent": 32.5
     },
     {
       "show_id": 398059,
@@ -3618,8 +3618,8 @@
       "cinema": "mooon в ТРЦ Dana Mall",
       "auditorium": "Зал 1 Premiere",
       "capacity": 231,
-      "ticket_sold": 181,
-      "sold_percent": 78.4
+      "ticket_sold": 188,
+      "sold_percent": 81.4
     },
     {
       "show_id": 398017,
@@ -3628,8 +3628,8 @@
       "cinema": "mooon в ТРК Triniti",
       "auditorium": "Зал 1 Kids",
       "capacity": 260,
-      "ticket_sold": 63,
-      "sold_percent": 24.2
+      "ticket_sold": 73,
+      "sold_percent": 28.1
     },
     {
       "show_id": 397744,
@@ -3638,8 +3638,8 @@
       "cinema": "mooon в ТРЦ Dana Mall",
       "auditorium": "Зал 6 VIP",
       "capacity": 44,
-      "ticket_sold": 42,
-      "sold_percent": 95.5
+      "ticket_sold": 40,
+      "sold_percent": 90.9
     },
     {
       "show_id": 397759,
@@ -3648,8 +3648,8 @@
       "cinema": "mooon в ТРЦ Dana Mall",
       "auditorium": "Зал 7 VIP",
       "capacity": 48,
-      "ticket_sold": 45,
-      "sold_percent": 93.8
+      "ticket_sold": 47,
+      "sold_percent": 97.9
     },
     {
       "show_id": 397909,
@@ -3658,8 +3658,8 @@
       "cinema": "mooon в ТРЦ Palazzo",
       "auditorium": "Зал 1 mooon IMAX",
       "capacity": 330,
-      "ticket_sold": 197,
-      "sold_percent": 59.7
+      "ticket_sold": 201,
+      "sold_percent": 60.9
     },
     {
       "show_id": 397919,
@@ -3698,8 +3698,8 @@
       "cinema": "mooon в ТРЦ Palazzo",
       "auditorium": "Зал 7 Visa Premiere",
       "capacity": 247,
-      "ticket_sold": 78,
-      "sold_percent": 31.6
+      "ticket_sold": 81,
+      "sold_percent": 32.8
     },
     {
       "show_id": 398122,
@@ -3708,8 +3708,8 @@
       "cinema": "mooon в ТРК Minsk City Mall",
       "auditorium": "Зал 1 Premiere",
       "capacity": 269,
-      "ticket_sold": 170,
-      "sold_percent": 63.2
+      "ticket_sold": 176,
+      "sold_percent": 65.4
     },
     {
       "show_id": 398598,
@@ -3718,8 +3718,8 @@
       "cinema": "mooon в ТРЦ Palazzo",
       "auditorium": "Зал 1 mooon IMAX",
       "capacity": 330,
-      "ticket_sold": 15,
-      "sold_percent": 4.5
+      "ticket_sold": 21,
+      "sold_percent": 6.4
     },
     {
       "show_id": 398373,
@@ -3728,8 +3728,8 @@
       "cinema": "mooon в ТРЦ Dana Mall",
       "auditorium": "Зал 1 Premiere",
       "capacity": 231,
-      "ticket_sold": 1,
-      "sold_percent": 0.4
+      "ticket_sold": 3,
+      "sold_percent": 1.3
     },
     {
       "show_id": 398754,
@@ -3838,8 +3838,8 @@
       "cinema": "mooon в ТРЦ Dana Mall",
       "auditorium": "Зал 1 Premiere",
       "capacity": 231,
-      "ticket_sold": 14,
-      "sold_percent": 6.1
+      "ticket_sold": 16,
+      "sold_percent": 6.9
     },
     {
       "show_id": 399064,
@@ -3848,8 +3848,8 @@
       "cinema": "mooon в ТРК Minsk City Mall",
       "auditorium": "Зал 3 mooon+",
       "capacity": 156,
-      "ticket_sold": 12,
-      "sold_percent": 7.7
+      "ticket_sold": 15,
+      "sold_percent": 9.6
     },
     {
       "show_id": 398402,
@@ -3928,8 +3928,8 @@
       "cinema": "mooon в ТРЦ Palazzo",
       "auditorium": "Зал 7 Visa Premiere",
       "capacity": 247,
-      "ticket_sold": 87,
-      "sold_percent": 35.2
+      "ticket_sold": 92,
+      "sold_percent": 37.2
     },
     {
       "show_id": 398375,
@@ -3948,8 +3948,8 @@
       "cinema": "Silver Screen в ТРЦ Arena сity",
       "auditorium": "Зал 2",
       "capacity": 125,
-      "ticket_sold": 20,
-      "sold_percent": 16.0
+      "ticket_sold": 22,
+      "sold_percent": 17.6
     },
     {
       "show_id": 399041,
@@ -3958,8 +3958,8 @@
       "cinema": "mooon в ТРК Minsk City Mall",
       "auditorium": "Зал 1 Premiere",
       "capacity": 269,
-      "ticket_sold": 160,
-      "sold_percent": 59.5
+      "ticket_sold": 173,
+      "sold_percent": 64.3
     },
     {
       "show_id": 398481,
@@ -3978,8 +3978,8 @@
       "cinema": "mooon в ТРК Triniti",
       "auditorium": "Зал 3 Premiere",
       "capacity": 265,
-      "ticket_sold": 45,
-      "sold_percent": 17.0
+      "ticket_sold": 53,
+      "sold_percent": 20.0
     },
     {
       "show_id": 398400,
@@ -3988,8 +3988,8 @@
       "cinema": "mooon в ТРЦ Dana Mall",
       "auditorium": "Зал 3 Screen X",
       "capacity": 204,
-      "ticket_sold": 134,
-      "sold_percent": 65.7
+      "ticket_sold": 136,
+      "sold_percent": 66.7
     },
     {
       "show_id": 398661,
@@ -4038,8 +4038,8 @@
       "cinema": "Silver Screen в ТРЦ Arena сity",
       "auditorium": "Зал 5",
       "capacity": 143,
-      "ticket_sold": 17,
-      "sold_percent": 11.9
+      "ticket_sold": 19,
+      "sold_percent": 13.3
     },
     {
       "show_id": 398718,
@@ -4048,8 +4048,8 @@
       "cinema": "mooon в ТРЦ Palazzo",
       "auditorium": "Зал 7 Visa Premiere",
       "capacity": 247,
-      "ticket_sold": 91,
-      "sold_percent": 36.8
+      "ticket_sold": 93,
+      "sold_percent": 37.7
     },
     {
       "show_id": 399917,
@@ -4058,8 +4058,8 @@
       "cinema": "mooon в ТРЦ Dana Mall",
       "auditorium": "Зал 4 Lounge",
       "capacity": 70,
-      "ticket_sold": 0,
-      "sold_percent": 0.0
+      "ticket_sold": 4,
+      "sold_percent": 5.7
     },
     {
       "show_id": 398698,
@@ -4068,8 +4068,8 @@
       "cinema": "mooon в ТРЦ Palazzo",
       "auditorium": "Зал 6 Kids",
       "capacity": 82,
-      "ticket_sold": 27,
-      "sold_percent": 32.9
+      "ticket_sold": 29,
+      "sold_percent": 35.4
     },
     {
       "show_id": 398761,
@@ -4088,8 +4088,8 @@
       "cinema": "mooon в ТРК Minsk City Mall",
       "auditorium": "Зал 1 Premiere",
       "capacity": 269,
-      "ticket_sold": 119,
-      "sold_percent": 44.2
+      "ticket_sold": 123,
+      "sold_percent": 45.7
     },
     {
       "show_id": 399168,
@@ -4308,8 +4308,8 @@
       "cinema": "mooon в ТРЦ Dana Mall",
       "auditorium": "Зал 1 Premiere",
       "capacity": 231,
-      "ticket_sold": 4,
-      "sold_percent": 1.7
+      "ticket_sold": 6,
+      "sold_percent": 2.6
     },
     {
       "show_id": 398576,
@@ -4398,8 +4398,8 @@
       "cinema": "mooon в ТРЦ Palazzo",
       "auditorium": "Зал 7 Visa Premiere",
       "capacity": 247,
-      "ticket_sold": 62,
-      "sold_percent": 25.1
+      "ticket_sold": 67,
+      "sold_percent": 27.1
     },
     {
       "show_id": 398339,
@@ -4448,8 +4448,8 @@
       "cinema": "mooon в ТРК Triniti",
       "auditorium": "Зал 3 Premiere",
       "capacity": 265,
-      "ticket_sold": 25,
-      "sold_percent": 9.4
+      "ticket_sold": 29,
+      "sold_percent": 10.9
     },
     {
       "show_id": 398329,
@@ -4518,8 +4518,8 @@
       "cinema": "mooon в ТРЦ Palazzo",
       "auditorium": "Зал 7 Visa Premiere",
       "capacity": 247,
-      "ticket_sold": 60,
-      "sold_percent": 24.3
+      "ticket_sold": 62,
+      "sold_percent": 25.1
     },
     {
       "show_id": 399918,
@@ -4528,8 +4528,8 @@
       "cinema": "mooon в ТРЦ Dana Mall",
       "auditorium": "Зал 4 Lounge",
       "capacity": 70,
-      "ticket_sold": 0,
-      "sold_percent": 0.0
+      "ticket_sold": 4,
+      "sold_percent": 5.7
     },
     {
       "show_id": 398579,
@@ -4548,8 +4548,8 @@
       "cinema": "Silver Screen в ТРЦ Arena сity",
       "auditorium": "Зал 2",
       "capacity": 125,
-      "ticket_sold": 2,
-      "sold_percent": 1.6
+      "ticket_sold": 4,
+      "sold_percent": 3.2
     },
     {
       "show_id": 398976,
@@ -4568,8 +4568,8 @@
       "cinema": "mooon в ТРК Minsk City Mall",
       "auditorium": "Зал 3 mooon+",
       "capacity": 156,
-      "ticket_sold": 55,
-      "sold_percent": 35.3
+      "ticket_sold": 59,
+      "sold_percent": 37.8
     },
     {
       "show_id": 398348,
@@ -4598,8 +4598,8 @@
       "cinema": "mooon в ТРК Triniti",
       "auditorium": "Зал 3 Premiere",
       "capacity": 265,
-      "ticket_sold": 21,
-      "sold_percent": 7.9
+      "ticket_sold": 25,
+      "sold_percent": 9.4
     },
     {
       "show_id": 398340,
@@ -4618,8 +4618,8 @@
       "cinema": "mooon в ТРЦ Palazzo",
       "auditorium": "Зал 1 mooon IMAX",
       "capacity": 330,
-      "ticket_sold": 56,
-      "sold_percent": 17.0
+      "ticket_sold": 60,
+      "sold_percent": 18.2
     },
     {
       "show_id": 398356,
@@ -4668,8 +4668,8 @@
       "cinema": "mooon в ТРЦ Palazzo",
       "auditorium": "Зал 5 mooon+",
       "capacity": 116,
-      "ticket_sold": 38,
-      "sold_percent": 32.8
+      "ticket_sold": 40,
+      "sold_percent": 34.5
     },
     {
       "show_id": 398359,
@@ -4688,8 +4688,8 @@
       "cinema": "mooon в ТРЦ Palazzo",
       "auditorium": "Зал 1 mooon IMAX",
       "capacity": 330,
-      "ticket_sold": 39,
-      "sold_percent": 11.8
+      "ticket_sold": 40,
+      "sold_percent": 12.1
     },
     {
       "show_id": 399000,
@@ -4728,8 +4728,8 @@
       "cinema": "mooon в ТРК Triniti",
       "auditorium": "Зал 3 Premiere",
       "capacity": 265,
-      "ticket_sold": 2,
-      "sold_percent": 0.8
+      "ticket_sold": 0,
+      "sold_percent": 0.0
     },
     {
       "show_id": 398389,
@@ -4818,8 +4818,8 @@
       "cinema": "mooon в ТРЦ Dana Mall",
       "auditorium": "Зал 1 Premiere",
       "capacity": 231,
-      "ticket_sold": 35,
-      "sold_percent": 15.2
+      "ticket_sold": 41,
+      "sold_percent": 17.7
     },
     {
       "show_id": 398809,
@@ -4898,8 +4898,8 @@
       "cinema": "mooon в ТРЦ Dana Mall",
       "auditorium": "Зал 1 Premiere",
       "capacity": 231,
-      "ticket_sold": 42,
-      "sold_percent": 18.2
+      "ticket_sold": 47,
+      "sold_percent": 20.3
     },
     {
       "show_id": 398810,
@@ -4988,8 +4988,8 @@
       "cinema": "mooon в ТРЦ Palazzo",
       "auditorium": "Зал 6 Kids",
       "capacity": 82,
-      "ticket_sold": 8,
-      "sold_percent": 9.8
+      "ticket_sold": 9,
+      "sold_percent": 11.0
     },
     {
       "show_id": 398874,
@@ -5068,8 +5068,8 @@
       "cinema": "mooon в ТРК Triniti",
       "auditorium": "Зал 3 Premiere",
       "capacity": 265,
-      "ticket_sold": 6,
-      "sold_percent": 2.3
+      "ticket_sold": 9,
+      "sold_percent": 3.4
     },
     {
       "show_id": 399919,
@@ -5078,8 +5078,8 @@
       "cinema": "mooon в ТРЦ Dana Mall",
       "auditorium": "Зал 4 Lounge",
       "capacity": 70,
-      "ticket_sold": 0,
-      "sold_percent": 0.0
+      "ticket_sold": 2,
+      "sold_percent": 2.9
     },
     {
       "show_id": 399942,
@@ -5088,8 +5088,8 @@
       "cinema": "mooon в ТРК Minsk City Mall",
       "auditorium": "Зал 2 Lounge",
       "capacity": 60,
-      "ticket_sold": 0,
-      "sold_percent": 0.0
+      "ticket_sold": 4,
+      "sold_percent": 6.7
     },
     {
       "show_id": 398603,
@@ -5148,8 +5148,8 @@
       "cinema": "mooon в ТРЦ Palazzo",
       "auditorium": "Зал 5 mooon+",
       "capacity": 116,
-      "ticket_sold": 26,
-      "sold_percent": 22.4
+      "ticket_sold": 28,
+      "sold_percent": 24.1
     },
     {
       "show_id": 398612,
@@ -5198,8 +5198,8 @@
       "cinema": "mooon в ТРК Triniti",
       "auditorium": "Зал 3 Premiere",
       "capacity": 265,
-      "ticket_sold": 8,
-      "sold_percent": 3.0
+      "ticket_sold": 10,
+      "sold_percent": 3.8
     },
     {
       "show_id": 398530,
@@ -5288,8 +5288,8 @@
       "cinema": "mooon в ТРЦ Dana Mall",
       "auditorium": "Зал 1 Premiere",
       "capacity": 231,
-      "ticket_sold": 25,
-      "sold_percent": 10.8
+      "ticket_sold": 27,
+      "sold_percent": 11.7
     },
     {
       "show_id": 398710,
@@ -5308,8 +5308,8 @@
       "cinema": "mooon в ТРК Minsk City Mall",
       "auditorium": "Зал 1 Premiere",
       "capacity": 269,
-      "ticket_sold": 18,
-      "sold_percent": 6.7
+      "ticket_sold": 23,
+      "sold_percent": 8.6
     },
     {
       "show_id": 398529,
@@ -5348,8 +5348,8 @@
       "cinema": "mooon в ТРЦ Palazzo",
       "auditorium": "Зал 4 Resto Minges",
       "capacity": 76,
-      "ticket_sold": 29,
-      "sold_percent": 38.2
+      "ticket_sold": 31,
+      "sold_percent": 40.8
     },
     {
       "show_id": 398901,
@@ -5388,8 +5388,8 @@
       "cinema": "mooon в ТРЦ Palazzo",
       "auditorium": "Зал 7 Visa Premiere",
       "capacity": 247,
-      "ticket_sold": 36,
-      "sold_percent": 14.6
+      "ticket_sold": 37,
+      "sold_percent": 15.0
     },
     {
       "show_id": 398516,
@@ -5428,8 +5428,8 @@
       "cinema": "mooon в ТРЦ Dana Mall",
       "auditorium": "Зал 7 VIP",
       "capacity": 48,
-      "ticket_sold": 44,
-      "sold_percent": 91.7
+      "ticket_sold": 47,
+      "sold_percent": 97.9
     },
     {
       "show_id": 399102,
@@ -5488,8 +5488,8 @@
       "cinema": "mooon в ТРЦ Dana Mall",
       "auditorium": "Зал 5 MTB Kids by Visa",
       "capacity": 119,
-      "ticket_sold": 2,
-      "sold_percent": 1.7
+      "ticket_sold": 4,
+      "sold_percent": 3.4
     },
     {
       "show_id": 398712,
@@ -5558,8 +5558,8 @@
       "cinema": "mooon в ТРК Triniti",
       "auditorium": "Зал 5 VIP",
       "capacity": 49,
-      "ticket_sold": 18,
-      "sold_percent": 36.7
+      "ticket_sold": 20,
+      "sold_percent": 40.8
     },
     {
       "show_id": 398557,
@@ -5698,8 +5698,8 @@
       "cinema": "mooon в ТРЦ Dana Mall",
       "auditorium": "Зал 3 Screen X",
       "capacity": 204,
-      "ticket_sold": 0,
-      "sold_percent": 0.0
+      "ticket_sold": 4,
+      "sold_percent": 2.0
     },
     {
       "show_id": 399688,
@@ -5778,8 +5778,8 @@
       "cinema": "mooon в ТРЦ Palazzo",
       "auditorium": "Зал 5 mooon+",
       "capacity": 116,
-      "ticket_sold": 0,
-      "sold_percent": 0.0
+      "ticket_sold": 3,
+      "sold_percent": 2.6
     },
     {
       "show_id": 399241,
@@ -5828,8 +5828,8 @@
       "cinema": "mooon в ТРЦ Palazzo",
       "auditorium": "Зал 3 VIP",
       "capacity": 50,
-      "ticket_sold": 0,
-      "sold_percent": 0.0
+      "ticket_sold": 2,
+      "sold_percent": 4.0
     },
     {
       "show_id": 399692,
@@ -6058,8 +6058,8 @@
       "cinema": "mooon в ТРЦ Dana Mall",
       "auditorium": "Зал 3 Screen X",
       "capacity": 204,
-      "ticket_sold": 4,
-      "sold_percent": 2.0
+      "ticket_sold": 6,
+      "sold_percent": 2.9
     },
     {
       "show_id": 399206,
@@ -6348,8 +6348,8 @@
       "cinema": "mooon в ТРК Minsk City Mall",
       "auditorium": "Зал 1 Premiere",
       "capacity": 269,
-      "ticket_sold": 2,
-      "sold_percent": 0.7
+      "ticket_sold": 3,
+      "sold_percent": 1.1
     },
     {
       "show_id": 399814,
@@ -6408,8 +6408,8 @@
       "cinema": "mooon в ТРЦ Dana Mall",
       "auditorium": "Зал 7 VIP",
       "capacity": 48,
-      "ticket_sold": 4,
-      "sold_percent": 8.3
+      "ticket_sold": 8,
+      "sold_percent": 16.7
     },
     {
       "show_id": 399871,
@@ -6438,8 +6438,8 @@
       "cinema": "mooon в ТРК Triniti",
       "auditorium": "Зал 1 Kids",
       "capacity": 260,
-      "ticket_sold": 0,
-      "sold_percent": 0.0
+      "ticket_sold": 2,
+      "sold_percent": 0.8
     },
     {
       "show_id": 399314,
@@ -6508,8 +6508,8 @@
       "cinema": "mooon в ТРЦ Palazzo",
       "auditorium": "Зал 2 Vegas",
       "capacity": 36,
-      "ticket_sold": 6,
-      "sold_percent": 16.7
+      "ticket_sold": 8,
+      "sold_percent": 22.2
     },
     {
       "show_id": 399408,
@@ -6538,8 +6538,8 @@
       "cinema": "mooon в ТРЦ Dana Mall",
       "auditorium": "Зал 4 Lounge",
       "capacity": 70,
-      "ticket_sold": 0,
-      "sold_percent": 0.0
+      "ticket_sold": 4,
+      "sold_percent": 5.7
     },
     {
       "show_id": 399255,
@@ -6648,8 +6648,8 @@
       "cinema": "mooon в ТРК Minsk City Mall",
       "auditorium": "Зал 3 mooon+",
       "capacity": 156,
-      "ticket_sold": 0,
-      "sold_percent": 0.0
+      "ticket_sold": 2,
+      "sold_percent": 1.3
     },
     {
       "show_id": 399335,
@@ -6868,8 +6868,8 @@
       "cinema": "mooon в ТРЦ Dana Mall",
       "auditorium": "Зал 7 VIP",
       "capacity": 48,
-      "ticket_sold": 6,
-      "sold_percent": 12.5
+      "ticket_sold": 10,
+      "sold_percent": 20.8
     },
     {
       "show_id": 399560,
@@ -6888,8 +6888,8 @@
       "cinema": "mooon в ТРЦ Dana Mall",
       "auditorium": "Зал 3 Screen X",
       "capacity": 204,
-      "ticket_sold": 0,
-      "sold_percent": 0.0
+      "ticket_sold": 2,
+      "sold_percent": 1.0
     },
     {
       "show_id": 399738,
@@ -6928,8 +6928,8 @@
       "cinema": "mooon в ТРЦ Palazzo",
       "auditorium": "Зал 2 Vegas",
       "capacity": 36,
-      "ticket_sold": 8,
-      "sold_percent": 22.2
+      "ticket_sold": 10,
+      "sold_percent": 27.8
     },
     {
       "show_id": 399321,
@@ -6968,8 +6968,8 @@
       "cinema": "mooon в ТРЦ Palazzo",
       "auditorium": "Зал 7 Visa Premiere",
       "capacity": 247,
-      "ticket_sold": 0,
-      "sold_percent": 0.0
+      "ticket_sold": 2,
+      "sold_percent": 0.8
     },
     {
       "show_id": 399591,
@@ -6998,8 +6998,8 @@
       "cinema": "mooon в ТРЦ Dana Mall",
       "auditorium": "Зал 7 VIP",
       "capacity": 48,
-      "ticket_sold": 2,
-      "sold_percent": 4.2
+      "ticket_sold": 4,
+      "sold_percent": 8.3
     },
     {
       "show_id": 399563,
