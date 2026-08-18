@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-18T04:30:02+03:00",
+    "generated_at": "2026-08-18T05:30:02+03:00",
     "timezone": "Europe/Minsk",
     "report_from": "2026-08-12",
     "report_to_exclusive": "2026-10-01",
@@ -4058,8 +4058,8 @@
       "cinema": "mooon в ТРЦ Palazzo",
       "auditorium": "Зал 6 Kids",
       "capacity": 82,
-      "ticket_sold": 12,
-      "sold_percent": 14.6
+      "ticket_sold": 14,
+      "sold_percent": 17.1
     },
     {
       "show_id": 398761,
