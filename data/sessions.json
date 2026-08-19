@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-19T05:30:03+03:00",
+    "generated_at": "2026-08-19T06:30:03+03:00",
     "timezone": "Europe/Minsk",
     "report_from": "2026-08-12",
     "report_to_exclusive": "2026-10-01",
@@ -3478,8 +3478,8 @@
       "cinema": "mooon в ТРК Triniti",
       "auditorium": "Зал 1 Kids",
       "capacity": 260,
-      "ticket_sold": 83,
-      "sold_percent": 31.9
+      "ticket_sold": 84,
+      "sold_percent": 32.3
     },
     {
       "show_id": 398291,
