@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-19T03:30:03+03:00",
+    "generated_at": "2026-08-19T04:30:03+03:00",
     "timezone": "Europe/Minsk",
     "report_from": "2026-08-12",
     "report_to_exclusive": "2026-10-01",
@@ -4168,8 +4168,8 @@
       "cinema": "Silver Screen в ТРЦ Arena сity",
       "auditorium": "Зал 4",
       "capacity": 124,
-      "ticket_sold": 11,
-      "sold_percent": 8.9
+      "ticket_sold": 14,
+      "sold_percent": 11.3
     },
     {
       "show_id": 398567,
@@ -6838,8 +6838,8 @@
       "cinema": "mooon в ТРЦ Dana Mall",
       "auditorium": "Зал 1 Premiere",
       "capacity": 231,
-      "ticket_sold": 3,
-      "sold_percent": 1.3
+      "ticket_sold": 5,
+      "sold_percent": 2.2
     },
     {
       "show_id": 399708,
