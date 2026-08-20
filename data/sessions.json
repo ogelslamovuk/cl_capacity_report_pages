@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-20T06:30:03+03:00",
+    "generated_at": "2026-08-20T07:30:03+03:00",
     "timezone": "Europe/Minsk",
     "report_from": "2026-08-12",
     "report_to_exclusive": "2026-10-01",
@@ -3788,8 +3788,8 @@
       "cinema": "mooon в ТРК Minsk City Mall",
       "auditorium": "Зал 3 mooon+",
       "capacity": 156,
-      "ticket_sold": 35,
-      "sold_percent": 22.4
+      "ticket_sold": 37,
+      "sold_percent": 23.7
     },
     {
       "show_id": 399023,
@@ -4718,8 +4718,8 @@
       "cinema": "mooon в ТРК Minsk City Mall",
       "auditorium": "Зал 3 mooon+",
       "capacity": 156,
-      "ticket_sold": 20,
-      "sold_percent": 12.8
+      "ticket_sold": 22,
+      "sold_percent": 14.1
     },
     {
       "show_id": 398789,
@@ -5038,8 +5038,8 @@
       "cinema": "mooon в ТРЦ Palazzo",
       "auditorium": "Зал 7 Visa Premiere",
       "capacity": 247,
-      "ticket_sold": 58,
-      "sold_percent": 23.5
+      "ticket_sold": 59,
+      "sold_percent": 23.9
     },
     {
       "show_id": 398811,
@@ -5098,8 +5098,8 @@
       "cinema": "mooon в ТРЦ Dana Mall",
       "auditorium": "Зал 4 Lounge",
       "capacity": 70,
-      "ticket_sold": 48,
-      "sold_percent": 68.6
+      "ticket_sold": 50,
+      "sold_percent": 71.4
     },
     {
       "show_id": 399942,
@@ -5288,8 +5288,8 @@
       "cinema": "mooon в ТРЦ Palazzo",
       "auditorium": "Зал 5 mooon+",
       "capacity": 116,
-      "ticket_sold": 48,
-      "sold_percent": 41.4
+      "ticket_sold": 50,
+      "sold_percent": 43.1
     },
     {
       "show_id": 398933,
@@ -5548,8 +5548,8 @@
       "cinema": "mooon в ТРК Minsk City Mall",
       "auditorium": "Зал 3 mooon+",
       "capacity": 156,
-      "ticket_sold": 33,
-      "sold_percent": 21.2
+      "ticket_sold": 35,
+      "sold_percent": 22.4
     },
     {
       "show_id": 399920,
