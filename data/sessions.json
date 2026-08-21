@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-21T02:30:03+03:00",
+    "generated_at": "2026-08-21T03:30:03+03:00",
     "timezone": "Europe/Minsk",
     "report_from": "2026-08-12",
     "report_to_exclusive": "2026-10-01",
@@ -4418,8 +4418,8 @@
       "cinema": "mooon в ТРК Minsk City Mall",
       "auditorium": "Зал 1 Premiere",
       "capacity": 269,
-      "ticket_sold": 97,
-      "sold_percent": 36.1
+      "ticket_sold": 99,
+      "sold_percent": 36.8
     },
     {
       "show_id": 398343,
@@ -4508,8 +4508,8 @@
       "cinema": "mooon в ТРЦ Dana Mall",
       "auditorium": "Зал 5 MTB Kids by Visa",
       "capacity": 119,
-      "ticket_sold": 54,
-      "sold_percent": 45.4
+      "ticket_sold": 56,
+      "sold_percent": 47.1
     },
     {
       "show_id": 398569,
@@ -4788,8 +4788,8 @@
       "cinema": "mooon в ТРК Minsk City Mall",
       "auditorium": "Зал 1 Premiere",
       "capacity": 269,
-      "ticket_sold": 164,
-      "sold_percent": 61.0
+      "ticket_sold": 166,
+      "sold_percent": 61.7
     },
     {
       "show_id": 398979,
@@ -5128,8 +5128,8 @@
       "cinema": "mooon в ТРЦ Dana Mall",
       "auditorium": "Зал 5 MTB Kids by Visa",
       "capacity": 119,
-      "ticket_sold": 64,
-      "sold_percent": 53.8
+      "ticket_sold": 66,
+      "sold_percent": 55.5
     },
     {
       "show_id": 398705,
@@ -5508,8 +5508,8 @@
       "cinema": "Silver Screen в ТРЦ Arena сity",
       "auditorium": "Зал 6",
       "capacity": 143,
-      "ticket_sold": 10,
-      "sold_percent": 7.0
+      "ticket_sold": 12,
+      "sold_percent": 8.4
     },
     {
       "show_id": 398936,
