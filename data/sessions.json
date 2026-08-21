@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-21T03:30:03+03:00",
+    "generated_at": "2026-08-21T04:30:04+03:00",
     "timezone": "Europe/Minsk",
     "report_from": "2026-08-12",
     "report_to_exclusive": "2026-10-01",
@@ -4648,8 +4648,8 @@
       "cinema": "Silver Screen в ТРЦ Arena сity",
       "auditorium": "Зал 5",
       "capacity": 143,
-      "ticket_sold": 68,
-      "sold_percent": 47.6
+      "ticket_sold": 70,
+      "sold_percent": 49.0
     },
     {
       "show_id": 398570,
@@ -5678,8 +5678,8 @@
       "cinema": "mooon в ТРК Minsk City Mall",
       "auditorium": "Зал 3 mooon+",
       "capacity": 156,
-      "ticket_sold": 47,
-      "sold_percent": 30.1
+      "ticket_sold": 48,
+      "sold_percent": 30.8
     },
     {
       "show_id": 399920,
