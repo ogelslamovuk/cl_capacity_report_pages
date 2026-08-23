@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-23T05:30:03+03:00",
+    "generated_at": "2026-08-23T06:30:03+03:00",
     "timezone": "Europe/Minsk",
     "report_from": "2026-08-12",
     "report_to_exclusive": "2026-10-01",
@@ -6038,8 +6038,8 @@
       "cinema": "mooon в ТРЦ Palazzo",
       "auditorium": "Зал 7 Visa Premiere",
       "capacity": 247,
-      "ticket_sold": 43,
-      "sold_percent": 17.4
+      "ticket_sold": 45,
+      "sold_percent": 18.2
     },
     {
       "show_id": 399346,
