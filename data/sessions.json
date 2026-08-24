@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-25T01:30:03+03:00",
+    "generated_at": "2026-08-25T02:30:03+03:00",
     "timezone": "Europe/Minsk",
     "report_from": "2026-08-12",
     "report_to_exclusive": "2026-10-01",
@@ -6458,8 +6458,8 @@
       "cinema": "mooon в ТРК Minsk City Mall",
       "auditorium": "Зал 3 mooon+",
       "capacity": 156,
-      "ticket_sold": 44,
-      "sold_percent": 28.2
+      "ticket_sold": 46,
+      "sold_percent": 29.5
     },
     {
       "show_id": 399744,
@@ -6568,8 +6568,8 @@
       "cinema": "mooon в ТРЦ Palazzo",
       "auditorium": "Зал 4 Resto Minges",
       "capacity": 76,
-      "ticket_sold": 66,
-      "sold_percent": 86.8
+      "ticket_sold": 68,
+      "sold_percent": 89.5
     },
     {
       "show_id": 399473,
@@ -6718,8 +6718,8 @@
       "cinema": "mooon в ТРЦ Palazzo",
       "auditorium": "Зал 1 mooon IMAX",
       "capacity": 330,
-      "ticket_sold": 36,
-      "sold_percent": 10.9
+      "ticket_sold": 40,
+      "sold_percent": 12.1
     },
     {
       "show_id": 399421,
@@ -6918,8 +6918,8 @@
       "cinema": "mooon в ТРЦ Dana Mall",
       "auditorium": "Зал 1 Premiere",
       "capacity": 231,
-      "ticket_sold": 18,
-      "sold_percent": 7.8
+      "ticket_sold": 19,
+      "sold_percent": 8.2
     },
     {
       "show_id": 399429,
@@ -7088,8 +7088,8 @@
       "cinema": "Silver Screen в ТРЦ Arena сity",
       "auditorium": "Зал 6",
       "capacity": 143,
-      "ticket_sold": 38,
-      "sold_percent": 26.6
+      "ticket_sold": 40,
+      "sold_percent": 28.0
     },
     {
       "show_id": 399888,
@@ -7568,8 +7568,8 @@
       "cinema": "mooon в ТРЦ Palazzo",
       "auditorium": "Зал 1 mooon IMAX",
       "capacity": 330,
-      "ticket_sold": 12,
-      "sold_percent": 3.6
+      "ticket_sold": 20,
+      "sold_percent": 6.1
     },
     {
       "show_id": 400700,
@@ -7818,8 +7818,8 @@
       "cinema": "mooon в ТРЦ Palazzo",
       "auditorium": "Зал 5 mooon+",
       "capacity": 116,
-      "ticket_sold": 20,
-      "sold_percent": 17.2
+      "ticket_sold": 21,
+      "sold_percent": 18.1
     },
     {
       "show_id": 400773,
