@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-24T06:30:03+03:00",
+    "generated_at": "2026-08-24T08:30:03+03:00",
     "timezone": "Europe/Minsk",
     "report_from": "2026-08-12",
     "report_to_exclusive": "2026-10-01",
@@ -5808,8 +5808,8 @@
       "cinema": "mooon в ТРЦ Dana Mall",
       "auditorium": "Зал 1 Premiere",
       "capacity": 231,
-      "ticket_sold": 25,
-      "sold_percent": 10.8
+      "ticket_sold": 27,
+      "sold_percent": 11.7
     },
     {
       "show_id": 399674,
@@ -5898,8 +5898,8 @@
       "cinema": "mooon в ТРК Minsk City Mall",
       "auditorium": "Зал 4 HEROES",
       "capacity": 29,
-      "ticket_sold": 15,
-      "sold_percent": 51.7
+      "ticket_sold": 16,
+      "sold_percent": 55.2
     },
     {
       "show_id": 399792,
@@ -5968,8 +5968,8 @@
       "cinema": "mooon в ТРК Minsk City Mall",
       "auditorium": "Зал 3 mooon+",
       "capacity": 156,
-      "ticket_sold": 68,
-      "sold_percent": 43.6
+      "ticket_sold": 61,
+      "sold_percent": 39.1
     },
     {
       "show_id": 399221,
@@ -6048,8 +6048,8 @@
       "cinema": "mooon в ТРЦ Dana Mall",
       "auditorium": "Зал 1 Premiere",
       "capacity": 231,
-      "ticket_sold": 83,
-      "sold_percent": 35.9
+      "ticket_sold": 82,
+      "sold_percent": 35.5
     },
     {
       "show_id": 399673,
@@ -6058,8 +6058,8 @@
       "cinema": "mooon в ТРК Minsk City Mall",
       "auditorium": "Зал 1 Premiere",
       "capacity": 269,
-      "ticket_sold": 155,
-      "sold_percent": 57.6
+      "ticket_sold": 158,
+      "sold_percent": 58.7
     },
     {
       "show_id": 399765,
@@ -6078,8 +6078,8 @@
       "cinema": "mooon в ТРЦ Dana Mall",
       "auditorium": "Зал 3 Screen X",
       "capacity": 204,
-      "ticket_sold": 92,
-      "sold_percent": 45.1
+      "ticket_sold": 94,
+      "sold_percent": 46.1
     },
     {
       "show_id": 399504,
@@ -6098,8 +6098,8 @@
       "cinema": "mooon в ТРК Minsk City Mall",
       "auditorium": "Зал 3 mooon+",
       "capacity": 156,
-      "ticket_sold": 106,
-      "sold_percent": 67.9
+      "ticket_sold": 108,
+      "sold_percent": 69.2
     },
     {
       "show_id": 399227,
@@ -6108,8 +6108,8 @@
       "cinema": "mooon в ТРЦ Palazzo",
       "auditorium": "Зал 4 Resto Minges",
       "capacity": 76,
-      "ticket_sold": 62,
-      "sold_percent": 81.6
+      "ticket_sold": 64,
+      "sold_percent": 84.2
     },
     {
       "show_id": 399794,
@@ -6118,8 +6118,8 @@
       "cinema": "Silver Screen в ТРЦ Arena сity",
       "auditorium": "Зал 6",
       "capacity": 143,
-      "ticket_sold": 52,
-      "sold_percent": 36.4
+      "ticket_sold": 54,
+      "sold_percent": 37.8
     },
     {
       "show_id": 399892,
@@ -6188,8 +6188,8 @@
       "cinema": "mooon в ТРЦ Dana Mall",
       "auditorium": "Зал 1 Premiere",
       "capacity": 231,
-      "ticket_sold": 51,
-      "sold_percent": 22.1
+      "ticket_sold": 55,
+      "sold_percent": 23.8
     },
     {
       "show_id": 399766,
@@ -6628,8 +6628,8 @@
       "cinema": "Silver Screen в ТРЦ Arena сity",
       "auditorium": "Зал 5",
       "capacity": 143,
-      "ticket_sold": 10,
-      "sold_percent": 7.0
+      "ticket_sold": 12,
+      "sold_percent": 8.4
     },
     {
       "show_id": 399395,
@@ -6708,8 +6708,8 @@
       "cinema": "mooon в ТРЦ Dana Mall",
       "auditorium": "Зал 4 Lounge",
       "capacity": 70,
-      "ticket_sold": 38,
-      "sold_percent": 54.3
+      "ticket_sold": 40,
+      "sold_percent": 57.1
     },
     {
       "show_id": 399255,
@@ -6918,8 +6918,8 @@
       "cinema": "mooon в ТРЦ Dana Mall",
       "auditorium": "Зал 1 Premiere",
       "capacity": 231,
-      "ticket_sold": 13,
-      "sold_percent": 5.6
+      "ticket_sold": 14,
+      "sold_percent": 6.1
     },
     {
       "show_id": 399429,
@@ -7088,8 +7088,8 @@
       "cinema": "Silver Screen в ТРЦ Arena сity",
       "auditorium": "Зал 6",
       "capacity": 143,
-      "ticket_sold": 13,
-      "sold_percent": 9.1
+      "ticket_sold": 15,
+      "sold_percent": 10.5
     },
     {
       "show_id": 399888,
