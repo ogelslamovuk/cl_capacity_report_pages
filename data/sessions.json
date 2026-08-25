@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-25T06:30:04+03:00",
+    "generated_at": "2026-08-25T07:30:04+03:00",
     "timezone": "Europe/Minsk",
     "report_from": "2026-08-12",
     "report_to_exclusive": "2026-10-01",
@@ -6608,8 +6608,8 @@
       "cinema": "mooon в ТРК Triniti",
       "auditorium": "Зал 1 Kids",
       "capacity": 260,
-      "ticket_sold": 39,
-      "sold_percent": 15.0
+      "ticket_sold": 41,
+      "sold_percent": 15.8
     },
     {
       "show_id": 399314,
@@ -6858,8 +6858,8 @@
       "cinema": "mooon в ТРК Minsk City Mall",
       "auditorium": "Зал 4 HEROES",
       "capacity": 29,
-      "ticket_sold": 10,
-      "sold_percent": 34.5
+      "ticket_sold": 12,
+      "sold_percent": 41.4
     },
     {
       "show_id": 399876,
@@ -7908,8 +7908,8 @@
       "cinema": "mooon в ТРК Minsk City Mall",
       "auditorium": "Зал 3 mooon+",
       "capacity": 156,
-      "ticket_sold": 2,
-      "sold_percent": 1.3
+      "ticket_sold": 4,
+      "sold_percent": 2.6
     },
     {
       "show_id": 400222,
@@ -8208,8 +8208,8 @@
       "cinema": "mooon в ТРЦ Dana Mall",
       "auditorium": "Зал 2",
       "capacity": 131,
-      "ticket_sold": 2,
-      "sold_percent": 1.5
+      "ticket_sold": 4,
+      "sold_percent": 3.1
     },
     {
       "show_id": 400739,
