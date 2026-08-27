@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-27T04:30:03+03:00",
+    "generated_at": "2026-08-27T05:30:03+03:00",
     "timezone": "Europe/Minsk",
     "report_from": "2026-08-12",
     "report_to_exclusive": "2026-10-01",
@@ -7378,8 +7378,8 @@
       "cinema": "mooon в ТРЦ Dana Mall",
       "auditorium": "Зал 3 Screen X",
       "capacity": 204,
-      "ticket_sold": 46,
-      "sold_percent": 22.5
+      "ticket_sold": 48,
+      "sold_percent": 23.5
     },
     {
       "show_id": 401589,
