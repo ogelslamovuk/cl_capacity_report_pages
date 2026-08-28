@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-28T06:30:03+03:00",
+    "generated_at": "2026-08-28T07:30:03+03:00",
     "timezone": "Europe/Minsk",
     "report_from": "2026-08-12",
     "report_to_exclusive": "2026-10-01",
@@ -7838,8 +7838,8 @@
       "cinema": "mooon в ТРЦ Palazzo",
       "auditorium": "Зал 1 mooon IMAX",
       "capacity": 330,
-      "ticket_sold": 145,
-      "sold_percent": 43.9
+      "ticket_sold": 147,
+      "sold_percent": 44.5
     },
     {
       "show_id": 400692,
@@ -7938,8 +7938,8 @@
       "cinema": "mooon в ТРЦ Palazzo",
       "auditorium": "Зал 1 mooon IMAX",
       "capacity": 330,
-      "ticket_sold": 88,
-      "sold_percent": 26.7
+      "ticket_sold": 92,
+      "sold_percent": 27.9
     },
     {
       "show_id": 400693,
@@ -8138,8 +8138,8 @@
       "cinema": "Silver Screen в ТРЦ Arena сity",
       "auditorium": "Зал 5",
       "capacity": 143,
-      "ticket_sold": 16,
-      "sold_percent": 11.2
+      "ticket_sold": 20,
+      "sold_percent": 14.0
     },
     {
       "show_id": 400396,
@@ -8368,8 +8368,8 @@
       "cinema": "mooon в ТРК Triniti",
       "auditorium": "Зал 3 Premiere",
       "capacity": 265,
-      "ticket_sold": 17,
-      "sold_percent": 6.4
+      "ticket_sold": 19,
+      "sold_percent": 7.2
     },
     {
       "show_id": 400643,
