@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-29T00:30:03+03:00",
+    "generated_at": "2026-08-29T01:30:03+03:00",
     "timezone": "Europe/Minsk",
     "report_from": "2026-08-12",
     "report_to_exclusive": "2026-10-01",
@@ -7968,8 +7968,8 @@
       "cinema": "mooon в ТРК Minsk City Mall",
       "auditorium": "Зал 1 Premiere",
       "capacity": 269,
-      "ticket_sold": 57,
-      "sold_percent": 21.2
+      "ticket_sold": 59,
+      "sold_percent": 21.9
     },
     {
       "show_id": 400436,
@@ -8168,8 +8168,8 @@
       "cinema": "Silver Screen в ТРЦ Arena сity",
       "auditorium": "Зал 5",
       "capacity": 143,
-      "ticket_sold": 34,
-      "sold_percent": 23.8
+      "ticket_sold": 36,
+      "sold_percent": 25.2
     },
     {
       "show_id": 400396,
@@ -8208,8 +8208,8 @@
       "cinema": "mooon в ТРК Minsk City Mall",
       "auditorium": "Зал 3 mooon+",
       "capacity": 156,
-      "ticket_sold": 109,
-      "sold_percent": 69.9
+      "ticket_sold": 111,
+      "sold_percent": 71.2
     },
     {
       "show_id": 400388,
@@ -8218,8 +8218,8 @@
       "cinema": "mooon в ТРЦ Palazzo",
       "auditorium": "Зал 1 mooon IMAX",
       "capacity": 330,
-      "ticket_sold": 156,
-      "sold_percent": 47.3
+      "ticket_sold": 164,
+      "sold_percent": 49.7
     },
     {
       "show_id": 400738,
@@ -8288,8 +8288,8 @@
       "cinema": "mooon в ТРЦ Dana Mall",
       "auditorium": "Зал 2",
       "capacity": 131,
-      "ticket_sold": 56,
-      "sold_percent": 42.7
+      "ticket_sold": 60,
+      "sold_percent": 45.8
     },
     {
       "show_id": 401636,
@@ -8298,8 +8298,8 @@
       "cinema": "mooon в ТРК Minsk City Mall",
       "auditorium": "Зал 2 Lounge",
       "capacity": 60,
-      "ticket_sold": 17,
-      "sold_percent": 28.3
+      "ticket_sold": 19,
+      "sold_percent": 31.7
     },
     {
       "show_id": 401648,
@@ -8328,8 +8328,8 @@
       "cinema": "mooon в ТРК Triniti",
       "auditorium": "Зал 3 Premiere",
       "capacity": 265,
-      "ticket_sold": 38,
-      "sold_percent": 14.3
+      "ticket_sold": 44,
+      "sold_percent": 16.6
     },
     {
       "show_id": 400831,
@@ -8338,8 +8338,8 @@
       "cinema": "mooon в ТРЦ Dana Mall",
       "auditorium": "Зал 1 Premiere",
       "capacity": 231,
-      "ticket_sold": 58,
-      "sold_percent": 25.1
+      "ticket_sold": 60,
+      "sold_percent": 26.0
     },
     {
       "show_id": 400232,
@@ -8358,8 +8358,8 @@
       "cinema": "mooon в ТРЦ Palazzo",
       "auditorium": "Зал 1 mooon IMAX",
       "capacity": 330,
-      "ticket_sold": 49,
-      "sold_percent": 14.8
+      "ticket_sold": 55,
+      "sold_percent": 16.7
     },
     {
       "show_id": 401623,
@@ -8628,8 +8628,8 @@
       "cinema": "mooon в ТРК Minsk City Mall",
       "auditorium": "Зал 1 Premiere",
       "capacity": 269,
-      "ticket_sold": 96,
-      "sold_percent": 35.7
+      "ticket_sold": 98,
+      "sold_percent": 36.4
     },
     {
       "show_id": 400084,
@@ -8648,8 +8648,8 @@
       "cinema": "mooon в ТРК Triniti",
       "auditorium": "Зал 3 Premiere",
       "capacity": 265,
-      "ticket_sold": 61,
-      "sold_percent": 23.0
+      "ticket_sold": 65,
+      "sold_percent": 24.5
     },
     {
       "show_id": 400648,
@@ -9198,8 +9198,8 @@
       "cinema": "mooon в ТРК Minsk City Mall",
       "auditorium": "Зал 3 mooon+",
       "capacity": 156,
-      "ticket_sold": 8,
-      "sold_percent": 5.1
+      "ticket_sold": 10,
+      "sold_percent": 6.4
     },
     {
       "show_id": 400974,
@@ -9418,8 +9418,8 @@
       "cinema": "mooon в ТРЦ Palazzo",
       "auditorium": "Зал 1 mooon IMAX",
       "capacity": 330,
-      "ticket_sold": 16,
-      "sold_percent": 4.8
+      "ticket_sold": 18,
+      "sold_percent": 5.5
     },
     {
       "show_id": 401317,
@@ -9608,8 +9608,8 @@
       "cinema": "mooon в ТРК Minsk City Mall",
       "auditorium": "Зал 2 Lounge",
       "capacity": 60,
-      "ticket_sold": 0,
-      "sold_percent": 0.0
+      "ticket_sold": 2,
+      "sold_percent": 3.3
     },
     {
       "show_id": 401082,
