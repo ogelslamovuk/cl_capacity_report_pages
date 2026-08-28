@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-28T05:30:03+03:00",
+    "generated_at": "2026-08-28T06:30:03+03:00",
     "timezone": "Europe/Minsk",
     "report_from": "2026-08-12",
     "report_to_exclusive": "2026-10-01",
@@ -7648,8 +7648,8 @@
       "cinema": "mooon в ТРК Triniti",
       "auditorium": "Зал 5 VIP",
       "capacity": 49,
-      "ticket_sold": 20,
-      "sold_percent": 40.8
+      "ticket_sold": 22,
+      "sold_percent": 44.9
     },
     {
       "show_id": 400578,
@@ -8198,8 +8198,8 @@
       "cinema": "mooon в ТРК Triniti",
       "auditorium": "Зал 3 Premiere",
       "capacity": 265,
-      "ticket_sold": 70,
-      "sold_percent": 26.4
+      "ticket_sold": 71,
+      "sold_percent": 26.8
     },
     {
       "show_id": 400418,
