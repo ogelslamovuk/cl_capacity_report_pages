@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-29T06:30:03+03:00",
+    "generated_at": "2026-08-29T07:30:03+03:00",
     "timezone": "Europe/Minsk",
     "report_from": "2026-08-12",
     "report_to_exclusive": "2026-10-01",
@@ -8048,8 +8048,8 @@
       "cinema": "mooon в ТРК Triniti",
       "auditorium": "Зал 3 Premiere",
       "capacity": 265,
-      "ticket_sold": 35,
-      "sold_percent": 13.2
+      "ticket_sold": 38,
+      "sold_percent": 14.3
     },
     {
       "show_id": 400289,
@@ -8628,8 +8628,8 @@
       "cinema": "mooon в ТРК Minsk City Mall",
       "auditorium": "Зал 1 Premiere",
       "capacity": 269,
-      "ticket_sold": 98,
-      "sold_percent": 36.4
+      "ticket_sold": 100,
+      "sold_percent": 37.2
     },
     {
       "show_id": 400084,
@@ -9698,8 +9698,8 @@
       "cinema": "mooon в ТРЦ Palazzo",
       "auditorium": "Зал 2 Vegas",
       "capacity": 36,
-      "ticket_sold": 6,
-      "sold_percent": 16.7
+      "ticket_sold": 8,
+      "sold_percent": 22.2
     },
     {
       "show_id": 401559,
