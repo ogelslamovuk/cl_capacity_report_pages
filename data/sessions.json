@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-30T05:30:03+03:00",
+    "generated_at": "2026-08-30T06:30:03+03:00",
     "timezone": "Europe/Minsk",
     "report_from": "2026-08-12",
     "report_to_exclusive": "2026-10-01",
@@ -8728,8 +8728,8 @@
       "cinema": "mooon в ТРК Minsk City Mall",
       "auditorium": "Зал 2 Lounge",
       "capacity": 60,
-      "ticket_sold": 49,
-      "sold_percent": 81.7
+      "ticket_sold": 51,
+      "sold_percent": 85.0
     },
     {
       "show_id": 401645,
