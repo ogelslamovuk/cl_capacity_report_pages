@@ -1,0 +1,186 @@
+<!doctype html>
+<html lang="ru">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+    <meta name="robots" content="noindex,nofollow,noarchive">
+    <meta name="theme-color" content="#f3f6f8">
+    <link rel="icon" href="data:,">
+    <title>Current Performance Board · mooon</title>
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body data-data-url="data/board.json">
+    <header class="topbar">
+      <a class="brand" href="./" aria-label="mooon · Current Performance Board">
+        <strong>mooon</strong>
+        <span>Performance Board</span>
+      </a>
+      <div class="topbar__context">
+        <span class="demo-label">Снимок SilverScreen</span>
+        <span class="freshness" id="freshness"><i aria-hidden="true"></i><span>Загрузка данных…</span></span>
+      </div>
+    </header>
+
+    <main id="app" class="app-shell">
+      <section id="board-view" class="view" aria-labelledby="board-title">
+        <header class="page-head">
+          <div>
+            <p class="scope-line" id="scope-line">Сеть mooon · загрузка данных</p>
+            <h1 id="board-title">Текущий прокат</h1>
+            <p id="board-description">Фактические сеансы, вместимость и текущий выкуп.</p>
+          </div>
+          <div class="period-switch" role="group" aria-label="Период отчета">
+            <button type="button" data-period="today">Сегодня</button>
+            <button class="is-active" type="button" data-period="7d">Прошлые 7</button>
+            <button type="button" data-period="next">Следующие 7</button>
+          </div>
+        </header>
+
+        <nav class="catalog-tabs" id="catalog-tabs" aria-label="Состояние репертуара"></nav>
+
+        <section class="metric-strip" id="network-metrics" aria-label="Сводка сети"></section>
+
+        <section class="filter-bar" aria-label="Фильтры репертуара">
+          <label class="search-field">
+            <span class="sr-only">Найти фильм</span>
+            <input id="search-input" type="search" placeholder="Найти фильм">
+          </label>
+          <label>
+            <span>Кинотеатр</span>
+            <select id="cinema-filter"></select>
+          </label>
+          <label>
+            <span>Неделя</span>
+            <select id="week-filter">
+              <option value="">Все недели</option>
+              <option value="1">Премьеры</option>
+              <option value="2">2-я неделя</option>
+              <option value="3+">3-я и позже</option>
+            </select>
+          </label>
+          <label>
+            <span>Сигнал</span>
+            <select id="signal-filter">
+              <option value="">Все состояния</option>
+              <option value="critical">Требует решения</option>
+              <option value="opportunity">Возможность</option>
+              <option value="watch">Наблюдать</option>
+              <option value="stable">Стабильно</option>
+            </select>
+          </label>
+          <button class="reset-button" id="reset-filters" type="button">Сбросить</button>
+        </section>
+
+        <div class="board-layout">
+          <aside class="decision-rail" aria-labelledby="decisions-title">
+            <header class="section-head section-head--compact">
+              <div>
+                <h2 id="decisions-title">Сигналы</h2>
+                <p id="decision-count">—</p>
+              </div>
+            </header>
+            <div id="decision-list" class="decision-list"></div>
+          </aside>
+
+          <section class="portfolio" aria-labelledby="portfolio-title">
+            <header class="section-head">
+              <div>
+                <h2 id="portfolio-title">Репертуар</h2>
+                <p id="portfolio-count">—</p>
+              </div>
+              <label class="sort-control">
+                <span>Сортировка</span>
+                <select id="sort-filter">
+                  <option value="priority">По важности</option>
+                  <option value="occupancy">По загрузке</option>
+                  <option value="tickets">По билетам</option>
+                  <option value="screenHours">По экранному времени</option>
+                </select>
+              </label>
+            </header>
+            <div class="portfolio-table" id="portfolio-table" aria-live="polite"></div>
+          </section>
+        </div>
+      </section>
+
+      <section id="film-view" class="view" hidden aria-labelledby="film-title">
+        <button class="back-button" id="back-to-board" type="button"><span aria-hidden="true">←</span> Весь репертуар</button>
+        <header class="film-head" id="film-head"></header>
+        <section class="metric-strip metric-strip--film" id="film-metrics" aria-label="Показатели фильма"></section>
+
+        <div class="film-layout">
+          <div class="film-primary">
+            <section class="analysis-section" aria-labelledby="trend-title">
+              <header class="section-head">
+                <div>
+                  <h2 id="trend-title">Финальная загрузка</h2>
+                  <p>Завершенные сеансы по дням</p>
+                </div>
+              </header>
+              <div class="trend-chart" id="trend-chart"></div>
+            </section>
+
+            <section class="analysis-section" aria-labelledby="cinema-title">
+              <header class="section-head">
+                <div>
+                  <h2 id="cinema-title">Где фильм работает</h2>
+                  <p>Разница между площадками</p>
+                </div>
+              </header>
+              <div class="cinema-performance" id="cinema-performance"></div>
+            </section>
+          </div>
+
+          <aside class="evidence-panel" aria-labelledby="evidence-title">
+            <header class="section-head section-head--compact">
+              <div>
+                <h2 id="evidence-title">Вывод</h2>
+                <p>Почему система это подсвечивает</p>
+              </div>
+            </header>
+            <div id="evidence-content"></div>
+          </aside>
+        </div>
+
+        <section class="analysis-section daypart-section" aria-labelledby="daypart-title">
+          <header class="section-head">
+            <div>
+              <h2 id="daypart-title">Спрос по времени</h2>
+              <p>Загрузка и объем сеансов по частям дня</p>
+            </div>
+          </header>
+          <div class="daypart-grid" id="daypart-grid"></div>
+        </section>
+
+        <section class="analysis-section sessions-section" aria-labelledby="sessions-title">
+          <header class="section-head">
+            <div>
+              <h2 id="sessions-title">Все сеансы</h2>
+              <p id="sessions-caption">—</p>
+            </div>
+            <div class="session-tabs" role="tablist" aria-label="Состояние сеансов">
+              <button class="is-active" type="button" data-session-state="all" role="tab">Все</button>
+              <button type="button" data-session-state="upcoming" role="tab">Предстоящие</button>
+              <button type="button" data-session-state="past" role="tab">Завершенные</button>
+            </div>
+          </header>
+          <div class="session-table" id="session-table"></div>
+        </section>
+      </section>
+    </main>
+
+    <div class="drawer-backdrop" id="drawer-backdrop" hidden></div>
+    <aside class="session-drawer" id="session-drawer" aria-labelledby="drawer-title" aria-hidden="true" inert>
+      <header>
+        <div>
+          <span>Разбор сеанса</span>
+          <h2 id="drawer-title">—</h2>
+        </div>
+        <button class="icon-button" id="close-drawer" type="button" aria-label="Закрыть">×</button>
+      </header>
+      <div id="drawer-content"></div>
+    </aside>
+
+    <script src="app.js"></script>
+  </body>
+</html>

@@ -1,0 +1,72 @@
+/* Hallmark · macrostructure: Index-first control room · tone: operational precise · anchor hue: cobalt */
+@import url("https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wdth,wght@12..96,75..100,500..800&family=IBM+Plex+Mono:wght@500;600&family=IBM+Plex+Sans:wght@400;500;600&display=swap");
+
+:root {
+  color-scheme: light;
+
+  --color-paper: oklch(97.5% 0.006 240);
+  --color-paper-raised: oklch(100% 0 0);
+  --color-paper-muted: oklch(94.8% 0.009 240);
+  --color-paper-strong: oklch(91.5% 0.014 240);
+  --color-ink: oklch(21% 0.025 255);
+  --color-ink-soft: oklch(42% 0.028 255);
+  --color-muted: oklch(56% 0.022 255);
+  --color-rule: oklch(85% 0.018 245);
+  --color-rule-strong: oklch(73% 0.025 245);
+  --color-accent: oklch(52% 0.19 255);
+  --color-accent-strong: oklch(42% 0.19 255);
+  --color-accent-soft: oklch(93% 0.035 255);
+  --color-positive: oklch(54% 0.14 153);
+  --color-positive-soft: oklch(94% 0.04 153);
+  --color-warning: oklch(67% 0.15 72);
+  --color-warning-soft: oklch(95% 0.045 82);
+  --color-critical: oklch(57% 0.2 28);
+  --color-critical-soft: oklch(95% 0.045 28);
+  --color-violet: oklch(57% 0.15 305);
+  --color-violet-soft: oklch(94% 0.035 305);
+  --color-focus: oklch(55% 0.2 255);
+  --color-shadow: oklch(21% 0.025 255 / 0.1);
+  --color-overlay: oklch(21% 0.025 255 / 0.36);
+  --color-transparent: transparent;
+
+  --font-display: "Bricolage Grotesque", "Segoe UI", sans-serif;
+  --font-body: "IBM Plex Sans", "Segoe UI", sans-serif;
+  --font-data: "IBM Plex Mono", "Consolas", monospace;
+
+  --space-3xs: 0.25rem;
+  --space-2xs: 0.5rem;
+  --space-xs: 0.75rem;
+  --space-sm: 1rem;
+  --space-md: 1.5rem;
+  --space-lg: 2rem;
+  --space-xl: 3rem;
+  --space-2xl: 4rem;
+
+  --text-xs: 0.6875rem;
+  --text-sm: 0.8125rem;
+  --text-base: 0.9375rem;
+  --text-md: 1.125rem;
+  --text-lg: 1.375rem;
+  --text-xl: 1.75rem;
+  --text-2xl: 2.25rem;
+
+  --radius-xs: 0.25rem;
+  --radius-sm: 0.4rem;
+  --radius-md: 0.5rem;
+  --rule-thin: 1px;
+  --rule-strong: 2px;
+
+  --ease-out: cubic-bezier(0.16, 1, 0.3, 1);
+  --ease-in: cubic-bezier(0.7, 0, 0.84, 0);
+  --ease-in-out: cubic-bezier(0.65, 0, 0.35, 1);
+  --dur-micro: 100ms;
+  --dur-short: 180ms;
+  --dur-medium: 280ms;
+
+  --topbar-height: 4rem;
+  --content-max: 112rem;
+  --rail-width: 20rem;
+  --z-base: 1;
+  --z-sticky: 20;
+  --z-drawer: 50;
+}
