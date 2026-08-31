@@ -49,6 +49,22 @@ function h(value) {
     .replaceAll("'", "&#039;");
 }
 
+function posterMarkup(event, size = "small", loading = "lazy") {
+  const initial = event.name.trim().charAt(0).toLocaleUpperCase("ru") || "M";
+  const image = event.poster_url
+    ? `<img src="${h(event.poster_url)}" alt="" loading="${loading}" decoding="async" data-poster-image>`
+    : "";
+  return `<span class="poster poster--${size}" aria-hidden="true"><span class="poster__fallback">${h(initial)}</span>${image}</span>`;
+}
+
+function bindPosterFallbacks(root = document) {
+  root.querySelectorAll("[data-poster-image]").forEach((image) => {
+    const hideBrokenImage = () => { image.hidden = true; };
+    image.addEventListener("error", hideBrokenImage, { once: true });
+    if (image.complete && image.naturalWidth === 0) hideBrokenImage();
+  });
+}
+
 function styleFor(signal) {
   return signalStyles[signal] || signalStyles.stable;
 }
@@ -359,8 +375,7 @@ function renderDecisionList(events) {
     const week = film.week ? `${film.week}-я неделя` : "до релиза";
     return `<button class="decision-item" type="button" data-film-id="${film.id}" style="${signalVariables(film)}">
       <span class="decision-item__meta"><span>${h(style.label)}</span><small>${h(week)}</small></span>
-      <strong>${h(film.name)}</strong>
-      <p>${h(film.signalLabel)}</p>
+      <span class="decision-item__body">${posterMarkup(film, "small")}<span class="decision-item__copy"><strong>${h(film.name)}</strong><span>${h(film.signalLabel)}</span></span></span>
       <span class="decision-item__action">${h(film.recommendation)} →</span>
     </button>`;
   }).join("") : `<div class="empty-state"><strong>Событий нет</strong><span>Измени фильтры или раздел репертуара.</span></div>`;
@@ -401,7 +416,7 @@ function renderPortfolio(events) {
     <span>Фильм</span><span>Нед.</span><span>Сеансы</span><span>Билеты</span><span>Экран</span><span>Загрузка</span><span>Состояние</span><span></span>
   </div>`;
   const rows = films.map((film) => `<article class="table-row table-row--film" role="button" tabindex="0" data-film-id="${film.id}" style="${signalVariables(film)}">
-    <div class="film-cell"><i class="signal-bar" aria-hidden="true"></i><div><strong>${h(film.name)}</strong><span>${h(film.recommendation)}</span></div></div>
+    <div class="film-cell"><i class="signal-bar" aria-hidden="true"></i>${posterMarkup(film, "small")}<div><strong>${h(film.name)}</strong><span>${h(film.recommendation)}</span></div></div>
     <div class="data-cell">${film.week || "—"}</div>
     <div class="data-cell">${number.format(film.sessions)}</div>
     <div class="data-cell">${number.format(film.tickets)}</div>
@@ -418,6 +433,7 @@ function renderBoard() {
   renderMetrics(events);
   renderDecisionList(events);
   renderPortfolio(events);
+  bindPosterFallbacks($("board-view"));
   bindFilmLinks();
 }
 
@@ -441,12 +457,13 @@ function renderFilm(event) {
   const reference = filmReferenceShows(event);
   const totalScreenHours = event.shows.reduce((sum, show) => sum + showDurationMinutes(show, event), 0) / 60;
   $("film-view").style.cssText = signalVariables(insight);
-  $("film-head").innerHTML = `<div class="film-head__title">
-    <span>${h(catalogMeta[event.state].label)} · ${event.week ? `${event.week}-я прокатная неделя` : "до релиза"} · ${event.runtime || "—"} мин</span>
-    <h1 id="film-title">${h(event.name)}</h1>
-    <p>Event ID ${event.id} · релиз ${h(longDateFormat.format(new Date(`${event.release_anchor}T12:00:00+03:00`)))}</p>
-  </div>
+  $("film-head").innerHTML = `<div class="film-head__identity">${posterMarkup(event, "large", "eager")}<div class="film-head__title">
+      <span>${h(catalogMeta[event.state].label)} · ${event.week ? `${event.week}-я прокатная неделя` : "до релиза"} · ${event.runtime || "—"} мин</span>
+      <h1 id="film-title">${h(event.name)}</h1>
+      <p>Event ID ${event.id} · релиз ${h(longDateFormat.format(new Date(`${event.release_anchor}T12:00:00+03:00`)))}</p>
+    </div></div>
   <div class="recommendation"><span>${h(style.label)} · ${h(insight.signalLabel)}</span><strong>${h(insight.recommendation)}</strong></div>`;
+  bindPosterFallbacks($("film-head"));
   $("film-metrics").innerHTML = [
     metric("Финальная загрузка", `${percent.format(weightedOccupancy(past7))}%`, `${past7.length} завершенных сеансов за 7 дней`),
     metric("Будущий выкуп", `${percent.format(weightedOccupancy(future))}%`, `${future.length} предстоящих сеансов`),
