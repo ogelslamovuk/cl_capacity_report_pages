@@ -37,6 +37,51 @@ const signalStyles = {
   stable: { color: "var(--color-accent)", soft: "var(--color-accent-soft)", label: "Без отклонений" }
 };
 
+const helpCopy = {
+  snapshot: "Время последней выгрузки из SilverScreen. Все показатели актуальны на этот момент.",
+  period: "Сегодня — сеансы календарного дня снимка. Прошлые 7 — завершенные показы, следующие 7 — опубликованное будущее расписание.",
+  catalog: "Разделяет текущий прокат, будущие релизы, недавно снятые фильмы и специальные показы по состоянию расписания.",
+  search: "Фильтрует репертуар по названию фильма или события.",
+  cinema_filter: "Ограничивает расчеты одной площадкой. «Вся сеть» объединяет все кинотеатры.",
+  week_filter: "Прокатная неделя считается от локальной даты релиза фильма.",
+  signal_filter: "Оставляет фильмы с выбранным типом аналитического сигнала.",
+  reset: "Возвращает фильтры поиска и сортировку к исходным значениям.",
+  sort: "Меняет порядок фильмов в таблице, не изменяя показатели.",
+  signals_section: "Наиболее заметные ситуации по действующим пороговым правилам, отсортированные по приоритету.",
+  portfolio_section: "Полный список событий выбранного раздела с показателями за активный период.",
+  network_occupancy: "Проданные места делятся на доступную вместимость всех сеансов выбранного периода.",
+  network_tickets: "Сумма проданных мест по сеансам выбранного периода.",
+  network_sessions: "Количество активных сеансов, попавших в выбранный период и фильтры.",
+  network_screen: "Суммарная длительность сеансов. При отсутствии времени окончания используется хронометраж фильма.",
+  network_signals: "Количество фильмов с сигналом «проверить» или «возможность».",
+  portfolio_film: "Название фильма и краткая рекомендация по текущему сигналу.",
+  portfolio_week: "Текущая прокатная неделя от локальной даты релиза.",
+  portfolio_sessions: "Количество сеансов фильма в выбранном периоде.",
+  portfolio_tickets: "Проданные места по сеансам выбранного периода.",
+  portfolio_screen: "Суммарное экранное время фильма в выбранном периоде.",
+  portfolio_occupancy: "Взвешенная загрузка: все проданные места делятся на общую вместимость.",
+  portfolio_state: "Сигнал, который сработал по прозрачному пороговому правилу V0.",
+  film_final_occupancy: "Проданные места делятся на вместимость завершенных сеансов за последние семь дней.",
+  film_future_occupancy: "Текущий выкуп предстоящих сеансов на момент снимка.",
+  film_tickets: "Проданные места по всем сеансам фильма в доступном окне данных.",
+  film_sessions: "Все активные сеансы фильма в доступном окне данных.",
+  film_screen: "Суммарная длительность всех сеансов фильма в доступном окне данных.",
+  film_week: "Прокатная неделя от локальной даты релиза. До релиза значение не рассчитывается.",
+  trend_section: "Финальная загрузка завершенных сеансов по дням. До релиза здесь показан текущий выкуп будущих сеансов.",
+  cinema_section: "Сравнение взвешенной загрузки фильма между кинотеатрами.",
+  evidence_section: "Объясняет, какое пороговое правило сработало и на каких фактах основан вывод.",
+  daypart_section: "Сравнивает загрузку утром, днем, вечером и после 22:00.",
+  sessions_section: "Все опубликованные сеансы фильма в окне данных с текущим или финальным заполнением.",
+  session_tabs: "Переключает весь список, будущие продажи и завершенные показы за последние семь дней.",
+  session_time: "Локальные дата и время начала сеанса.",
+  session_cinema: "Площадка, зал и доступная вместимость сеанса.",
+  session_occupancy: "Проданные места делятся на вместимость конкретного сеанса.",
+  session_sold: "Количество проданных мест и полная вместимость зала.",
+  session_fill: "Визуальная шкала текущего или финального заполнения зала.",
+  session_state: "Словесная оценка загрузки по порогам текущей версии.",
+  session_drawer: "Детализация выбранного сеанса на момент текущего снимка SilverScreen."
+};
+
 const $ = (id) => document.getElementById(id);
 let reportData = null;
 
@@ -313,8 +358,140 @@ function periodLabel() {
   return "за завершенные 7 дней";
 }
 
-function metric(label, value, detail, tone = "") {
-  return `<article class="metric ${tone ? `metric--${tone}` : ""}"><span>${h(label)}</span><strong>${h(value)}</strong><small>${h(detail)}</small></article>`;
+function helpTrigger(key, label) {
+  return `<button class="help-trigger" type="button" data-help="${h(key)}" aria-label="Справка: ${h(label)}">i</button>`;
+}
+
+function headerCell(label, helpKey) {
+  return `<span class="table-head-label">${h(label)}${helpTrigger(helpKey, label)}</span>`;
+}
+
+function metric(label, value, detail, tone = "", helpKey = "") {
+  const help = helpKey ? helpTrigger(helpKey, label) : "";
+  return `<article class="metric ${tone ? `metric--${tone}` : ""}"><div class="metric__label"><span>${h(label)}</span>${help}</div><strong>${h(value)}</strong><small>${h(detail)}</small></article>`;
+}
+
+function setupHelpTooltips() {
+  const tooltip = $("help-tooltip");
+  const hoverDelay = 800;
+  let activeTrigger = null;
+  let activation = "";
+  let showTimer = 0;
+  let hideTimer = 0;
+  let transitionTimer = 0;
+
+  const positionTooltip = () => {
+    if (!activeTrigger || tooltip.hidden || !activeTrigger.isConnected) return;
+    const triggerRect = activeTrigger.getBoundingClientRect();
+    const tooltipRect = tooltip.getBoundingClientRect();
+    const viewportWidth = document.documentElement.clientWidth;
+    const gap = 10;
+    const edge = 8;
+    const spaceBelow = window.innerHeight - triggerRect.bottom;
+    const placeBelow = spaceBelow >= tooltipRect.height + gap || spaceBelow >= triggerRect.top;
+    const top = placeBelow
+      ? triggerRect.bottom + gap
+      : triggerRect.top - tooltipRect.height - gap;
+    const unclampedLeft = triggerRect.left + triggerRect.width / 2 - tooltipRect.width / 2;
+    const left = Math.max(edge, Math.min(unclampedLeft, viewportWidth - tooltipRect.width - edge));
+    const arrowLeft = Math.max(10, Math.min(triggerRect.left + triggerRect.width / 2 - left, tooltipRect.width - 10));
+    tooltip.dataset.placement = placeBelow ? "below" : "above";
+    tooltip.style.left = `${Math.round(left)}px`;
+    tooltip.style.top = `${Math.round(Math.max(edge, top))}px`;
+    tooltip.style.setProperty("--tooltip-arrow-left", `${Math.round(arrowLeft)}px`);
+  };
+
+  const showTooltip = (trigger, source) => {
+    const copy = helpCopy[trigger.dataset.help];
+    if (!copy) return;
+    window.clearTimeout(showTimer);
+    window.clearTimeout(hideTimer);
+    window.clearTimeout(transitionTimer);
+    if (activeTrigger && activeTrigger !== trigger) {
+      activeTrigger.removeAttribute("aria-describedby");
+      activeTrigger.setAttribute("aria-expanded", "false");
+    }
+    activeTrigger = trigger;
+    activation = source;
+    tooltip.textContent = copy;
+    tooltip.hidden = false;
+    tooltip.classList.remove("is-visible");
+    trigger.setAttribute("aria-describedby", "help-tooltip");
+    trigger.setAttribute("aria-expanded", "true");
+    positionTooltip();
+    window.requestAnimationFrame(() => tooltip.classList.add("is-visible"));
+  };
+
+  const hideTooltip = (immediate = false) => {
+    window.clearTimeout(showTimer);
+    window.clearTimeout(hideTimer);
+    if (!activeTrigger && tooltip.hidden) return;
+    const trigger = activeTrigger;
+    activeTrigger = null;
+    activation = "";
+    if (trigger) {
+      trigger.removeAttribute("aria-describedby");
+      trigger.setAttribute("aria-expanded", "false");
+    }
+    tooltip.classList.remove("is-visible");
+    const finish = () => {
+      if (!activeTrigger) tooltip.hidden = true;
+    };
+    if (immediate) finish();
+    else transitionTimer = window.setTimeout(finish, 160);
+  };
+
+  document.addEventListener("pointerover", (event) => {
+    const trigger = event.target.closest(".help-trigger");
+    if (!trigger || event.pointerType === "touch" || trigger.contains(event.relatedTarget)) return;
+    window.clearTimeout(hideTimer);
+    showTimer = window.setTimeout(() => showTooltip(trigger, "hover"), hoverDelay);
+  });
+
+  document.addEventListener("pointerout", (event) => {
+    const trigger = event.target.closest(".help-trigger");
+    if (!trigger || trigger.contains(event.relatedTarget)) return;
+    window.clearTimeout(showTimer);
+    if (activeTrigger === trigger && activation !== "tap" && !trigger.matches(":focus-visible")) {
+      hideTimer = window.setTimeout(() => hideTooltip(), 100);
+    }
+  });
+
+  document.addEventListener("focusin", (event) => {
+    const trigger = event.target.closest(".help-trigger");
+    if (trigger) showTooltip(trigger, "focus");
+  });
+
+  document.addEventListener("focusout", (event) => {
+    const trigger = event.target.closest(".help-trigger");
+    if (trigger && activeTrigger === trigger && activation !== "tap") {
+      hideTimer = window.setTimeout(() => hideTooltip(), 100);
+    }
+  });
+
+  document.addEventListener("click", (event) => {
+    const trigger = event.target.closest(".help-trigger");
+    if (trigger) {
+      event.preventDefault();
+      event.stopPropagation();
+      if (window.matchMedia("(hover: none)").matches) {
+        if (activeTrigger === trigger && activation === "tap") hideTooltip();
+        else showTooltip(trigger, "tap");
+      }
+      return;
+    }
+    if (activation === "tap") hideTooltip();
+  });
+
+  document.addEventListener("keydown", (event) => {
+    if (event.key === "Escape" && activeTrigger) {
+      hideTooltip(true);
+      if (document.activeElement?.classList.contains("help-trigger")) document.activeElement.blur();
+    }
+  });
+
+  window.addEventListener("resize", positionTooltip);
+  window.addEventListener("scroll", positionTooltip, { passive: true });
 }
 
 function filteredEvents() {
@@ -359,11 +536,11 @@ function renderMetrics(events) {
   const occupancy = capacity ? Math.round(tickets * 1000 / capacity) / 10 : 0;
   const attention = films.filter((film) => film.signal === "critical" || film.signal === "opportunity").length;
   $("network-metrics").innerHTML = [
-    metric("Загрузка", `${percent.format(occupancy)}%`, periodLabel()),
-    metric("Продано билетов", number.format(tickets), periodLabel()),
-    metric("Сеансы", number.format(sessions), periodLabel()),
-    metric("Экранное время", `${number.format(Math.round(films.reduce((sum, film) => sum + film.screenHours, 0)))} ч`, periodLabel()),
-    metric("Сигналы", number.format(attention), "возможности и проверки", attention ? "critical" : "")
+    metric("Загрузка", `${percent.format(occupancy)}%`, periodLabel(), "", "network_occupancy"),
+    metric("Продано билетов", number.format(tickets), periodLabel(), "", "network_tickets"),
+    metric("Сеансы", number.format(sessions), periodLabel(), "", "network_sessions"),
+    metric("Экранное время", `${number.format(Math.round(films.reduce((sum, film) => sum + film.screenHours, 0)))} ч`, periodLabel(), "", "network_screen"),
+    metric("Сигналы", number.format(attention), "возможности и проверки", attention ? "critical" : "", "network_signals")
   ].join("");
 }
 
@@ -412,8 +589,8 @@ function sortEvents(events) {
 function renderPortfolio(events) {
   const films = sortEvents(events.map(eventView));
   $("portfolio-count").textContent = `${films.length} событий в выбранном разделе`;
-  const head = `<div class="table-row table-row--head" aria-hidden="true">
-    <span>Фильм</span><span>Нед.</span><span>Сеансы</span><span>Билеты</span><span>Экран</span><span>Загрузка</span><span>Состояние</span><span></span>
+  const head = `<div class="table-row table-row--head">
+    ${headerCell("Фильм", "portfolio_film")}${headerCell("Нед.", "portfolio_week")}${headerCell("Сеансы", "portfolio_sessions")}${headerCell("Билеты", "portfolio_tickets")}${headerCell("Экран", "portfolio_screen")}${headerCell("Загрузка", "portfolio_occupancy")}${headerCell("Состояние", "portfolio_state")}<span></span>
   </div>`;
   const rows = films.map((film) => `<article class="table-row table-row--film" role="button" tabindex="0" data-film-id="${film.id}" style="${signalVariables(film)}">
     <div class="film-cell"><i class="signal-bar" aria-hidden="true"></i>${posterMarkup(film, "small")}<div><strong>${h(film.name)}</strong><span>${h(film.recommendation)}</span></div></div>
@@ -465,12 +642,12 @@ function renderFilm(event) {
   <div class="recommendation"><span>${h(style.label)} · ${h(insight.signalLabel)}</span><strong>${h(insight.recommendation)}</strong></div>`;
   bindPosterFallbacks($("film-head"));
   $("film-metrics").innerHTML = [
-    metric("Финальная загрузка", `${percent.format(weightedOccupancy(past7))}%`, `${past7.length} завершенных сеансов за 7 дней`),
-    metric("Будущий выкуп", `${percent.format(weightedOccupancy(future))}%`, `${future.length} предстоящих сеансов`),
-    metric("Продано билетов", number.format(event.shows.reduce((sum, show) => sum + show.ticket_sold, 0)), "во всем окне данных"),
-    metric("Сеансы", number.format(event.shows.length), `${dateFormat.format(new Date(event.first_show))} — ${dateFormat.format(new Date(event.last_show))}`),
-    metric("Экранное время", `${number.format(Math.round(totalScreenHours))} ч`, "во всем окне данных"),
-    metric("Неделя", event.week || "—", event.week ? "от локальной даты релиза" : "релиз впереди")
+    metric("Финальная загрузка", `${percent.format(weightedOccupancy(past7))}%`, `${past7.length} завершенных сеансов за 7 дней`, "", "film_final_occupancy"),
+    metric("Будущий выкуп", `${percent.format(weightedOccupancy(future))}%`, `${future.length} предстоящих сеансов`, "", "film_future_occupancy"),
+    metric("Продано билетов", number.format(event.shows.reduce((sum, show) => sum + show.ticket_sold, 0)), "во всем окне данных", "", "film_tickets"),
+    metric("Сеансы", number.format(event.shows.length), `${dateFormat.format(new Date(event.first_show))} — ${dateFormat.format(new Date(event.last_show))}`, "", "film_sessions"),
+    metric("Экранное время", `${number.format(Math.round(totalScreenHours))} ч`, "во всем окне данных", "", "film_screen"),
+    metric("Неделя", event.week || "—", event.week ? "от локальной даты релиза" : "релиз впереди", "", "film_week")
   ].join("");
   renderTrend(event, past7.length ? past7 : future);
   renderCinemaPerformance(reference);
@@ -572,7 +749,7 @@ function renderSessions(event) {
     return new Date(a.start) - new Date(b.start);
   });
   $("sessions-caption").textContent = `${shows.length} сеансов · последние 7 дней и опубликованное будущее`;
-  const head = `<div class="session-row session-row--head"><span>Время</span><span>Кинотеатр / зал</span><span>Загрузка</span><span>Продано</span><span>Заполнение</span><span>Состояние</span><span></span></div>`;
+  const head = `<div class="session-row session-row--head">${headerCell("Время", "session_time")}${headerCell("Кинотеатр / зал", "session_cinema")}${headerCell("Загрузка", "session_occupancy")}${headerCell("Продано", "session_sold")}${headerCell("Заполнение", "session_fill")}${headerCell("Состояние", "session_state")}<span></span></div>`;
   const rows = shows.map((show) => {
     const zone = zoneFor(show.sold_percent);
     return `<article class="session-row" role="button" tabindex="0" data-session-id="${show.id}" style="--zone-color:${zone.color}">
@@ -705,6 +882,7 @@ function renderFailure(error) {
 }
 
 async function init() {
+  setupHelpTooltips();
   const response = await fetch(`${DATA_URL}?v=${Date.now()}`, { cache: "no-store" });
   if (!response.ok) throw new Error(`HTTP ${response.status}`);
   reportData = await response.json();

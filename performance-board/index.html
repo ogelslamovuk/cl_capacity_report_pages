@@ -7,8 +7,9 @@
     <meta name="theme-color" content="#0d1019">
     <link rel="icon" href="data:,">
     <title>Current Performance Board · mooon</title>
-    <link rel="stylesheet" href="styles.css">
-    <link rel="stylesheet" href="market-theme.css">
+    <link rel="stylesheet" href="styles.css?v=20260901-help2">
+    <link rel="stylesheet" href="market-theme.css?v=20260901-help2">
+    <link rel="stylesheet" href="tooltips.css?v=20260901-help2">
   </head>
   <body data-data-url="data/board.json">
     <header class="topbar">
@@ -19,6 +20,7 @@
       <div class="topbar__context">
         <span class="demo-label">Снимок SilverScreen</span>
         <span class="freshness" id="freshness"><i aria-hidden="true"></i><span>Загрузка данных…</span></span>
+        <button class="help-trigger" type="button" data-help="snapshot" aria-label="Справка о снимке данных">i</button>
       </div>
     </header>
 
@@ -30,37 +32,43 @@
             <h1 id="board-title">Текущий прокат</h1>
             <p id="board-description">Фактические сеансы, вместимость и текущий выкуп.</p>
           </div>
-          <div class="period-switch" role="group" aria-label="Период отчета">
-            <button type="button" data-period="today">Сегодня</button>
-            <button class="is-active" type="button" data-period="7d">Прошлые 7</button>
-            <button type="button" data-period="next">Следующие 7</button>
+          <div class="period-control">
+            <div class="period-switch" role="group" aria-label="Период отчета">
+              <button type="button" data-period="today">Сегодня</button>
+              <button class="is-active" type="button" data-period="7d">Прошлые 7</button>
+              <button type="button" data-period="next">Следующие 7</button>
+            </div>
+            <button class="help-trigger" type="button" data-help="period" aria-label="Справка о периоде отчета">i</button>
           </div>
         </header>
 
-        <nav class="catalog-tabs" id="catalog-tabs" aria-label="Состояние репертуара"></nav>
+        <div class="catalog-control">
+          <nav class="catalog-tabs" id="catalog-tabs" aria-label="Состояние репертуара"></nav>
+          <button class="help-trigger" type="button" data-help="catalog" aria-label="Справка о разделах репертуара">i</button>
+        </div>
 
         <section class="metric-strip" id="network-metrics" aria-label="Сводка сети"></section>
 
         <section class="filter-bar" aria-label="Фильтры репертуара">
-          <label class="search-field">
-            <span class="sr-only">Найти фильм</span>
+          <div class="filter-field search-field">
+            <div class="field-label"><label for="search-input">Поиск</label><button class="help-trigger" type="button" data-help="search" aria-label="Справка о поиске">i</button></div>
             <input id="search-input" type="search" placeholder="Найти фильм">
-          </label>
-          <label>
-            <span>Кинотеатр</span>
+          </div>
+          <div class="filter-field">
+            <div class="field-label"><label for="cinema-filter">Кинотеатр</label><button class="help-trigger" type="button" data-help="cinema_filter" aria-label="Справка о фильтре кинотеатров">i</button></div>
             <select id="cinema-filter"></select>
-          </label>
-          <label>
-            <span>Неделя</span>
+          </div>
+          <div class="filter-field">
+            <div class="field-label"><label for="week-filter">Неделя</label><button class="help-trigger" type="button" data-help="week_filter" aria-label="Справка о прокатной неделе">i</button></div>
             <select id="week-filter">
               <option value="">Все недели</option>
               <option value="1">Премьеры</option>
               <option value="2">2-я неделя</option>
               <option value="3+">3-я и позже</option>
             </select>
-          </label>
-          <label>
-            <span>Сигнал</span>
+          </div>
+          <div class="filter-field">
+            <div class="field-label"><label for="signal-filter">Сигнал</label><button class="help-trigger" type="button" data-help="signal_filter" aria-label="Справка о фильтре сигналов">i</button></div>
             <select id="signal-filter">
               <option value="">Все состояния</option>
               <option value="critical">Требует решения</option>
@@ -68,15 +76,18 @@
               <option value="watch">Наблюдать</option>
               <option value="stable">Стабильно</option>
             </select>
-          </label>
-          <button class="reset-button" id="reset-filters" type="button">Сбросить</button>
+          </div>
+          <div class="reset-control">
+            <button class="reset-button" id="reset-filters" type="button">Сбросить</button>
+            <button class="help-trigger" type="button" data-help="reset" aria-label="Справка о сбросе фильтров">i</button>
+          </div>
         </section>
 
         <div class="board-layout">
           <aside class="decision-rail" aria-labelledby="decisions-title">
             <header class="section-head section-head--compact">
               <div>
-                <h2 id="decisions-title">Сигналы</h2>
+                <div class="section-title-row"><h2 id="decisions-title">Сигналы</h2><button class="help-trigger" type="button" data-help="signals_section" aria-label="Справка о сигналах">i</button></div>
                 <p id="decision-count">—</p>
               </div>
             </header>
@@ -86,18 +97,18 @@
           <section class="portfolio" aria-labelledby="portfolio-title">
             <header class="section-head">
               <div>
-                <h2 id="portfolio-title">Репертуар</h2>
+                <div class="section-title-row"><h2 id="portfolio-title">Репертуар</h2><button class="help-trigger" type="button" data-help="portfolio_section" aria-label="Справка о репертуаре">i</button></div>
                 <p id="portfolio-count">—</p>
               </div>
-              <label class="sort-control">
-                <span>Сортировка</span>
+              <div class="sort-control">
+                <div class="field-label"><label for="sort-filter">Сортировка</label><button class="help-trigger" type="button" data-help="sort" aria-label="Справка о сортировке">i</button></div>
                 <select id="sort-filter">
                   <option value="priority">По важности</option>
                   <option value="occupancy">По загрузке</option>
                   <option value="tickets">По билетам</option>
                   <option value="screenHours">По экранному времени</option>
                 </select>
-              </label>
+              </div>
             </header>
             <div class="portfolio-table" id="portfolio-table" aria-live="polite"></div>
           </section>
@@ -114,7 +125,7 @@
             <section class="analysis-section" aria-labelledby="trend-title">
               <header class="section-head">
                 <div>
-                  <h2 id="trend-title">Финальная загрузка</h2>
+                  <div class="section-title-row"><h2 id="trend-title">Финальная загрузка</h2><button class="help-trigger" type="button" data-help="trend_section" aria-label="Справка о графике загрузки">i</button></div>
                   <p>Завершенные сеансы по дням</p>
                 </div>
               </header>
@@ -124,7 +135,7 @@
             <section class="analysis-section" aria-labelledby="cinema-title">
               <header class="section-head">
                 <div>
-                  <h2 id="cinema-title">Где фильм работает</h2>
+                  <div class="section-title-row"><h2 id="cinema-title">Где фильм работает</h2><button class="help-trigger" type="button" data-help="cinema_section" aria-label="Справка о сравнении кинотеатров">i</button></div>
                   <p>Разница между площадками</p>
                 </div>
               </header>
@@ -135,7 +146,7 @@
           <aside class="evidence-panel" aria-labelledby="evidence-title">
             <header class="section-head section-head--compact">
               <div>
-                <h2 id="evidence-title">Вывод</h2>
+                <div class="section-title-row"><h2 id="evidence-title">Вывод</h2><button class="help-trigger" type="button" data-help="evidence_section" aria-label="Справка об аналитическом выводе">i</button></div>
                 <p>Почему система это подсвечивает</p>
               </div>
             </header>
@@ -146,7 +157,7 @@
         <section class="analysis-section daypart-section" aria-labelledby="daypart-title">
           <header class="section-head">
             <div>
-              <h2 id="daypart-title">Спрос по времени</h2>
+              <div class="section-title-row"><h2 id="daypart-title">Спрос по времени</h2><button class="help-trigger" type="button" data-help="daypart_section" aria-label="Справка о спросе по времени">i</button></div>
               <p>Загрузка и объем сеансов по частям дня</p>
             </div>
           </header>
@@ -156,13 +167,16 @@
         <section class="analysis-section sessions-section" aria-labelledby="sessions-title">
           <header class="section-head">
             <div>
-              <h2 id="sessions-title">Все сеансы</h2>
+              <div class="section-title-row"><h2 id="sessions-title">Все сеансы</h2><button class="help-trigger" type="button" data-help="sessions_section" aria-label="Справка о списке сеансов">i</button></div>
               <p id="sessions-caption">—</p>
             </div>
-            <div class="session-tabs" role="tablist" aria-label="Состояние сеансов">
-              <button class="is-active" type="button" data-session-state="all" role="tab">Все</button>
-              <button type="button" data-session-state="upcoming" role="tab">Предстоящие</button>
-              <button type="button" data-session-state="past" role="tab">Завершенные</button>
+            <div class="session-tab-control">
+              <div class="session-tabs" role="tablist" aria-label="Состояние сеансов">
+                <button class="is-active" type="button" data-session-state="all" role="tab">Все</button>
+                <button type="button" data-session-state="upcoming" role="tab">Предстоящие</button>
+                <button type="button" data-session-state="past" role="tab">Завершенные</button>
+              </div>
+              <button class="help-trigger" type="button" data-help="session_tabs" aria-label="Справка о переключателе сеансов">i</button>
             </div>
           </header>
           <div class="session-table" id="session-table"></div>
@@ -174,7 +188,7 @@
     <aside class="session-drawer" id="session-drawer" aria-labelledby="drawer-title" aria-hidden="true" inert>
       <header>
         <div>
-          <span>Разбор сеанса</span>
+          <span class="drawer-kicker">Разбор сеанса <button class="help-trigger" type="button" data-help="session_drawer" aria-label="Справка о разборе сеанса">i</button></span>
           <h2 id="drawer-title">—</h2>
         </div>
         <button class="icon-button" id="close-drawer" type="button" aria-label="Закрыть">×</button>
@@ -182,6 +196,8 @@
       <div id="drawer-content"></div>
     </aside>
 
-    <script src="app.js"></script>
+    <div class="help-tooltip" id="help-tooltip" role="tooltip" hidden></div>
+
+    <script src="app.js?v=20260901-help2"></script>
   </body>
 </html>

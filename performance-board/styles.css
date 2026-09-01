@@ -5,7 +5,7 @@
 * { box-sizing: border-box; }
 [hidden] { display: none !important; }
 html, body { overflow-x: clip; }
-html { min-width: 320px; background: var(--color-paper); }
+html { min-width: 0; background: var(--color-paper); }
 body {
   margin: 0;
   color: var(--color-ink);

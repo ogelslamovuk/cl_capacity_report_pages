@@ -674,6 +674,11 @@ body::before {
 }
 
 @media (max-width: 24rem) {
+  .topbar,
+  .app-shell {
+    width: calc(100% - 2rem);
+  }
+
   .brand span,
   .demo-label {
     display: none;
